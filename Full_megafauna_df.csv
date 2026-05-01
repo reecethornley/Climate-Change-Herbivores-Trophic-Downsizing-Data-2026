@@ -1,0 +1,2658 @@
+survey_code_reserve,stratum,area_km2,species.name,density,total_individuals,country
+TCD_ZAK,1,898.997,African Buffalo,0.003337052,3,Chad
+TCD_ZAK,1,898.997,Common Duiker,0.002224702,2,Chad
+TCD_ZAK,1,898.997,Common Warthog,0.037819926,34,Chad
+TCD_ZAK,1,898.997,Giraffe,0.010011157,9,Chad
+TCD_ZAK,1,898.997,Hartebeest,0.031145821,28,Chad
+TCD_ZAK,1,898.997,Oribi,0.001112351,1,Chad
+TCD_ZAK,1,898.997,Roan Antelope,0.063403994,57,Chad
+TCD_ZAK,1,898.997,Slender-horned Gazelle,0.001112351,1,Chad
+TCD_ZAK,1,898.997,Waterbuck,0.002224702,2,Chad
+KEN_LAM,151,924.524,African Buffalo,0.112490319,104,Kenya
+KEN_LAM,151,924.524,Common Warthog,0.003244913,3,Kenya
+KEN_LAM,151,924.524,Lesser Kudu,0.009734739,9,Kenya
+KEN_LAM,151,924.524,Waterbuck,0.007571464,7,Kenya
+KEN_LAM,152,267.997,African Buffalo,1.701511584,456,Kenya
+KEN_LAM,152,267.997,Common Hippopotamus,0.00746277,2,Kenya
+KEN_LAM,152,267.997,Common Warthog,0.026119695,7,Kenya
+KEN_LAM,152,267.997,Plains Zebra,0.02985108,8,Kenya
+KEN_LAM,152,267.997,Topi,1.40300078,376,Kenya
+KEN_LAM,152,267.997,Waterbuck,0.227614488,61,Kenya
+KEN_LAM,153,776.929,Bushbuck,0.001287119,1,Kenya
+KEN_LAM,153,776.929,Common Hippopotamus,0.006435595,5,Kenya
+KEN_LAM,153,776.929,Common Warthog,0.006435595,5,Kenya
+KEN_LAM,153,776.929,Gerenuk,0.009009832,7,Kenya
+KEN_LAM,153,776.929,Giraffe,0.065643064,51,Kenya
+KEN_LAM,153,776.929,Lesser Kudu,0.006435595,5,Kenya
+KEN_LAM,154,900.255,African Buffalo,1.660640596,1495,Kenya
+KEN_LAM,154,900.255,Common Hippopotamus,0.044431855,40,Kenya
+KEN_LAM,154,900.255,Common Warthog,0.029991502,27,Kenya
+KEN_LAM,154,900.255,Giraffe,0.162176272,146,Kenya
+KEN_LAM,154,900.255,Topi,0.271034318,244,Kenya
+KEN_LAM,154,900.255,Waterbuck,0.018883539,17,Kenya
+KEN_LAM,155,900.042,African Buffalo,2.244339709,2020,Kenya
+KEN_LAM,155,900.042,Beisa Oryx,0.003333178,3,Kenya
+KEN_LAM,155,900.042,Common Hippopotamus,0.057775082,52,Kenya
+KEN_LAM,155,900.042,Common Warthog,0.021110126,19,Kenya
+KEN_LAM,155,900.042,Gerenuk,0.001111059,1,Kenya
+KEN_LAM,155,900.042,Giraffe,0.194435371,175,Kenya
+KEN_LAM,155,900.042,Impala,0.002222119,2,Kenya
+KEN_LAM,155,900.042,Plains Zebra,0.696634157,627,Kenya
+KEN_LAM,155,900.042,Topi,1.76102893,1585,Kenya
+KEN_LAM,155,900.042,Waterbuck,0.067774615,61,Kenya
+KEN_LAM,156,652.393,African Buffalo,0.062845555,41,Kenya
+KEN_LAM,156,652.393,Common Warthog,0.003065637,2,Kenya
+KEN_LAM,156,652.393,Giraffe,0.004598455,3,Kenya
+KEN_LAM,156,652.393,Topi,0.052115826,34,Kenya
+KEN_LAM,156,652.393,Waterbuck,0.001532818,1,Kenya
+KEN_LAM,157,715.176,African Buffalo,0.103471034,74,Kenya
+KEN_LAM,157,715.176,African Savannah Elephant,0.079700661,57,Kenya
+KEN_LAM,157,715.176,Common Warthog,0.013982572,10,Kenya
+KEN_LAM,157,715.176,Gerenuk,0.016779087,12,Kenya
+KEN_LAM,157,715.176,Giraffe,0.033558173,24,Kenya
+KEN_LAM,157,715.176,Hartebeest,0.011186058,8,Kenya
+KEN_LAM,157,715.176,Lesser Kudu,0.032159916,23,Kenya
+KEN_LAM,157,715.176,Plains Zebra,0.019575601,14,Kenya
+KEN_LAM,158,900.255,African Buffalo,2.728115923,2456,Kenya
+KEN_LAM,158,900.255,Bushbuck,0.005553982,5,Kenya
+KEN_LAM,158,900.255,Common Eland,0.01221876,11,Kenya
+KEN_LAM,158,900.255,Common Warthog,0.058872208,53,Kenya
+KEN_LAM,158,900.255,Gerenuk,0.048875041,44,Kenya
+KEN_LAM,158,900.255,Giraffe,0.910853036,820,Kenya
+KEN_LAM,158,900.255,Hartebeest,0.011107964,10,Kenya
+KEN_LAM,158,900.255,Hirola,0.036656281,33,Kenya
+KEN_LAM,158,900.255,Lesser Kudu,0.061093801,55,Kenya
+KEN_LAM,158,900.255,Plains Zebra,0.013329557,12,Kenya
+KEN_LAM,158,900.255,Topi,0.925293389,833,Kenya
+KEN_LAM,158,900.255,Waterbuck,0.028880706,26,Kenya
+KEN_LAM,159,900.042,African Buffalo,2.19656416,1977,Kenya
+KEN_LAM,159,900.042,Common Eland,0.001111059,1,Kenya
+KEN_LAM,159,900.042,Common Hippopotamus,0.002222119,2,Kenya
+KEN_LAM,159,900.042,Common Warthog,0.004444237,4,Kenya
+KEN_LAM,159,900.042,Gerenuk,0.038887074,35,Kenya
+KEN_LAM,159,900.042,Giraffe,0.606638357,546,Kenya
+KEN_LAM,159,900.042,Hirola,0.012221652,11,Kenya
+KEN_LAM,159,900.042,Plains Zebra,0.033331778,30,Kenya
+KEN_LAM,159,900.042,Topi,2.763204384,2487,Kenya
+KEN_LAM,159,900.042,Waterbuck,0.103328511,93,Kenya
+KEN_LAM,160,791.596,African Buffalo,1.308748402,1036,Kenya
+KEN_LAM,160,791.596,Bushbuck,0.002526541,2,Kenya
+KEN_LAM,160,791.596,Common Warthog,0.036634849,29,Kenya
+KEN_LAM,160,791.596,Gerenuk,0.015159248,12,Kenya
+KEN_LAM,160,791.596,Giraffe,0.13516996,107,Kenya
+KEN_LAM,160,791.596,Hartebeest,0.002526541,2,Kenya
+KEN_LAM,160,791.596,Hirola,0.010106165,8,Kenya
+KEN_LAM,160,791.596,Lesser Kudu,0.010106165,8,Kenya
+KEN_LAM,160,791.596,Southern Reedbuck,0.010106165,8,Kenya
+KEN_LAM,160,791.596,Topi,1.762262568,1395,Kenya
+KEN_LAM,160,791.596,Waterbuck,0.079586051,63,Kenya
+KEN_LAM,161,444.733,African Buffalo,0.191125912,85,Kenya
+KEN_LAM,161,444.733,Bushbuck,0.00674562,3,Kenya
+KEN_LAM,161,444.733,Common Warthog,0.011242701,5,Kenya
+KEN_LAM,161,444.733,Waterbuck,0.011242701,5,Kenya
+KEN_LAM,162,835.655,African Buffalo,0.11009328,92,Kenya
+KEN_LAM,162,835.655,Beisa Oryx,0.002393332,2,Kenya
+KEN_LAM,162,835.655,Common Warthog,0.171123251,143,Kenya
+KEN_LAM,162,835.655,Gerenuk,0.022736656,19,Kenya
+KEN_LAM,162,835.655,Giraffe,0.874762911,731,Kenya
+KEN_LAM,162,835.655,Grant's Gazelle,0.001196666,1,Kenya
+KEN_LAM,162,835.655,Greater Kudu,0.019146657,16,Kenya
+KEN_LAM,162,835.655,Hirola,0.03350665,28,Kenya
+KEN_LAM,162,835.655,Lesser Kudu,0.08256996,69,Kenya
+KEN_LAM,162,835.655,Plains Zebra,0.056243306,47,Kenya
+KEN_LAM,162,835.655,Topi,0.031113318,26,Kenya
+KEN_LAM,162,835.655,Waterbuck,0.002393332,2,Kenya
+KEN_LAM,163,900.042,African Buffalo,0.995509098,896,Kenya
+KEN_LAM,163,900.042,African Savannah Elephant,0.001111059,1,Kenya
+KEN_LAM,163,900.042,Common Hippopotamus,0.008888474,8,Kenya
+KEN_LAM,163,900.042,Common Warthog,0.023332244,21,Kenya
+KEN_LAM,163,900.042,Gerenuk,0.052219785,47,Kenya
+KEN_LAM,163,900.042,Giraffe,0.329984601,297,Kenya
+KEN_LAM,163,900.042,Hartebeest,0.002222119,2,Kenya
+KEN_LAM,163,900.042,Hirola,0.0299986,27,Kenya
+KEN_LAM,163,900.042,Lesser Kudu,0.001111059,1,Kenya
+KEN_LAM,163,900.042,Plains Zebra,0.013332711,12,Kenya
+KEN_LAM,163,900.042,Topi,0.663302379,597,Kenya
+KEN_LAM,163,900.042,Waterbuck,0.019999067,18,Kenya
+KEN_LAM,164,644.11,African Buffalo,1.745043548,1124,Kenya
+KEN_LAM,164,644.11,African Savannah Elephant,0.00155253,1,Kenya
+KEN_LAM,164,644.11,Common Hippopotamus,0.006210119,4,Kenya
+KEN_LAM,164,644.11,Common Warthog,0.00310506,2,Kenya
+KEN_LAM,164,644.11,Gerenuk,0.013972769,9,Kenya
+KEN_LAM,164,644.11,Giraffe,0.043470836,28,Kenya
+KEN_LAM,164,644.11,Topi,1.024669699,660,Kenya
+KEN_LAM,164,644.11,Waterbuck,0.012420239,8,Kenya
+KEN_LAM,165,899.496,African Buffalo,0.212341133,191,Kenya
+KEN_LAM,165,899.496,Common Hippopotamus,0.015564272,14,Kenya
+KEN_LAM,165,899.496,Lesser Kudu,0.003335201,3,Kenya
+KEN_LAM,165,899.496,Topi,0.83935893,755,Kenya
+KEN_LAM,165,899.496,Waterbuck,0.02112294,19,Kenya
+KEN_LAM,166,481.222,African Buffalo,0.078965633,38,Kenya
+KEN_LAM,166,481.222,Common Warthog,0.006234129,3,Kenya
+KEN_LAM,166,481.222,Topi,0.218194513,105,Kenya
+KEN_LAM,167,959.254,African Buffalo,0.067760989,65,Kenya
+KEN_LAM,167,959.254,Beisa Oryx,0.009382291,9,Kenya
+KEN_LAM,167,959.254,Common Warthog,0.022934489,22,Kenya
+KEN_LAM,167,959.254,Gerenuk,0.008339814,8,Kenya
+KEN_LAM,167,959.254,Giraffe,0.15115913,145,Kenya
+KEN_LAM,167,959.254,Grant's Gazelle,0.010424768,10,Kenya
+KEN_LAM,167,959.254,Impala,0.006254861,6,Kenya
+KEN_LAM,167,959.254,Lesser Kudu,0.055251268,53,Kenya
+KEN_LAM,167,959.254,Waterbuck,0.001042477,1,Kenya
+KEN_LAM,168,899.789,African Buffalo,1.140267329,1026,Kenya
+KEN_LAM,168,899.789,African Savannah Elephant,0.001111372,1,Kenya
+KEN_LAM,168,899.789,Common Warthog,0.027784292,25,Kenya
+KEN_LAM,168,899.789,Gerenuk,0.024450177,22,Kenya
+KEN_LAM,168,899.789,Giraffe,0.082241503,74,Kenya
+KEN_LAM,168,899.789,Hirola,0.017781947,16,Kenya
+KEN_LAM,168,899.789,Impala,0.018893318,17,Kenya
+KEN_LAM,168,899.789,Lesser Kudu,0.005556858,5,Kenya
+KEN_LAM,168,899.789,Topi,0.38008911,342,Kenya
+KEN_LAM,168,899.789,Waterbuck,0.031118407,28,Kenya
+KEN_LAM,169,558.021,African Buffalo,0.053761418,30,Kenya
+KEN_LAM,169,558.021,Common Hippopotamus,0.035840945,20,Kenya
+KEN_LAM,169,558.021,Gerenuk,0.017920473,10,Kenya
+KEN_LAM,169,558.021,Hartebeest,0.001792047,1,Kenya
+KEN_LAM,169,558.021,Topi,0.440843624,246,Kenya
+KEN_LAM,169,558.021,Waterbuck,0.057345512,32,Kenya
+KEN_LAM,170,513.066,African Buffalo,0.94919562,487,Kenya
+KEN_LAM,170,513.066,Beisa Oryx,0.003898134,2,Kenya
+KEN_LAM,170,513.066,Common Warthog,0.130587488,67,Kenya
+KEN_LAM,170,513.066,Gerenuk,0.033134139,17,Kenya
+KEN_LAM,170,513.066,Giraffe,0.126689354,65,Kenya
+KEN_LAM,170,513.066,Hirola,0.017541603,9,Kenya
+KEN_LAM,170,513.066,Lesser Kudu,0.050675742,26,Kenya
+KEN_LAM,170,513.066,Topi,0.001949067,1,Kenya
+KEN_LAM,171,701.096,African Buffalo,0.08700663,61,Kenya
+KEN_LAM,171,701.096,Common Duiker,0.008558029,6,Kenya
+KEN_LAM,171,701.096,Common Warthog,0.144060157,101,Kenya
+KEN_LAM,171,701.096,Gerenuk,0.025674087,18,Kenya
+KEN_LAM,171,701.096,Giraffe,0.059906204,42,Kenya
+KEN_LAM,171,701.096,Hartebeest,0.019968735,14,Kenya
+KEN_LAM,171,701.096,Lesser Kudu,0.017116058,12,Kenya
+KEN_LAM,171,701.096,Waterbuck,0.001426338,1,Kenya
+TCD_RFBL,1a,329.993,Common Duiker,0.048485877,16,Chad
+TCD_RFBL,1a,329.993,Common Warthog,0.003030367,1,Chad
+TCD_RFBL,1a,329.993,Giraffe,0.021212571,7,Chad
+TCD_RFBL,1a,329.993,Oribi,0.024242938,8,Chad
+TCD_RFBL,1a,329.993,Roan Antelope,0.169700569,56,Chad
+TCD_ZAK,2,519.309,African Buffalo,0.048140895,25,Chad
+TCD_ZAK,2,519.309,African Savannah Elephant,0.001925636,1,Chad
+TCD_ZAK,2,519.309,Common Warthog,0.028884537,15,Chad
+TCD_ZAK,2,519.309,Giraffe,0.107835605,56,Chad
+TCD_ZAK,2,519.309,Greater Kudu,0.02310763,12,Chad
+TCD_ZAK,2,519.309,Hartebeest,0.046215259,24,Chad
+TCD_ZAK,2,519.309,Roan Antelope,0.182935401,95,Chad
+TCD_ZAK,2,519.309,Southern Reedbuck,0.001925636,1,Chad
+TCD_ZAK,2,519.309,Waterbuck,0.038512716,20,Chad
+TCD_RFBL,2a,1262.42,African Savannah Elephant,0.105353211,133,Chad
+TCD_RFBL,2a,1262.42,Common Duiker,0.023763882,30,Chad
+TCD_RFBL,2a,1262.42,Common Warthog,0.003960647,5,Chad
+TCD_RFBL,2a,1262.42,Horse,0.002376388,3,Chad
+TCD_RFBL,2a,1262.42,Oribi,0.007129165,9,Chad
+TCD_RFBL,2a,1262.42,Roan Antelope,0.071291646,90,Chad
+TCD_RFBL,2a,1262.42,Slender-horned Gazelle,0.003168518,4,Chad
+TCD_RFBL,2a,1262.42,Southern Reedbuck,0.007921294,10,Chad
+TCD_ZAK,3,683.204,African Buffalo,5.76840885,3941,Chad
+TCD_ZAK,3,683.204,African Savannah Elephant,1.129969965,772,Chad
+TCD_ZAK,3,683.204,Bushbuck,0.001463692,1,Chad
+TCD_ZAK,3,683.204,Common Duiker,0.001463692,1,Chad
+TCD_ZAK,3,683.204,Common Warthog,0.311766325,213,Chad
+TCD_ZAK,3,683.204,Giraffe,0.165397158,113,Chad
+TCD_ZAK,3,683.204,Hartebeest,1.724228781,1178,Chad
+TCD_ZAK,3,683.204,Roan Antelope,0.357140766,244,Chad
+TCD_ZAK,3,683.204,Southern Reedbuck,0.060011358,41,Chad
+TCD_ZAK,3,683.204,Topi,0.250291275,171,Chad
+TCD_ZAK,3,683.204,Waterbuck,0.668907091,457,Chad
+TCD_RFBL,3a,164.726,Common Duiker,0.006070687,1,Chad
+TCD_ZAK,4,629.513,African Buffalo,6.859270579,4318,Chad
+TCD_ZAK,4,629.513,African Savannah Elephant,0.012708236,8,Chad
+TCD_ZAK,4,629.513,Bushbuck,0.003177059,2,Chad
+TCD_ZAK,4,629.513,Common Duiker,0.004765589,3,Chad
+TCD_ZAK,4,629.513,Common Warthog,0.185857957,117,Chad
+TCD_ZAK,4,629.513,Giraffe,0.795853302,501,Chad
+TCD_ZAK,4,629.513,Hartebeest,1.023013028,644,Chad
+TCD_ZAK,4,629.513,Horse,0.015885295,10,Chad
+TCD_ZAK,4,629.513,Roan Antelope,0.206508841,130,Chad
+TCD_ZAK,4,629.513,Slender-horned Gazelle,0.004765589,3,Chad
+TCD_ZAK,4,629.513,Southern Reedbuck,0.478147393,301,Chad
+TCD_ZAK,4,629.513,Topi,0.814915657,513,Chad
+TCD_ZAK,4,629.513,Waterbuck,0.625880641,394,Chad
+TCD_RFBL,4a,359.595,Common Duiker,0.002780906,1,Chad
+TCD_RFBL,4a,359.595,Common Hippopotamus,0.027809063,10,Chad
+TCD_RFBL,4a,359.595,Horse,0.016685438,6,Chad
+TCD_ZAK,5,421.692,African Buffalo,6.319778416,2665,Chad
+TCD_ZAK,5,421.692,African Savannah Elephant,0.007114197,3,Chad
+TCD_ZAK,5,421.692,Common Warthog,0.139912543,59,Chad
+TCD_ZAK,5,421.692,Giraffe,0.602335354,254,Chad
+TCD_ZAK,5,421.692,Hartebeest,0.739876498,312,Chad
+TCD_ZAK,5,421.692,Roan Antelope,0.528821984,223,Chad
+TCD_ZAK,5,421.692,Slender-horned Gazelle,0.004742798,2,Chad
+TCD_ZAK,5,421.692,Southern Reedbuck,0.099598759,42,Chad
+TCD_ZAK,5,421.692,Topi,0.984130598,415,Chad
+TCD_ZAK,5,421.692,Waterbuck,0.83236106,351,Chad
+KEN_TSV,Amboseli High Core,1651.259,African Buffalo,0.226090113,373.3333333,Kenya
+KEN_TSV,Amboseli High Core,1651.259,African Savannah Elephant,1.069890712,1766.666667,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Common Eland,0.177642231,293.3333333,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Common Hippopotamus,0.092858439,153.3333333,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Common Warthog,0.125157027,206.6666667,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Common Wildebeest,1.639153317,2706.666667,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Giraffe,0.444105578,733.3333333,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Impala,0.286649964,473.3333333,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Plains Zebra,3.26215734,5386.666667,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Thomson's Gazelle,2.571775031,4246.666667,Kenya
+KEN_TSV,Amboseli High Core,1651.259,Topi,0.028261264,46.66666667,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,African Buffalo,0.283214613,533.3333333,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,African Savannah Elephant,0.150457763,283.3333333,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Beisa Oryx,0.177009133,333.3333333,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Common Eland,0.274364157,516.6666667,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Common Warthog,0.061953197,116.6666667,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Common Wildebeest,0.66378425,1250,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Giraffe,0.885045667,1666.666667,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Greater Kudu,0.070803653,133.3333333,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Impala,0.203560503,383.3333333,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Plains Zebra,2.1241096,4000,Kenya
+KEN_TSV,Amboseli Medium North,1883.142,Thomson's Gazelle,2.221464623,4183.333333,Kenya
+ZWE_SELV,Border Chefu,412.893,Common Duiker,0.198287074,81.87134503,Zimbabwe
+ZWE_SELV,Border Chefu,412.893,Greater Kudu,0.311593974,128.6549708,Zimbabwe
+ZWE_SELV,Border Chefu,412.893,Impala,0.028326725,11.69590643,Zimbabwe
+ZWE_SELV,Border Chefu,412.893,Steenbok,0.05665345,23.39181287,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Common Duiker,0.190219381,79.20792079,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Greater Kudu,0.118887113,49.5049505,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Impala,0.285329071,118.8118812,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Nyala,0.071332268,29.7029703,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Plains Zebra,0.166441958,69.30693069,Zimbabwe
+ZWE_SELV,Border Maunge,416.403,Steenbok,0.071332268,29.7029703,Zimbabwe
+TCD_CHA,Bousso,1256.847,African Savannah Elephant,0.033416955,42,Chad
+TCD_CHA,Bousso,1256.847,Common Duiker,0.023073612,29,Chad
+TCD_CHA,Bousso,1256.847,Common Hippopotamus,0.001591284,2,Chad
+TCD_CHA,Bousso,1256.847,Common Warthog,0.032621313,41,Chad
+TCD_CHA,Bousso,1256.847,Horse,0.215618926,271,Chad
+TCD_CHA,Bousso,1256.847,Roan Antelope,0.000795642,1,Chad
+TCD_CHA,Bousso,1256.847,Slender-horned Gazelle,0.011934627,15,Chad
+ZWE_SEB,Busi,445.489,African Savannah Elephant,0.796501959,354.8328614,Zimbabwe
+ZWE_SEB,Busi,445.489,Bushbuck,0.009713439,4.327230017,Zimbabwe
+ZWE_SEB,Busi,445.489,Common Duiker,0.009713439,4.327230017,Zimbabwe
+ZWE_SEB,Busi,445.489,Greater Kudu,0.029140316,12.98169005,Zimbabwe
+ZWE_SEB,Busi,445.489,Waterbuck,0.009713439,4.327230017,Zimbabwe
+ZWE_MAT,Central A,769.004,African Savannah Elephant,2.694997384,2072.463768,Zimbabwe
+ZWE_MAT,Central A,769.004,Common Duiker,0.018846136,14.49275362,Zimbabwe
+ZWE_MAT,Central A,769.004,Giraffe,0.018846136,14.49275362,Zimbabwe
+ZWE_MAT,Central A,769.004,Sable Antelope,0.018846136,14.49275362,Zimbabwe
+ZWE_MAT,Central B,1721.637,African Savannah Elephant,0.281620623,484.8484848,Zimbabwe
+ZWE_MAT,Central B,1721.637,Common Eland,0.017601289,30.3030303,Zimbabwe
+ZWE_MAT,Central B,1721.637,Giraffe,0.035202578,60.60606061,Zimbabwe
+ZWE_MAT,Central B,1721.637,Greater Kudu,0.008800644,15.15151515,Zimbabwe
+ZWE_MAT,Central B,1721.637,Steenbok,0.017601289,30.3030303,Zimbabwe
+KEN_LAI,CentralHigh,2513.64,African Savannah Elephant,0.716092997,1800,Kenya
+KEN_LAI,CentralHigh,2513.64,Beisa Oryx,0.029837208,75,Kenya
+KEN_LAI,CentralHigh,2513.64,Common Eland,0.037793797,95,Kenya
+KEN_LAI,CentralHigh,2513.64,Common Warthog,0.095479066,240,Kenya
+KEN_LAI,CentralHigh,2513.64,Gerenuk,0.39981859,1005,Kenya
+KEN_LAI,CentralHigh,2513.64,Giraffe,0.541048042,1360,Kenya
+KEN_LAI,CentralHigh,2513.64,Greater Kudu,0.01392403,35,Kenya
+KEN_LAI,CentralHigh,2513.64,Grevy's Zebra,0.039782944,100,Kenya
+KEN_LAI,CentralHigh,2513.64,Impala,0.04972868,125,Kenya
+KEN_LAI,CentralHigh,2513.64,Plains Zebra,0.145207747,365,Kenya
+KEN_LAI,CentralHigh,2513.64,Thomson's Gazelle,0.222784488,560,Kenya
+BWA_NOR,CH1,1081.611,African Buffalo,25.06981667,27115.78947,Botswana
+BWA_NOR,CH1,1081.611,African Savannah Elephant,4.126398395,4463.157895,Botswana
+BWA_NOR,CH1,1081.611,Common Eland,0.004866036,5.263157895,Botswana
+BWA_NOR,CH1,1081.611,Common Hippopotamus,0.184909362,200,Botswana
+BWA_NOR,CH1,1081.611,Common Warthog,0.204373505,221.0526316,Botswana
+BWA_NOR,CH1,1081.611,Common Wildebeest,0.05839243,63.15789474,Botswana
+BWA_NOR,CH1,1081.611,Giraffe,0.107052789,115.7894737,Botswana
+BWA_NOR,CH1,1081.611,Greater Kudu,0.048660358,52.63157895,Botswana
+BWA_NOR,CH1,1081.611,Impala,0.379550796,410.5263158,Botswana
+BWA_NOR,CH1,1081.611,Plains Zebra,2.476812244,2678.947368,Botswana
+BWA_NOR,CH1,1081.611,Roan Antelope,0.014598108,15.78947368,Botswana
+BWA_NOR,CH1,1081.611,Sable Antelope,0.442809262,478.9473684,Botswana
+BWA_NOR,CH1,1081.611,Topi,0.004866036,5.263157895,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,African Buffalo,2.683778482,3478.571429,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,African Savannah Elephant,2.92074455,3785.714286,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Common Eland,0.016532516,21.42857143,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Common Warthog,0.022043355,28.57142857,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Giraffe,0.066130065,85.71428571,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Impala,0.187368518,242.8571429,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Plains Zebra,0.115727614,150,Botswana
+BWA_NOR,CH2 Chobe FR,1296.147,Sable Antelope,0.027554194,35.71428571,Botswana
+BWA_NOR,CH5,1452.538,African Savannah Elephant,0.593788252,862.5,Botswana
+BWA_NOR,CH5,1452.538,Common Eland,0.18932379,275,Botswana
+BWA_NOR,CH5,1452.538,Common Wildebeest,0.008605627,12.5,Botswana
+BWA_NOR,CH5,1452.538,Greater Kudu,0.017211254,25,Botswana
+BWA_NOR,CH5,1452.538,Impala,0.051633761,75,Botswana
+BWA_NOR,CH5,1452.538,Plains Zebra,0.034422507,50,Botswana
+BWA_NOR,CH5,1452.538,Sable Antelope,0.249563178,362.5,Botswana
+BWA_NOR,CH5,1452.538,Topi,0.103267522,150,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,African Buffalo,0.078382811,287.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,African Savannah Elephant,1.250717032,4587.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Common Eland,0.071566915,262.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Common Warthog,0.030671535,112.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Gemsbok,0.027263587,100,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Giraffe,0.078382811,287.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Greater Kudu,0.044303328,162.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Impala,0.051119225,187.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Plains Zebra,0.027263587,100,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Roan Antelope,0.051119225,187.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Sable Antelope,0.146541778,537.5,Botswana
+BWA_NOR,"CH7, 8, 11 and 12",3667.896,Topi,0.006815897,25,Botswana
+ZWE_ZV,Chapoto,281.827,African Savannah Elephant,2.888131685,813.9534884,Zimbabwe
+ZWE_ZV,Chapoto,281.827,Common Duiker,0.082518048,23.25581395,Zimbabwe
+ZWE_SELV,Chefu,1012.309,African Buffalo,1.234800837,1250,Zimbabwe
+ZWE_SELV,Chefu,1012.309,African Savannah Elephant,1.56408106,1583.333333,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Bushbuck,0.027440019,27.77777778,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Common Duiker,0.082320056,83.33333333,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Common Eland,0.027440019,27.77777778,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Common Warthog,0.018293346,18.51851852,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Giraffe,0.100613401,101.8518519,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Greater Kudu,0.155493439,157.4074074,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Impala,0.201226803,203.7037037,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Plains Zebra,0.109760074,111.1111111,Zimbabwe
+ZWE_SELV,Chefu,1012.309,Steenbok,0.036586691,37.03703704,Zimbabwe
+ZWE_SEB,Chete East,501.325,African Buffalo,0.468986523,235.1146685,Zimbabwe
+ZWE_SEB,Chete East,501.325,African Savannah Elephant,0.080859745,40.53701181,Zimbabwe
+ZWE_SEB,Chete West,741.032,African Buffalo,0.126949191,94.07341272,Zimbabwe
+ZWE_SEB,Chete West,741.032,African Savannah Elephant,0.262966181,194.8663549,Zimbabwe
+ZWE_SEB,Chete West,741.032,Common Duiker,0.018135599,13.43905896,Zimbabwe
+ZWE_SEB,Chete West,741.032,Common Warthog,0.036271197,26.87811792,Zimbabwe
+ZWE_SEB,Chete West,741.032,Greater Kudu,0.063474595,47.03670636,Zimbabwe
+ZWE_SEB,Chete West,741.032,Impala,0.172288187,127.6710601,Zimbabwe
+ZWE_SEB,Chete West,741.032,Plains Zebra,0.045338997,33.5976474,Zimbabwe
+ZWE_SEB,Chete West,741.032,Sable Antelope,0.009067799,6.71952948,Zimbabwe
+ZWE_SEB,Chete West,741.032,Steenbok,0.018135599,13.43905896,Zimbabwe
+ZWE_SEB,Chete West,741.032,Waterbuck,0.036271197,26.87811792,Zimbabwe
+ZWE_ZV,Chewore I,795.045,African Buffalo,0.887852075,705.8823529,Zimbabwe
+ZWE_ZV,Chewore I,795.045,African Savannah Elephant,3.206132493,2549.019608,Zimbabwe
+ZWE_ZV,Chewore I,795.045,Common Hippopotamus,0.123312788,98.03921569,Zimbabwe
+ZWE_ZV,Chewore I,795.045,Greater Kudu,0.320613249,254.9019608,Zimbabwe
+ZWE_ZV,Chewore I,795.045,Impala,0.073987673,58.82352941,Zimbabwe
+ZWE_ZV,Chewore I,795.045,Plains Zebra,0.098650231,78.43137255,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,African Savannah Elephant,0.508775603,537.5494071,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,Common Warthog,0.007481994,7.90513834,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,Greater Kudu,0.02618698,27.66798419,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,Impala,0.172085866,181.8181818,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,Plains Zebra,0.044891965,47.43083004,Zimbabwe
+ZWE_ZV,Chewore II Hills,1056.555,Sable Antelope,0.003740997,3.95256917,Zimbabwe
+ZWE_ZV,Chewore III,975.698,African Savannah Elephant,3.074721891,3000,Zimbabwe
+ZWE_ZV,Chewore III,975.698,Common Eland,0.170817883,166.6666667,Zimbabwe
+ZWE_ZV,Chewore III,975.698,Common Warthog,0.018979765,18.51851852,Zimbabwe
+ZWE_ZV,Chewore III,975.698,Impala,0.170817883,166.6666667,Zimbabwe
+ZWE_ZV,Chewore III,975.698,Plains Zebra,0.151838118,148.1481481,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,African Buffalo,0.023847327,10.75268817,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,African Savannah Elephant,3.899037954,1758.064516,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Common Wildebeest,0.059618317,26.88172043,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Giraffe,0.011923663,5.376344086,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Greater Kudu,0.071541981,32.25806452,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Impala,0.965816741,435.483871,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Nyala,0.047694654,21.50537634,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Plains Zebra,0.03577099,16.12903226,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Sable Antelope,0.047694654,21.50537634,Zimbabwe
+ZWE_SELV,Chilojo A,450.897,Waterbuck,0.202702279,91.39784946,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,African Buffalo,3.976606157,2398.69281,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,African Savannah Elephant,5.53690939,3339.869281,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Common Eland,0.065012635,39.21568627,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Common Hippopotamus,0.216708782,130.7189542,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Common Warthog,0.195037904,117.6470588,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Common Wildebeest,0.48759476,294.1176471,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Giraffe,0.140860709,84.96732026,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Greater Kudu,0.552607395,333.3333333,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Impala,5.450225877,3287.581699,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Nyala,0.086683513,52.2875817,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Plains Zebra,0.260050539,156.8627451,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Sable Antelope,0.075848074,45.75163399,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Steenbok,0.032506317,19.60784314,Zimbabwe
+ZWE_SELV,Chilojo B,603.201,Waterbuck,0.238379661,143.7908497,Zimbabwe
+MOZ_Mag,Chimpembere,1323.237,African Savannah Elephant,0.062715562,82.98755187,Mozambique
+MOZ_Mag,Chimpembere,1323.237,Common Duiker,0.097557541,129.0917473,Mozambique
+MOZ_Mag,Chimpembere,1323.237,Greater Kudu,0.027873583,36.88335639,Mozambique
+BWA_NOR,Chinamba,4091.501,African Buffalo,0.171086357,700,Botswana
+BWA_NOR,Chinamba,4091.501,African Savannah Elephant,0.769888606,3150,Botswana
+BWA_NOR,Chinamba,4091.501,Common Eland,0.036661362,150,Botswana
+BWA_NOR,Chinamba,4091.501,Common Warthog,0.012220454,50,Botswana
+BWA_NOR,Chinamba,4091.501,Gemsbok,0.018330681,75,Botswana
+BWA_NOR,Chinamba,4091.501,Giraffe,0.024440908,100,Botswana
+BWA_NOR,Chinamba,4091.501,Greater Kudu,0.006110227,25,Botswana
+BWA_NOR,Chinamba,4091.501,Impala,0.012220454,50,Botswana
+BWA_NOR,Chinamba,4091.501,Plains Zebra,0.018330681,75,Botswana
+MOZ_Mag,Chinthole 1,705.877,African Savannah Elephant,0.191184536,134.9527665,Mozambique
+MOZ_Mag,Chinthole 1,705.877,Common Duiker,0.050982543,35.98740441,Mozambique
+MOZ_Mag,Chinthole 1,705.877,Common Warthog,0.012745636,8.996851102,Mozambique
+MOZ_Mag,Chinthole 1,705.877,Greater Kudu,0.057355361,40.48582996,Mozambique
+MOZ_Mag,Chinthole 1,705.877,Sable Antelope,0.203930171,143.9496176,Mozambique
+MOZ_Mag,Chinthole 2,902.959,African Buffalo,0.07895461,71.29277567,Mozambique
+MOZ_Mag,Chinthole 2,902.959,Common Duiker,0.089481891,80.79847909,Mozambique
+MOZ_Mag,Chinthole 3,1232.196,African Savannah Elephant,0.050239379,61.9047619,Mozambique
+MOZ_Mag,Chinthole 3,1232.196,Common Duiker,0.038645676,47.61904762,Mozambique
+MOZ_Mag,Chinthole 3,1232.196,Impala,0.003864568,4.761904762,Mozambique
+MOZ_Mag,Chinthole 4,991.528,Bushpig,0.019119325,18.95734597,Mozambique
+MOZ_Mag,Chinthole 4,991.528,Common Duiker,0.071697468,71.09004739,Mozambique
+MOZ_Mag,Chinthole 4,991.528,Common Warthog,0.004779831,4.739336493,Mozambique
+MOZ_Mag,Chinthole 4,991.528,Impala,0.004779831,4.739336493,Mozambique
+ZWE_SELV,Chipinda Pools,1075.972,African Buffalo,2.040763325,2195.804196,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,African Savannah Elephant,2.63869398,2839.160839,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Bushbuck,0.012998493,13.98601399,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Common Eland,0.233972865,251.7482517,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Common Hippopotamus,0.350959298,377.6223776,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Common Warthog,0.194977388,209.7902098,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Common Wildebeest,0.487443469,524.4755245,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Giraffe,0.064992463,69.93006993,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Greater Kudu,0.786408797,846.1538462,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Grysbok,0.006499246,6.993006993,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Impala,2.983154032,3209.79021,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Nyala,0.15598191,167.8321678,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Plains Zebra,0.721416334,776.2237762,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Steenbok,0.012998493,13.98601399,Zimbabwe
+ZWE_SELV,Chipinda Pools,1075.972,Waterbuck,0.168980403,181.8181818,Zimbabwe
+ZWE_SEB,Chirisa Gadzi,743.225,African Savannah Elephant,0.367167856,272.8883298,Zimbabwe
+ZWE_SEB,Chirisa Gadzi,743.225,Common Duiker,0.027537589,20.46662473,Zimbabwe
+ZWE_SEB,Chirisa Gadzi,743.225,Plains Zebra,0.082612768,61.3998742,Zimbabwe
+ZWE_SEB,Chirisa Gadzi,743.225,Steenbok,0.018358393,13.64441649,Zimbabwe
+ZWE_SEB,Chirisa Sengwa,413.884,African Buffalo,0.67693674,280.1732859,Zimbabwe
+ZWE_SEB,Chirisa Sengwa,413.884,African Savannah Elephant,0.100286925,41.50715346,Zimbabwe
+ZWE_SEB,Chirisa Sengwa,413.884,Bushbuck,0.012535866,5.188394183,Zimbabwe
+ZWE_SEB,Chirisa Sengwa,413.884,Greater Kudu,0.037607597,15.56518255,Zimbabwe
+ZWE_SEB,Chirisa Sengwa,413.884,Steenbok,0.062679328,25.94197091,Zimbabwe
+MOZ_Mag,Chitima 1,599.242,African Savannah Elephant,0.079465471,47.61904762,Mozambique
+MOZ_Mag,Chitima 1,599.242,Common Duiker,0.007946547,4.761904762,Mozambique
+MOZ_Mag,Chitima 1,599.242,Common Hippopotamus,0.023839641,14.28571429,Mozambique
+MOZ_Mag,Chitima 1,599.242,Impala,0.119198206,71.42857143,Mozambique
+MOZ_Mag,Chitima 2,1184.242,Common Duiker,0.061524372,72.85974499,Mozambique
+MOZ_Mag,Chitima 2,1184.242,Steenbok,0.015381093,18.21493625,Mozambique
+MOZ_Mag,Chitima 3,540.172,Common Duiker,0.098376252,53.14009662,Mozambique
+MOZ_Mag,Chitima 3,540.172,Common Warthog,0.026829887,14.49275362,Mozambique
+MOZ_Mag,Chitima 4,559.423,Common Duiker,0.016520851,9.242144177,Mozambique
+ZWE_SEB,Chizarira East,968.344,African Buffalo,0.032170181,31.15180139,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,African Savannah Elephant,0.212323192,205.6018892,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Bushbuck,0.012868072,12.46072056,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Common Warthog,0.032170181,31.15180139,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Greater Kudu,0.025736145,24.92144112,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Plains Zebra,0.045038253,43.61252195,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Steenbok,0.006434036,6.230360279,Zimbabwe
+ZWE_SEB,Chizarira East,968.344,Waterbuck,0.012868072,12.46072056,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,African Buffalo,1.838749291,1256.347518,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,African Savannah Elephant,0.080824145,55.22406673,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Bushbuck,0.020206036,13.80601668,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Common Duiker,0.010103018,6.903008341,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Common Warthog,0.070721127,48.32105838,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Greater Kudu,0.05051509,34.5150417,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Impala,0.040412072,27.61203336,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Sable Antelope,0.121236217,82.83610009,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Steenbok,0.030309054,20.70902502,Zimbabwe
+ZWE_SEB,Chizarira West,683.262,Waterbuck,0.414223741,283.023342,Zimbabwe
+BWA_NOR,Chobe Mababe,1410.278,African Savannah Elephant,0.547004613,771.4285714,Botswana
+BWA_NOR,Chobe Mababe,1410.278,Common Eland,0.04051886,57.14285714,Botswana
+BWA_NOR,Chobe Mababe,1410.278,Giraffe,0.050648575,71.42857143,Botswana
+BWA_NOR,Chobe Mababe,1410.278,Impala,0.08103772,114.2857143,Botswana
+BWA_NOR,Chobe Mababe,1410.278,Topi,0.010129715,14.28571429,Botswana
+BWA_NOR,Chobe River,1200.561,African Buffalo,7.996261748,9600,Botswana
+BWA_NOR,Chobe River,1200.561,African Savannah Elephant,2.637655785,3166.666667,Botswana
+BWA_NOR,Chobe River,1200.561,Common Eland,0.023137331,27.77777778,Botswana
+BWA_NOR,Chobe River,1200.561,Common Hippopotamus,0.189726118,227.7777778,Botswana
+BWA_NOR,Chobe River,1200.561,Common Warthog,0.060157062,72.22222222,Botswana
+BWA_NOR,Chobe River,1200.561,Giraffe,0.087921859,105.5555556,Botswana
+BWA_NOR,Chobe River,1200.561,Greater Kudu,0.106431725,127.7777778,Botswana
+BWA_NOR,Chobe River,1200.561,Impala,1.166121505,1400,Botswana
+BWA_NOR,Chobe River,1200.561,Plains Zebra,1.351220156,1622.222222,Botswana
+BWA_NOR,Chobe River,1200.561,Roan Antelope,0.046274663,55.55555556,Botswana
+BWA_NOR,Chobe River,1200.561,Sable Antelope,0.48588396,583.3333333,Botswana
+BWA_NOR,Chobe River,1200.561,Southern Lechwe,0.032392264,38.88888889,Botswana
+BWA_NOR,Chobe River,1200.561,Topi,0.018509865,22.22222222,Botswana
+BWA_NOR,Chobe River,1200.561,Waterbuck,0.12494159,150,Botswana
+BWA_NOR,Chobe Savuti,2083.63,African Buffalo,0.212180312,442.1052632,Botswana
+BWA_NOR,Chobe Savuti,2083.63,African Savannah Elephant,3.819245613,7957.894737,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Common Eland,0.002525956,5.263157895,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Common Warthog,0.075778683,157.8947368,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Common Wildebeest,0.358685765,747.3684211,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Giraffe,0.209654356,436.8421053,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Greater Kudu,0.035363385,73.68421053,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Impala,0.378893414,789.4736842,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Plains Zebra,0.070726771,147.3684211,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Roan Antelope,0.093460375,194.7368421,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Sable Antelope,0.047993166,100,Botswana
+BWA_NOR,Chobe Savuti,2083.63,Topi,0.088408463,184.2105263,Botswana
+KEN_LAI,CntMed4km,1449.978,African Savannah Elephant,0.031830722,46.15384615,Kenya
+KEN_LAI,CntMed4km,1449.978,Common Warthog,0.010610241,15.38461538,Kenya
+KEN_LAI,CntMed4km,1449.978,Gerenuk,0.116712646,169.2307692,Kenya
+KEN_LAI,CntMed4km,1449.978,Greater Kudu,0.010610241,15.38461538,Kenya
+KEN_LAI,CntMed4km,1449.978,Grevy's Zebra,0.015915361,23.07692308,Kenya
+KEN_LAI,CntMed4km,1449.978,Plains Zebra,0.047746083,69.23076923,Kenya
+KEN_LAI,CntMed4km,1449.978,Thomson's Gazelle,0.074271684,107.6923077,Kenya
+MOZ_Qui,corridor,3607.183,African Savannah Elephant,0.177423768,640,Mozambique
+MOZ_Qui,corridor,3607.183,Bushpig,0.022177971,80,Mozambique
+MOZ_Qui,corridor,3607.183,Common Duiker,0.177423768,640,Mozambique
+MOZ_Qui,corridor,3607.183,Common Warthog,0.005544493,20,Mozambique
+MOZ_Qui,corridor,3607.183,Grysbok,0.019405725,70,Mozambique
+MOZ_Qui,corridor,3607.183,Natal Red Duiker,0.002772246,10,Mozambique
+MOZ_Qui,corridor,3607.183,Plains Zebra,0.033266957,120,Mozambique
+BWA_NOR,CT1 and CT2,7294.176,African Buffalo,0.215925692,1575,Botswana
+BWA_NOR,CT1 and CT2,7294.176,African Savannah Elephant,1.418940261,10350,Botswana
+BWA_NOR,CT1 and CT2,7294.176,Common Eland,0.003427392,25,Botswana
+BWA_NOR,CT1 and CT2,7294.176,Giraffe,0.161087421,1175,Botswana
+BWA_NOR,CT1 and CT2,7294.176,Greater Kudu,0.068547839,500,Botswana
+BWA_NOR,CT1 and CT2,7294.176,Plains Zebra,0.006854784,50,Botswana
+BWA_NOR,CT4 and 7,3724.815,African Savannah Elephant,0.364351748,1357.142857,Botswana
+BWA_NOR,CT4 and 7,3724.815,Gemsbok,0.015341126,57.14285714,Botswana
+BWA_NOR,CT4 and 7,3724.815,Greater Kudu,0.053693942,200,Botswana
+BWA_NOR,CT4 and 7,3724.815,Springbok,0.003835282,14.28571429,Botswana
+AGO_Lui,Cuito-Okavango,4955.262,African Savannah Elephant,0.188832454,935.7142857,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Bushpig,0.011531753,57.14285714,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Common Hippopotamus,0.011531753,57.14285714,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Common Warthog,0.004324407,21.42857143,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Greater Kudu,0.034595259,171.4285714,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Plains Zebra,0.001441469,7.142857143,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Roan Antelope,0.011531753,57.14285714,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Sable Antelope,0.007207346,35.71428571,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Sitatunga,0.001441469,7.142857143,Angola
+AGO_Lui,Cuito-Okavango,4955.262,Southern Reedbuck,0.002882938,14.28571429,Angola
+ZWE_MAT,Dandari,1279.61,African Buffalo,0.006058047,7.751937984,Zimbabwe
+ZWE_MAT,Dandari,1279.61,African Savannah Elephant,2.968443207,3798.449612,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Common Hippopotamus,0.024232189,31.00775194,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Common Warthog,0.012116095,15.50387597,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Gemsbok,0.006058047,7.751937984,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Giraffe,0.036348284,46.51162791,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Greater Kudu,0.006058047,7.751937984,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Impala,0.248379942,317.8294574,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Plains Zebra,0.042406332,54.26356589,Zimbabwe
+ZWE_MAT,Dandari,1279.61,Sable Antelope,0.006058047,7.751937984,Zimbabwe
+ZWE_ZV,Dande,990.099,African Buffalo,0.87403847,865.3846154,Zimbabwe
+ZWE_ZV,Dande,990.099,African Savannah Elephant,1.786923095,1769.230769,Zimbabwe
+ZWE_ZV,Dande,990.099,Common Warthog,0.097115386,96.15384615,Zimbabwe
+ZWE_ZV,Dande,990.099,Greater Kudu,0.019423077,19.23076923,Zimbabwe
+ZWE_ZV,Dande,990.099,Impala,0.155384617,153.8461538,Zimbabwe
+ZWE_ZV,Dande,990.099,Plains Zebra,0.077692308,76.92307692,Zimbabwe
+ZWE_ZV,Doma,998.22,African Savannah Elephant,0.137387407,137.1428571,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,African Buffalo,0.322985603,680,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,African Savannah Elephant,1.519932249,3200,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Common Eland,0.126661021,266.6666667,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Common Warthog,0.025332204,53.33333333,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Giraffe,0.170992378,360,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Greater Kudu,0.025332204,53.33333333,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Impala,0.158326276,333.3333333,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Plains Zebra,0.189991531,400,Zimbabwe
+ZWE_MAT,Dzivanini,2105.357,Roan Antelope,0.006333051,13.33333333,Zimbabwe
+BWA_NOR,East Gweta total count,442.086,African Savannah Elephant,0.140244206,62,Botswana
+BWA_NOR,East Gweta total count,442.086,Plains Zebra,0.009048013,4,Botswana
+KEN_LAI,EastHigh,2054.369,African Buffalo,1.237414147,2542.105263,Kenya
+KEN_LAI,EastHigh,2054.369,African Savannah Elephant,0.453462327,931.5789474,Kenya
+KEN_LAI,EastHigh,2054.369,Beisa Oryx,0.135782505,278.9473684,Kenya
+KEN_LAI,EastHigh,2054.369,Common Warthog,0.020495472,42.10526316,Kenya
+KEN_LAI,EastHigh,2054.369,Gerenuk,0.071734153,147.3684211,Kenya
+KEN_LAI,EastHigh,2054.369,Giraffe,0.307432086,631.5789474,Kenya
+KEN_LAI,EastHigh,2054.369,Grevy's Zebra,0.025619341,52.63157895,Kenya
+KEN_LAI,EastHigh,2054.369,Plains Zebra,0.01280967,26.31578947,Kenya
+KEN_LAI,EastHigh,2054.369,Thomson's Gazelle,0.312555954,642.1052632,Kenya
+KEN_LAI,EastHigh,2054.369,Waterbuck,0.005123868,10.52631579,Kenya
+KEN_LAI,EastLow8km,4325.58,African Buffalo,0.073978518,320,Kenya
+KEN_LAI,EastLow8km,4325.58,African Savannah Elephant,0.078602176,340,Kenya
+KEN_LAI,EastLow8km,4325.58,Beisa Oryx,0.332903333,1440,Kenya
+KEN_LAI,EastLow8km,4325.58,Common Warthog,0.004623657,20,Kenya
+KEN_LAI,EastLow8km,4325.58,Gerenuk,0.129462407,560,Kenya
+KEN_LAI,EastLow8km,4325.58,Giraffe,0.212688241,920,Kenya
+KEN_LAI,EastLow8km,4325.58,Plains Zebra,0.004623657,20,Kenya
+KEN_LAI,EastLow8km,4325.58,Thomson's Gazelle,0.531720602,2300,Kenya
+ZWE_SEB,Gatche Gatche,72.851,African Savannah Elephant,0.101851043,7.419950339,Zimbabwe
+ZWE_SEB,Gatche Gatche,72.851,Common Hippopotamus,0.152776565,11.12992551,Zimbabwe
+ZWE_SEB,Gatche Gatche,72.851,Common Warthog,0.152776565,11.12992551,Zimbabwe
+ZWE_SEB,Gatche Gatche,72.851,Impala,1.120361474,81.61945373,Zimbabwe
+TCD_CHA,Guelendeng,2036.039,Common Duiker,0.005893797,12,Chad
+TCD_CHA,Guelendeng,2036.039,Common Hippopotamus,0.001964599,4,Chad
+TCD_CHA,Guelendeng,2036.039,Common Warthog,0.026522085,54,Chad
+TCD_CHA,Guelendeng,2036.039,Giraffe,0.002455749,5,Chad
+TCD_CHA,Guelendeng,2036.039,Horse,0.058937967,120,Chad
+TCD_CHA,Guelendeng,2036.039,Oribi,0.003929198,8,Chad
+TCD_CHA,Guelendeng,2036.039,Slender-horned Gazelle,0.007367246,15,Chad
+ETH_BAB,High Core,985.588,Greater Kudu,0.013528303,13.33333333,Ethiopia
+ZWE_ZV,Hurungwe,1206.984,African Buffalo,1.018536947,1229.357798,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,African Savannah Elephant,3.405257852,4110.091743,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Common Eland,0.11401533,137.6146789,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Common Hippopotamus,0.478864385,577.9816514,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Common Warthog,0.068409198,82.56880734,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Greater Kudu,0.030404088,36.69724771,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Impala,1.664623816,2009.174312,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Plains Zebra,0.182424528,220.1834862,Zimbabwe
+ZWE_ZV,Hurungwe,1206.984,Waterbuck,0.030404088,36.69724771,Zimbabwe
+ZWE_ZV,Hurungwe I,672.441,African Buffalo,0.606987476,408.1632653,Zimbabwe
+ZWE_ZV,Hurungwe I,672.441,African Savannah Elephant,0.144159526,96.93877551,Zimbabwe
+ZWE_ZV,Hurungwe I,672.441,Greater Kudu,0.007587343,5.102040816,Zimbabwe
+ZWE_ZV,Hurungwe I,672.441,Impala,0.091048121,61.2244898,Zimbabwe
+UGA_QEPA,Ishasha,686.428,African Buffalo,9.095538898,6243.432574,Uganda
+UGA_QEPA,Ishasha,686.428,African Savannah Elephant,0.586808961,402.8021016,Uganda
+UGA_QEPA,Ishasha,686.428,Common Hippopotamus,2.015561214,1383.537653,Uganda
+UGA_QEPA,Ishasha,686.428,Common Warthog,0.73988956,507.8809107,Uganda
+UGA_QEPA,Ishasha,686.428,Forest Hog,0.242377614,166.3747811,Uganda
+UGA_QEPA,Ishasha,686.428,Kob,9.975752339,6847.635727,Uganda
+UGA_QEPA,Ishasha,686.428,Topi,2.985071672,2049.036778,Uganda
+UGA_QEPA,Ishasha,686.428,Waterbuck,0.841943292,577.9334501,Uganda
+ZMB_Kaf,KA,17700.257,African Buffalo,0.113351133,2006.344183,Zambia
+ZMB_Kaf,KA,17700.257,African Savannah Elephant,0.081234979,1437.879998,Zambia
+ZMB_Kaf,KA,17700.257,Bushbuck,0.001889186,33.43906972,Zambia
+ZMB_Kaf,KA,17700.257,Bushpig,0.004722964,83.59767431,Zambia
+ZMB_Kaf,KA,17700.257,Common Duiker,0.064232309,1136.928371,Zambia
+ZMB_Kaf,KA,17700.257,Common Eland,0.042506675,752.3790687,Zambia
+ZMB_Kaf,KA,17700.257,Common Hippopotamus,0.000944593,16.71953486,Zambia
+ZMB_Kaf,KA,17700.257,Common Warthog,0.103905205,1839.148835,Zambia
+ZMB_Kaf,KA,17700.257,Greater Kudu,0.032116154,568.4641853,Zambia
+ZMB_Kaf,KA,17700.257,Hartebeest,0.096348463,1705.392556,Zambia
+ZMB_Kaf,KA,17700.257,Impala,0.210644189,3728.456274,Zambia
+ZMB_Kaf,KA,17700.257,Oribi,0.000944593,16.71953486,Zambia
+ZMB_Kaf,KA,17700.257,Plains Zebra,0.006612149,117.036744,Zambia
+ZMB_Kaf,KA,17700.257,Puku,0.055730974,986.4525568,Zambia
+ZMB_Kaf,KA,17700.257,Roan Antelope,0.08501335,1504.758137,Zambia
+ZMB_Kaf,KA,17700.257,Sable Antelope,0.324939914,5751.519992,Zambia
+ZMB_Kaf,KA,17700.257,Sitatunga,0.005667557,100.3172092,Zambia
+ZMB_Kaf,KA,17700.257,Southern Lechwe,0.049118824,869.4158128,Zambia
+ZMB_Kaf,KA,17700.257,Southern Reedbuck,0.011335113,200.6344183,Zambia
+ZMB_Kaf,KA,17700.257,Waterbuck,0.013224299,234.0734881,Zambia
+MOZ_Mag,Kachembe,723.639,Common Duiker,0.02435074,17.62114537,Mozambique
+MOZ_Mag,Kachembe,723.639,Steenbok,0.006087685,4.405286344,Mozambique
+ZWE_ZV,Kadze East,779.077,Common Duiker,0.035654727,27.77777778,Zimbabwe
+ZWE_ZV,Kadze East,779.077,Greater Kudu,0.534820906,416.6666667,Zimbabwe
+ZWE_ZV,Kadze East,779.077,Plains Zebra,0.463511452,361.1111111,Zimbabwe
+ZWE_ZV,Kadze West,591.84,Common Hippopotamus,0.133393093,78.94736842,Zimbabwe
+ZWE_ZV,Kadze West,591.84,Common Warthog,0.044464364,26.31578947,Zimbabwe
+ZWE_ZV,Kadze West,591.84,Impala,0.444643645,263.1578947,Zimbabwe
+ZWE_SEB,Kanyati Highlands,307.299,African Savannah Elephant,NA,NA,Zimbabwe
+ZWE_ZV,Kanyurira,206.377,African Savannah Elephant,3.472609189,716.6666667,Zimbabwe
+ZWE_ZV,Kanyurira,206.377,Waterbuck,0.080758353,16.66666667,Zimbabwe
+ZWE_ZV,Kanyurira Highlands,146.581,African Savannah Elephant,0.301717441,44.22604423,Zimbabwe
+ZWE_ZV,Kanyurira Highlands,146.581,Common Warthog,0.01676208,2.457002457,Zimbabwe
+ZWE_ZV,Kanyurira Highlands,146.581,Plains Zebra,0.0838104,12.28501229,Zimbabwe
+ZWE_ZV,Kanyurira Highlands,146.581,Sable Antelope,0.11733456,17.1990172,Zimbabwe
+BWA_NOR,Kasane FR,469.879,African Buffalo,0.05007547,23.52941176,Botswana
+BWA_NOR,Kasane FR,469.879,African Savannah Elephant,0.60090564,282.3529412,Botswana
+BWA_NOR,Kasane FR,469.879,Giraffe,0.062594337,29.41176471,Botswana
+BWA_NOR,Kasane FR,469.879,Impala,0.20030188,94.11764706,Botswana
+BWA_NOR,Kasane FR,469.879,Plains Zebra,0.025037735,11.76470588,Botswana
+BWA_NOR,Kasane FR,469.879,Sable Antelope,1.489745232,700,Botswana
+MWI_KAS,Kasungu NP,2459.419,African Buffalo,0.024802606,61,Malawi
+MWI_KAS,Kasungu NP,2459.419,African Savannah Elephant,0.016264004,40,Malawi
+MWI_KAS,Kasungu NP,2459.419,Bushbuck,0.002033,5,Malawi
+MWI_KAS,Kasungu NP,2459.419,Bushpig,0.021956405,54,Malawi
+MWI_KAS,Kasungu NP,2459.419,Common Duiker,0.047572211,117,Malawi
+MWI_KAS,Kasungu NP,2459.419,Common Eland,0.006912202,17,Malawi
+MWI_KAS,Kasungu NP,2459.419,Common Hippopotamus,0.004472601,11,Malawi
+MWI_KAS,Kasungu NP,2459.419,Common Warthog,0.009351802,23,Malawi
+MWI_KAS,Kasungu NP,2459.419,Greater Kudu,0.012198003,30,Malawi
+MWI_KAS,Kasungu NP,2459.419,Grysbok,0.0004066,1,Malawi
+MWI_KAS,Kasungu NP,2459.419,Hartebeest,0.021956405,54,Malawi
+MWI_KAS,Kasungu NP,2459.419,Plains Zebra,0.002439601,6,Malawi
+MWI_KAS,Kasungu NP,2459.419,Puku,0.008945202,22,Malawi
+MWI_KAS,Kasungu NP,2459.419,Roan Antelope,0.030088407,74,Malawi
+MWI_KAS,Kasungu NP,2459.419,Sable Antelope,0.037813809,93,Malawi
+MWI_KAS,Kasungu NP,2459.419,Southern Reedbuck,0.030495007,75,Malawi
+ZWE_MAT,Kazuma,550.847,African Savannah Elephant,0.265666262,146.3414634,Zimbabwe
+ZWE_MAT,Kazuma,550.847,Common Eland,0.221388552,121.9512195,Zimbabwe
+ZWE_MAT,Kazuma,550.847,Giraffe,0.04427771,24.3902439,Zimbabwe
+ZWE_MAT,Kazuma,550.847,Greater Kudu,0.177110841,97.56097561,Zimbabwe
+ZWE_MAT,Kazuma,550.847,Roan Antelope,0.04427771,24.3902439,Zimbabwe
+BWA_NOR,Kazuma Forest Reserve,194.907,African Buffalo,0.415582816,81,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,African Savannah Elephant,0.92351737,180,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Common Warthog,0.015391956,3,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Giraffe,0.010261304,2,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Greater Kudu,0.046175868,9,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Impala,0.082090433,16,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Plains Zebra,0.102613041,20,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Sable Antelope,0.302708471,59,Botswana
+BWA_NOR,Kazuma Forest Reserve,194.907,Topi,0.123135649,24,Botswana
+ZWE_MAT,Kazungula,437.262,African Savannah Elephant,0.348015407,152.173913,Zimbabwe
+ZWE_MAT,Kazungula,437.262,Common Hippopotamus,0.049716487,21.73913043,Zimbabwe
+ZWE_MAT,Kazungula,437.262,Giraffe,0.07457473,32.60869565,Zimbabwe
+ZWE_MAT,Kazungula,437.262,Greater Kudu,0.099432974,43.47826087,Zimbabwe
+ZWE_MAT,Kazungula,437.262,Impala,0.372873651,163.0434783,Zimbabwe
+ZWE_MAT,Kazungula,437.262,Plains Zebra,0.07457473,32.60869565,Zimbabwe
+ZMB_Kaf,KB,12189.09,African Savannah Elephant,0.078302335,954.4342102,Zambia
+ZMB_Kaf,KB,12189.09,Bushbuck,0.007529071,91.77252021,Zambia
+ZMB_Kaf,KB,12189.09,Bushpig,0.007529071,91.77252021,Zambia
+ZMB_Kaf,KB,12189.09,Common Duiker,0.033127911,403.7990889,Zambia
+ZMB_Kaf,KB,12189.09,Common Eland,0.031622097,385.4445849,Zambia
+ZMB_Kaf,KB,12189.09,Common Hippopotamus,0.015058141,183.5450404,Zambia
+ZMB_Kaf,KB,12189.09,Common Warthog,0.126488388,1541.77834,Zambia
+ZMB_Kaf,KB,12189.09,Common Wildebeest,0.137029086,1670.259868,Zambia
+ZMB_Kaf,KB,12189.09,Greater Kudu,0.013552327,165.1905364,Zambia
+ZMB_Kaf,KB,12189.09,Grysbok,0.001505814,18.35450404,Zambia
+ZMB_Kaf,KB,12189.09,Hartebeest,0.11293606,1376.587803,Zambia
+ZMB_Kaf,KB,12189.09,Impala,0.438191914,5341.160676,Zambia
+ZMB_Kaf,KB,12189.09,Plains Zebra,0.298151199,3634.1918,Zambia
+ZMB_Kaf,KB,12189.09,Puku,0.194250024,2367.731021,Zambia
+ZMB_Kaf,KB,12189.09,Roan Antelope,0.046680238,568.9896253,Zambia
+ZMB_Kaf,KB,12189.09,Sable Antelope,0.197261652,2404.44003,Zambia
+ZMB_Kaf,KB,12189.09,Southern Reedbuck,0.037645353,458.8626011,Zambia
+ZMB_Kaf,KB,12189.09,Waterbuck,0.277069801,3377.228744,Zambia
+ZMB_Kaf,KC,11855.284,African Buffalo,0.244789426,2902.04816,Zambia
+ZMB_Kaf,KC,11855.284,African Savannah Elephant,0.280594446,3326.526846,Zambia
+ZMB_Kaf,KC,11855.284,Bushbuck,0.004384288,51.97698196,Zambia
+ZMB_Kaf,KC,11855.284,Bushpig,0.015345009,181.9194369,Zambia
+ZMB_Kaf,KC,11855.284,Common Duiker,0.018267868,216.5707582,Zambia
+ZMB_Kaf,KC,11855.284,Common Eland,0.001461429,17.32566065,Zambia
+ZMB_Kaf,KC,11855.284,Common Hippopotamus,0.029959303,355.1760434,Zambia
+ZMB_Kaf,KC,11855.284,Common Warthog,0.336859478,3993.564781,Zambia
+ZMB_Kaf,KC,11855.284,Common Wildebeest,0.098646485,1169.482094,Zambia
+ZMB_Kaf,KC,11855.284,Greater Kudu,0.039458594,467.7928377,Zambia
+ZMB_Kaf,KC,11855.284,Grysbok,0.000730715,8.662830327,Zambia
+ZMB_Kaf,KC,11855.284,Hartebeest,0.207522976,2460.243813,Zambia
+ZMB_Kaf,KC,11855.284,Impala,0.894394797,10603.30432,Zambia
+ZMB_Kaf,KC,11855.284,Oribi,0.003653574,43.31415164,Zambia
+ZMB_Kaf,KC,11855.284,Plains Zebra,0.065033609,770.9918991,Zambia
+ZMB_Kaf,KC,11855.284,Puku,0.852744058,10109.52299,Zambia
+ZMB_Kaf,KC,11855.284,Roan Antelope,0.046035026,545.7583106,Zambia
+ZMB_Kaf,KC,11855.284,Sable Antelope,0.471310983,5587.525561,Zambia
+ZMB_Kaf,KC,11855.284,Southern Lechwe,0.964543408,11434.93603,Zambia
+ZMB_Kaf,KC,11855.284,Southern Reedbuck,0.016806438,199.2450975,Zambia
+ZMB_Kaf,KC,11855.284,Waterbuck,0.289363022,3430.48081,Zambia
+ZMB_Kaf,KD,3430.476,African Buffalo,1.036649713,3556.201962,Zambia
+ZMB_Kaf,KD,3430.476,African Savannah Elephant,0.283874738,973.8254761,Zambia
+ZMB_Kaf,KD,3430.476,Bushbuck,0.010138384,34.77948129,Zambia
+ZMB_Kaf,KD,3430.476,Bushpig,0.005069192,17.38974064,Zambia
+ZMB_Kaf,KD,3430.476,Common Duiker,0.032949746,113.0333142,Zambia
+ZMB_Kaf,KD,3430.476,Common Hippopotamus,0.078572472,269.54098,Zambia
+ZMB_Kaf,KD,3430.476,Common Warthog,0.471434833,1617.24588,Zambia
+ZMB_Kaf,KD,3430.476,Greater Kudu,0.012672979,43.47435161,Zambia
+ZMB_Kaf,KD,3430.476,Hartebeest,0.205302266,704.2844961,Zambia
+ZMB_Kaf,KD,3430.476,Impala,1.629745148,5590.801617,Zambia
+ZMB_Kaf,KD,3430.476,Oribi,0.027880555,95.64357355,Zambia
+ZMB_Kaf,KD,3430.476,Plains Zebra,0.195163882,669.5050148,Zambia
+ZMB_Kaf,KD,3430.476,Puku,0.859228002,2947.561039,Zambia
+ZMB_Kaf,KD,3430.476,Roan Antelope,0.091245452,313.0153316,Zambia
+ZMB_Kaf,KD,3430.476,Sable Antelope,0.141937369,486.9127381,Zambia
+ZMB_Kaf,KD,3430.476,Southern Reedbuck,0.030415151,104.3384439,Zambia
+ZMB_Kaf,KD,3430.476,Waterbuck,0.091245452,313.0153316,Zambia
+KEN_LAI,KerioValley,122.343,African Savannah Elephant,2.542033463,311,Kenya
+BWA_NOR,Khwai North,NA,African Savannah Elephant,NA,NA,NA
+UGA_KVNP,KVCA,2620.353,African Buffalo,3.230981496,8466.312057,Uganda
+UGA_KVNP,KVCA,2620.353,African Savannah Elephant,0.253742002,664.893617,Uganda
+UGA_KVNP,KVCA,2620.353,Bushbuck,0.003383227,8.865248227,Uganda
+UGA_KVNP,KVCA,2620.353,Common Duiker,0.01014968,26.59574468,Uganda
+UGA_KVNP,KVCA,2620.353,Common Warthog,0.284191043,744.6808511,Uganda
+UGA_KVNP,KVCA,2620.353,Oribi,0.115029708,301.4184397,Uganda
+UGA_KVNP,KVCA,2620.353,Plains Zebra,0.162394881,425.5319149,Uganda
+UGA_KVNP,KVCA,2620.353,Southern Reedbuck,0.138712295,363.4751773,Uganda
+UGA_KVNP,KVCA,2620.353,Waterbuck,0.175927788,460.9929078,Uganda
+AGO_Lui,Kwando_angola,3410.697,African Buffalo,2.408830064,8215.789474,Angola
+AGO_Lui,Kwando_angola,3410.697,African Savannah Elephant,0.234556163,800,Angola
+AGO_Lui,Kwando_angola,3410.697,Bushpig,0.010801929,36.84210526,Angola
+AGO_Lui,Kwando_angola,3410.697,Common Eland,0.183632785,626.3157895,Angola
+AGO_Lui,Kwando_angola,3410.697,Common Hippopotamus,0.026233255,89.47368421,Angola
+AGO_Lui,Kwando_angola,3410.697,Common Warthog,0.020060724,68.42105263,Angola
+AGO_Lui,Kwando_angola,3410.697,Common Wildebeest,0.089501694,305.2631579,Angola
+AGO_Lui,Kwando_angola,3410.697,Giraffe,0.018517592,63.15789474,Angola
+AGO_Lui,Kwando_angola,3410.697,Greater Kudu,0.101846755,347.3684211,Angola
+AGO_Lui,Kwando_angola,3410.697,Impala,0.004629398,15.78947368,Angola
+AGO_Lui,Kwando_angola,3410.697,Plains Zebra,0.179003387,610.5263158,Angola
+AGO_Lui,Kwando_angola,3410.697,Roan Antelope,0.041664582,142.1052632,Angola
+AGO_Lui,Kwando_angola,3410.697,Sable Antelope,0.18671905,636.8421053,Angola
+AGO_Lui,Kwando_angola,3410.697,Sitatunga,0.013888194,47.36842105,Angola
+AGO_Lui,Kwando_angola,3410.697,Southern Lechwe,0.155856397,531.5789474,Angola
+AGO_Lui,Kwando_angola,3410.697,Southern Reedbuck,0.072527234,247.3684211,Angola
+AGO_Lui,Kwando_angola,3410.697,Topi,0.007715663,26.31578947,Angola
+AGO_Lui,Kwando5km,2521.009,Greater Kudu,0.052888876,133.3333333,Angola
+AGO_Lui,Kwando5km,2521.009,Roan Antelope,0.013222219,33.33333333,Angola
+AGO_Lui,Kwando5km,2521.009,Sable Antelope,0.004407406,11.11111111,Angola
+AGO_Lui,Kwando5km,2521.009,Southern Lechwe,0.013222219,33.33333333,Angola
+AGO_Lui,Kwando5km,2521.009,Southern Reedbuck,0.004407406,11.11111111,Angola
+AGO_Lui,Kwando5km,2521.009,Topi,0.035259251,88.88888889,Angola
+MOZ_Nia,L1,3295.394,African Buffalo,0.006069077,20,Mozambique
+MOZ_Nia,L1,3295.394,Bushbuck,0.003034539,10,Mozambique
+MOZ_Nia,L1,3295.394,Common Duiker,0.106208848,350,Mozambique
+MOZ_Nia,L1,3295.394,Common Warthog,0.030345385,100,Mozambique
+MOZ_Nia,L1,3295.394,Greater Kudu,0.018207231,60,Mozambique
+MOZ_Nia,L1,3295.394,Grysbok,0.003034539,10,Mozambique
+MOZ_Nia,L1,3295.394,Hartebeest,0.033379924,110,Mozambique
+MOZ_Nia,L1,3295.394,Sable Antelope,0.051587155,170,Mozambique
+MOZ_Nia,L1,3295.394,Southern Reedbuck,0.006069077,20,Mozambique
+MOZ_Nia,L1,3295.394,Waterbuck,0.024276308,80,Mozambique
+MOZ_Nia,L2,4190.232,African Savannah Elephant,0.054889562,230,Mozambique
+MOZ_Nia,L2,4190.232,Bushbuck,0.007159508,30,Mozambique
+MOZ_Nia,L2,4190.232,Bushpig,0.009546011,40,Mozambique
+MOZ_Nia,L2,4190.232,Common Duiker,0.0883006,370,Mozambique
+MOZ_Nia,L2,4190.232,Common Eland,0.126484643,530,Mozambique
+MOZ_Nia,L2,4190.232,Common Warthog,0.06204907,260,Mozambique
+MOZ_Nia,L2,4190.232,Greater Kudu,0.002386503,10,Mozambique
+MOZ_Nia,L2,4190.232,Hartebeest,0.002386503,10,Mozambique
+MOZ_Nia,L2,4190.232,Sable Antelope,0.138417157,580,Mozambique
+MOZ_Nia,L2,4190.232,Southern Reedbuck,0.016705519,70,Mozambique
+MOZ_Nia,L2,4190.232,Steenbok,0.004773005,20,Mozambique
+MOZ_Nia,L2,4190.232,Waterbuck,0.019092022,80,Mozambique
+MOZ_Nia,L3,2651.661,African Buffalo,0.43369043,1150,Mozambique
+MOZ_Nia,L3,2651.661,African Savannah Elephant,0.494029968,1310,Mozambique
+MOZ_Nia,L3,2651.661,Bushbuck,0.011313663,30,Mozambique
+MOZ_Nia,L3,2651.661,Bushpig,0.041483432,110,Mozambique
+MOZ_Nia,L3,2651.661,Common Duiker,0.098051749,260,Mozambique
+MOZ_Nia,L3,2651.661,Common Eland,0.150848845,400,Mozambique
+MOZ_Nia,L3,2651.661,Common Hippopotamus,0.007542442,20,Mozambique
+MOZ_Nia,L3,2651.661,Common Warthog,0.064110759,170,Mozambique
+MOZ_Nia,L3,2651.661,Common Wildebeest,0.003771221,10,Mozambique
+MOZ_Nia,L3,2651.661,Grysbok,0.003771221,10,Mozambique
+MOZ_Nia,L3,2651.661,Hartebeest,0.060339538,160,Mozambique
+MOZ_Nia,L3,2651.661,Plains Zebra,0.128221519,340,Mozambique
+MOZ_Nia,L3,2651.661,Sable Antelope,0.297926469,790,Mozambique
+MOZ_Nia,L3,2651.661,Waterbuck,0.011313663,30,Mozambique
+MOZ_Nia,L4,2236.332,African Buffalo,0.487405269,1090,Mozambique
+MOZ_Nia,L4,2236.332,African Savannah Elephant,0.335370598,750,Mozambique
+MOZ_Nia,L4,2236.332,Bushpig,0.004471608,10,Mozambique
+MOZ_Nia,L4,2236.332,Common Duiker,0.026829648,60,Mozambique
+MOZ_Nia,L4,2236.332,Common Eland,0.004471608,10,Mozambique
+MOZ_Nia,L4,2236.332,Common Hippopotamus,0.111790199,250,Mozambique
+MOZ_Nia,L4,2236.332,Common Warthog,0.089432159,200,Mozambique
+MOZ_Nia,L4,2236.332,Grysbok,0.004471608,10,Mozambique
+MOZ_Nia,L4,2236.332,Hartebeest,0.076017336,170,Mozambique
+MOZ_Nia,L4,2236.332,Impala,0.004471608,10,Mozambique
+MOZ_Nia,L4,2236.332,Plains Zebra,0.06707412,150,Mozambique
+MOZ_Nia,L4,2236.332,Sable Antelope,0.366671854,820,Mozambique
+MOZ_Nia,L4,2236.332,Waterbuck,0.013414824,30,Mozambique
+MOZ_Nia,L5,1810.969,African Buffalo,0.265051472,480,Mozambique
+MOZ_Nia,L5,1810.969,African Savannah Elephant,0.187744793,340,Mozambique
+MOZ_Nia,L5,1810.969,Bushbuck,0.027609528,50,Mozambique
+MOZ_Nia,L5,1810.969,Bushpig,0.011043811,20,Mozambique
+MOZ_Nia,L5,1810.969,Common Duiker,0.077306679,140,Mozambique
+MOZ_Nia,L5,1810.969,Common Hippopotamus,0.071784774,130,Mozambique
+MOZ_Nia,L5,1810.969,Common Warthog,0.071784774,130,Mozambique
+MOZ_Nia,L5,1810.969,Common Wildebeest,0.005521906,10,Mozambique
+MOZ_Nia,L5,1810.969,Greater Kudu,0.049697151,90,Mozambique
+MOZ_Nia,L5,1810.969,Grysbok,0.011043811,20,Mozambique
+MOZ_Nia,L5,1810.969,Impala,0.193266699,350,Mozambique
+MOZ_Nia,L5,1810.969,Plains Zebra,0.24296385,440,Mozambique
+MOZ_Nia,L5,1810.969,Sable Antelope,0.127003831,230,Mozambique
+MOZ_Nia,L5,1810.969,Southern Reedbuck,0.005521906,10,Mozambique
+MOZ_Nia,L5,1810.969,Waterbuck,0.016565717,30,Mozambique
+MOZ_Nia,L6,2286.266,African Buffalo,0.013121833,30,Mozambique
+MOZ_Nia,L6,2286.266,African Savannah Elephant,0.061235219,140,Mozambique
+MOZ_Nia,L6,2286.266,Bushpig,0.061235219,140,Mozambique
+MOZ_Nia,L6,2286.266,Common Duiker,0.069983108,160,Mozambique
+MOZ_Nia,L6,2286.266,Common Eland,0.122470439,280,Mozambique
+MOZ_Nia,L6,2286.266,Common Warthog,0.048113387,110,Mozambique
+MOZ_Nia,L6,2286.266,Greater Kudu,0.034991554,80,Mozambique
+MOZ_Nia,L6,2286.266,Grysbok,0.008747888,20,Mozambique
+MOZ_Nia,L6,2286.266,Hartebeest,0.008747888,20,Mozambique
+MOZ_Nia,L6,2286.266,Plains Zebra,0.214323268,490,Mozambique
+MOZ_Nia,L6,2286.266,Sable Antelope,0.100600718,230,Mozambique
+MOZ_Nia,L6,2286.266,Waterbuck,0.069983108,160,Mozambique
+MOZ_Nia,L7,4353.18,African Buffalo,0.009188685,40,Mozambique
+MOZ_Nia,L7,4353.18,African Savannah Elephant,0.25498601,1110,Mozambique
+MOZ_Nia,L7,4353.18,Bushbuck,0.004594343,20,Mozambique
+MOZ_Nia,L7,4353.18,Bushpig,0.006891514,30,Mozambique
+MOZ_Nia,L7,4353.18,Common Duiker,0.128641591,560,Mozambique
+MOZ_Nia,L7,4353.18,Common Eland,0.151613303,660,Mozambique
+MOZ_Nia,L7,4353.18,Common Hippopotamus,0.075806652,330,Mozambique
+MOZ_Nia,L7,4353.18,Common Warthog,0.124047248,540,Mozambique
+MOZ_Nia,L7,4353.18,Common Wildebeest,0.043646254,190,Mozambique
+MOZ_Nia,L7,4353.18,Greater Kudu,0.034457569,150,Mozambique
+MOZ_Nia,L7,4353.18,Grysbok,0.032160398,140,Mozambique
+MOZ_Nia,L7,4353.18,Hartebeest,0.098778364,430,Mozambique
+MOZ_Nia,L7,4353.18,Impala,0.016080199,70,Mozambique
+MOZ_Nia,L7,4353.18,Plains Zebra,0.087292508,380,Mozambique
+MOZ_Nia,L7,4353.18,Sable Antelope,0.271066209,1180,Mozambique
+MOZ_Nia,L7,4353.18,Southern Reedbuck,0.009188685,40,Mozambique
+MOZ_Nia,L7,4353.18,Waterbuck,0.107967049,470,Mozambique
+MOZ_Nia,L8,2126.161,African Buffalo,0.719606841,1530,Mozambique
+MOZ_Nia,L8,2126.161,African Savannah Elephant,0.079956316,170,Mozambique
+MOZ_Nia,L8,2126.161,Common Duiker,0.065846378,140,Mozambique
+MOZ_Nia,L8,2126.161,Common Eland,0.07054969,150,Mozambique
+MOZ_Nia,L8,2126.161,Common Warthog,0.056439752,120,Mozambique
+MOZ_Nia,L8,2126.161,Common Wildebeest,0.061143065,130,Mozambique
+MOZ_Nia,L8,2126.161,Greater Kudu,0.004703313,10,Mozambique
+MOZ_Nia,L8,2126.161,Grysbok,0.047033127,100,Mozambique
+MOZ_Nia,L8,2126.161,Klipspringer,0.009406625,20,Mozambique
+MOZ_Nia,L8,2126.161,Plains Zebra,0.075253003,160,Mozambique
+MOZ_Nia,L8,2126.161,Sable Antelope,0.141099381,300,Mozambique
+MOZ_Nia,L8,2126.161,Waterbuck,0.042329814,90,Mozambique
+MOZ_Nia,L9,2890.409,African Buffalo,0.35981067,1040,Mozambique
+MOZ_Nia,L9,2890.409,Bushbuck,0.003459718,10,Mozambique
+MOZ_Nia,L9,2890.409,Bushpig,0.010379154,30,Mozambique
+MOZ_Nia,L9,2890.409,Common Duiker,0.152227591,440,Mozambique
+MOZ_Nia,L9,2890.409,Common Warthog,0.159147027,460,Mozambique
+MOZ_Nia,L9,2890.409,Greater Kudu,0.01729859,50,Mozambique
+MOZ_Nia,L9,2890.409,Grysbok,0.03459718,100,Mozambique
+MOZ_Nia,L9,2890.409,Impala,0.003459718,10,Mozambique
+MOZ_Nia,L9,2890.409,Klipspringer,0.003459718,10,Mozambique
+MOZ_Nia,L9,2890.409,Plains Zebra,0.020758308,60,Mozambique
+MOZ_Nia,L9,2890.409,Sable Antelope,0.093412386,270,Mozambique
+MOZ_Nia,L9,2890.409,Waterbuck,0.05189577,150,Mozambique
+ZMB_Lua,LA,7767.946,African Buffalo,0.049997554,388.3783023,Zambia
+ZMB_Lua,LA,7767.946,African Savannah Elephant,0.207132725,1608.995824,Zambia
+ZMB_Lua,LA,7767.946,Bushbuck,0.004761672,36.98840975,Zambia
+ZMB_Lua,LA,7767.946,Bushpig,0.023808359,184.9420487,Zambia
+ZMB_Lua,LA,7767.946,Common Duiker,0.035712539,277.4130731,Zambia
+ZMB_Lua,LA,7767.946,Common Warthog,0.066663406,517.8377365,Zambia
+ZMB_Lua,LA,7767.946,Greater Kudu,0.004761672,36.98840975,Zambia
+ZMB_Lua,LA,7767.946,Hartebeest,0.004761672,36.98840975,Zambia
+ZMB_Lua,LA,7767.946,Impala,0.009523344,73.97681949,Zambia
+ZMB_Lua,LA,7767.946,Plains Zebra,0.099995109,776.7566047,Zambia
+ZMB_Lua,LA,7767.946,Roan Antelope,0.057140062,443.860917,Zambia
+ZMB_Lua,LA,7767.946,Waterbuck,0.026189195,203.4362536,Zambia
+ZMB_Lua,LB,11113.324,African Buffalo,0.034993376,388.8927214,Zambia
+ZMB_Lua,LB,11113.324,African Savannah Elephant,0.18132931,2015.171374,Zambia
+ZMB_Lua,LB,11113.324,Bushpig,0.001590608,17.67694188,Zambia
+ZMB_Lua,LB,11113.324,Common Duiker,0.042946416,477.2774308,Zambia
+ZMB_Lua,LB,11113.324,Common Warthog,0.0397652,441.923547,Zambia
+ZMB_Lua,LB,11113.324,Common Wildebeest,0.082711615,919.2009778,Zambia
+ZMB_Lua,LB,11113.324,Greater Kudu,0.087483439,972.2318034,Zambia
+ZMB_Lua,LB,11113.324,Hartebeest,0.02385912,265.1541282,Zambia
+ZMB_Lua,LB,11113.324,Impala,0.159060798,1767.694188,Zambia
+ZMB_Lua,LB,11113.324,Plains Zebra,0.034993376,388.8927214,Zambia
+ZMB_Lua,LB,11113.324,Puku,0.020677904,229.8002444,Zambia
+ZMB_Lua,LB,11113.324,Roan Antelope,0.147926542,1643.955595,Zambia
+ZMB_Lua,LB,11113.324,Waterbuck,0.025449728,282.8310701,Zambia
+ZMB_Lua,LC,11339.631,African Buffalo,2.611040632,29608.23729,Zambia
+ZMB_Lua,LC,11339.631,African Savannah Elephant,0.932742093,10576.95115,Zambia
+ZMB_Lua,LC,11339.631,Black Rhinoceros,0.000796535,9.032409179,Zambia
+ZMB_Lua,LC,11339.631,Bushbuck,0.004779208,54.19445507,Zambia
+ZMB_Lua,LC,11339.631,Bushpig,0.009558416,108.3889101,Zambia
+ZMB_Lua,LC,11339.631,Common Duiker,0.005575743,63.22686425,Zambia
+ZMB_Lua,LC,11339.631,Common Eland,0.012744555,144.5185469,Zambia
+ZMB_Lua,LC,11339.631,Common Hippopotamus,0.283566341,3215.537668,Zambia
+ZMB_Lua,LC,11339.631,Common Warthog,0.203912874,2312.29675,Zambia
+ZMB_Lua,LC,11339.631,Common Wildebeest,0.251704954,2854.241301,Zambia
+ZMB_Lua,LC,11339.631,Giraffe,0.008761881,99.35650097,Zambia
+ZMB_Lua,LC,11339.631,Greater Kudu,0.046995545,532.9121416,Zambia
+ZMB_Lua,LC,11339.631,Hartebeest,0.02389604,270.9722754,Zambia
+ZMB_Lua,LC,11339.631,Impala,1.871059928,21217.12916,Zambia
+ZMB_Lua,LC,11339.631,Plains Zebra,0.332154955,3766.514628,Zambia
+ZMB_Lua,LC,11339.631,Puku,0.614128227,6963.987477,Zambia
+ZMB_Lua,LC,11339.631,Roan Antelope,0.023099505,261.9398662,Zambia
+ZMB_Lua,LC,11339.631,Southern Reedbuck,0.000796535,9.032409179,Zambia
+ZMB_Lua,LC,11339.631,Waterbuck,0.113107922,1282.602103,Zambia
+ZMB_Lua,LD,2611.485,Bushbuck,0.014613972,38.1641683,Zambia
+ZMB_Lua,LD,2611.485,Bushpig,0.03653493,95.41042076,Zambia
+ZMB_Lua,LD,2611.485,Common Duiker,0.065762873,171.7387574,Zambia
+ZMB_Lua,LD,2611.485,Common Eland,0.03653493,95.41042076,Zambia
+ZMB_Lua,LD,2611.485,Common Warthog,0.007306986,19.08208415,Zambia
+ZMB_Lua,LD,2611.485,Greater Kudu,0.058455887,152.6566732,Zambia
+ZMB_Lua,LD,2611.485,Hartebeest,0.051148902,133.5745891,Zambia
+ZMB_Lua,LD,2611.485,Roan Antelope,0.065762873,171.7387574,Zambia
+ZMB_Lua,LD,2611.485,Sable Antelope,0.021920958,57.24625246,Zambia
+AGO_Lui,Likuwa,2337.882,African Buffalo,0.960033246,2244.444444,Angola
+AGO_Lui,Likuwa,2337.882,Common Warthog,0.019010559,44.44444444,Angola
+AGO_Lui,Likuwa,2337.882,Greater Kudu,0.052279038,122.2222222,Angola
+AGO_Lui,Likuwa,2337.882,Roan Antelope,0.104558076,244.4444444,Angola
+AGO_Lui,Likuwa,2337.882,Sable Antelope,0.137826555,322.2222222,Angola
+AGO_Lui,Likuwa,2337.882,Southern Reedbuck,0.114063356,266.6666667,Angola
+AGO_Lui,Likuwa Core,1931.476,African Buffalo,0.043144897,83.33333333,Angola
+AGO_Lui,Likuwa Core,1931.476,African Savannah Elephant,0.289070811,558.3333333,Angola
+AGO_Lui,Likuwa Core,1931.476,Common Warthog,0.00431449,8.333333333,Angola
+AGO_Lui,Likuwa Core,1931.476,Greater Kudu,0.038830407,75,Angola
+AGO_Lui,Likuwa Core,1931.476,Roan Antelope,0.047459387,91.66666667,Angola
+AGO_Lui,Likuwa Core,1931.476,Sable Antelope,0.00431449,8.333333333,Angola
+AGO_Lui,Likuwa10km,4717.161,African Savannah Elephant,0.042398383,200,Angola
+AGO_Lui,Likuwa10km,4717.161,Common Warthog,0.037098585,175,Angola
+AGO_Lui,Likuwa10km,4717.161,Greater Kudu,0.042398383,200,Angola
+AGO_Lui,Likuwa10km,4717.161,Roan Antelope,0.196092523,925,Angola
+AGO_Lui,Likuwa10km,4717.161,Sable Antelope,0.132494948,625,Angola
+MOZ_Lim,Limp. east,5537.045,African Buffalo,0.101136978,560,Mozambique
+MOZ_Lim,Limp. east,5537.045,African Savannah Elephant,0.016254157,90,Mozambique
+MOZ_Lim,Limp. east,5537.045,Bushbuck,0.001806017,10,Mozambique
+MOZ_Lim,Limp. east,5537.045,Bushpig,0.018060175,100,Mozambique
+MOZ_Lim,Limp. east,5537.045,Common Warthog,0.003612035,20,Mozambique
+MOZ_Lim,Limp. east,5537.045,Common Wildebeest,0.001806017,10,Mozambique
+MOZ_Lim,Limp. east,5537.045,Greater Kudu,0.12822724,710,Mozambique
+MOZ_Lim,Limp. east,5537.045,Impala,0.081270786,450,Mozambique
+MOZ_Lim,Limp. east,5537.045,Nyala,0.063210611,350,Mozambique
+MOZ_Lim,Limp. east,5537.045,Waterbuck,0.001806017,10,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,African Buffalo,0.039362537,60,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,African Savannah Elephant,0.085285496,130,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Bushbuck,0.006560423,10,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Bushpig,0.013120846,20,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Common Warthog,0.032802114,50,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Giraffe,0.032802114,50,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Greater Kudu,0.170570993,260,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Impala,0.16401057,250,Mozambique
+MOZ_Lim,Limp. ext.,1524.292,Nyala,0.039362537,60,Mozambique
+MOZ_Lim,Limp. ext. 1,1716.985,African Buffalo,0.069889952,120,Mozambique
+MOZ_Lim,Limp. ext. 1,1716.985,Greater Kudu,0.087362441,150,Mozambique
+MOZ_Lim,Limp. north,3188.699,African Buffalo,0.034496828,110,Mozambique
+MOZ_Lim,Limp. north,3188.699,African Savannah Elephant,0.106626558,340,Mozambique
+MOZ_Lim,Limp. north,3188.699,Bushpig,0.009408226,30,Mozambique
+MOZ_Lim,Limp. north,3188.699,Common Wildebeest,0.00627215,20,Mozambique
+MOZ_Lim,Limp. north,3188.699,Giraffe,0.00627215,20,Mozambique
+MOZ_Lim,Limp. north,3188.699,Greater Kudu,0.100354408,320,Mozambique
+MOZ_Lim,Limp. north,3188.699,Impala,0.043905053,140,Mozambique
+MOZ_Lim,Limp. north,3188.699,Nyala,0.185028439,590,Mozambique
+MOZ_Lim,Limp. north,3188.699,Plains Zebra,0.028224677,90,Mozambique
+MOZ_Lim,Limp. west,3249.328,African Buffalo,0.458556354,1490,Mozambique
+MOZ_Lim,Limp. west,3249.328,African Savannah Elephant,0.437013438,1420,Mozambique
+MOZ_Lim,Limp. west,3249.328,Bushpig,0.021542916,70,Mozambique
+MOZ_Lim,Limp. west,3249.328,Common Hippopotamus,0.036930713,120,Mozambique
+MOZ_Lim,Limp. west,3249.328,Common Warthog,0.003077559,10,Mozambique
+MOZ_Lim,Limp. west,3249.328,Common Wildebeest,0.141567733,460,Mozambique
+MOZ_Lim,Limp. west,3249.328,Giraffe,0.033853154,110,Mozambique
+MOZ_Lim,Limp. west,3249.328,Greater Kudu,0.323143739,1050,Mozambique
+MOZ_Lim,Limp. west,3249.328,Impala,0.369307131,1200,Mozambique
+MOZ_Lim,Limp. west,3249.328,Nyala,0.329298858,1070,Mozambique
+MOZ_Lim,Limp. west,3249.328,Plains Zebra,0.200041362,650,Mozambique
+MOZ_Lim,Limp. west,3249.328,Roan Antelope,0.003077559,10,Mozambique
+MOZ_Lim,Limp. west,3249.328,Sable Antelope,0.009232678,30,Mozambique
+MOZ_Lim,Limp. west,3249.328,Waterbuck,0.169265768,550,Mozambique
+MWI_LIW,Liwonde NP,545.912,African Buffalo,1.353698032,739,Malawi
+MWI_LIW,Liwonde NP,545.912,African Savannah Elephant,1.472764841,804,Malawi
+MWI_LIW,Liwonde NP,545.912,Black Rhinoceros,0.001831797,1,Malawi
+MWI_LIW,Liwonde NP,545.912,Bushbuck,0.067776491,37,Malawi
+MWI_LIW,Liwonde NP,545.912,Common Duiker,0.027476956,15,Malawi
+MWI_LIW,Liwonde NP,545.912,Common Eland,0.005495391,3,Malawi
+MWI_LIW,Liwonde NP,545.912,Common Hippopotamus,3.751520392,2048,Malawi
+MWI_LIW,Liwonde NP,545.912,Common Warthog,1.580840868,863,Malawi
+MWI_LIW,Liwonde NP,545.912,Greater Kudu,0.060449303,33,Malawi
+MWI_LIW,Liwonde NP,545.912,Hartebeest,0.014654377,8,Malawi
+MWI_LIW,Liwonde NP,545.912,Impala,3.412637934,1863,Malawi
+MWI_LIW,Liwonde NP,545.912,Oribi,0.025645159,14,Malawi
+MWI_LIW,Liwonde NP,545.912,Plains Zebra,0.023813362,13,Malawi
+MWI_LIW,Liwonde NP,545.912,Roan Antelope,0.010990782,6,Malawi
+MWI_LIW,Liwonde NP,545.912,Sable Antelope,0.48725802,266,Malawi
+MWI_LIW,Liwonde NP,545.912,Southern Reedbuck,0.111739621,61,Malawi
+MWI_LIW,Liwonde NP,545.912,Waterbuck,6.885725172,3759,Malawi
+KEN_LAI,LorianSwamp,NA,Bushbuck,NA,1,NA
+KEN_LAI,LorianSwamp,NA,Gerenuk,NA,4,NA
+KEN_LAI,LorianSwamp,NA,Giraffe,NA,2,NA
+KEN_LAI,LorianSwamp,NA,Thomson's Gazelle,NA,114,NA
+ETH_BAB,Low,2789.417,Gerenuk,0.179248925,500,Ethiopia
+ETH_BAB,Low,2789.417,Greater Kudu,0.011949928,33.33333333,Ethiopia
+ETH_BAB,Low,2789.417,Lesser Kudu,0.023899857,66.66666667,Ethiopia
+MOZ_Mag,Luangwa,1080.644,Bushbuck,0.005712186,6.172839506,Mozambique
+MOZ_Mag,Luangwa,1080.644,Common Duiker,0.091394976,98.7654321,Mozambique
+MOZ_Mag,Luangwa,1080.644,Greater Kudu,0.074258418,80.24691358,Mozambique
+MOZ_Mag,Luangwa,1080.644,Roan Antelope,0.068546232,74.07407407,Mozambique
+MOZ_Mag,Luenha,1088.924,African Savannah Elephant,0.015826587,17.23395088,Mozambique
+MOZ_Mag,Luenha,1088.924,Common Duiker,0.043523115,47.39336493,Mozambique
+MOZ_Mag,Luenha,1088.924,Steenbok,0.007913294,8.616975442,Mozambique
+ZWE_SEB,Lusulu,537.035,Common Duiker,0.047668089,25.59943198,Zimbabwe
+ZMB_Low,Lzam,2536.24,African Buffalo,1.924106731,4879.996456,Zambia
+ZMB_Low,Lzam,2536.24,African Savannah Elephant,0.450485306,1142.538853,Zambia
+ZMB_Low,Lzam,2536.24,Common Duiker,0.007635344,19.3650653,Zambia
+ZMB_Low,Lzam,2536.24,Common Hippopotamus,0.293960751,745.5550141,Zambia
+ZMB_Low,Lzam,2536.24,Common Warthog,0.064900425,164.6030551,Zambia
+ZMB_Low,Lzam,2536.24,Greater Kudu,0.026723705,67.77772856,Zambia
+ZMB_Low,Lzam,2536.24,Impala,1.580516244,4008.568518,Zambia
+ZMB_Low,Lzam,2536.24,Plains Zebra,0.160342228,406.6663714,Zambia
+ZMB_Low,Lzam,2536.24,Waterbuck,0.263419374,668.0947529,Zambia
+ZWE_SELV,Mabalauta NP,813.95,African Buffalo,0.711334728,578.9909016,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,African Savannah Elephant,0.670687029,545.9057072,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Common Duiker,0.020323849,16.54259719,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Common Warthog,0.040647699,33.08519438,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Common Wildebeest,0.050809623,41.35649297,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Giraffe,0.050809623,41.35649297,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Greater Kudu,0.071133473,57.89909016,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Impala,0.711334728,578.9909016,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Nyala,0.020323849,16.54259719,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Plains Zebra,0.223562343,181.9685691,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Steenbok,0.010161925,8.271298594,Zimbabwe
+ZWE_SELV,Mabalauta NP,813.95,Waterbuck,0.030485774,24.81389578,Zimbabwe
+MOZ_Mag,Magoe 1,368.137,African Buffalo,8.945613624,3293.211363,Mozambique
+MOZ_Mag,Magoe 1,368.137,African Savannah Elephant,1.072427364,394.8001926,Mozambique
+MOZ_Mag,Magoe 1,368.137,Common Duiker,0.013078382,4.814636495,Mozambique
+MOZ_Mag,Magoe 1,368.137,Common Hippopotamus,0.326959562,120.3659124,Mozambique
+MOZ_Mag,Magoe 1,368.137,Common Warthog,0.170018972,62.59027443,Mozambique
+MOZ_Mag,Magoe 1,368.137,Greater Kudu,0.013078382,4.814636495,Mozambique
+MOZ_Mag,Magoe 1,368.137,Impala,3.871201217,1425.132403,Mozambique
+MOZ_Mag,Magoe 1,368.137,Plains Zebra,0.20925412,77.03418392,Mozambique
+MOZ_Mag,Magoe 1,368.137,Roan Antelope,0.10462706,38.51709196,Mozambique
+MOZ_Mag,Magoe 2,368.543,African Buffalo,2.236158611,824.120603,Mozambique
+MOZ_Mag,Magoe 2,368.543,African Savannah Elephant,1.008998398,371.8592965,Mozambique
+MOZ_Mag,Magoe 2,368.543,Common Hippopotamus,0.136351135,50.25125628,Mozambique
+MOZ_Mag,Magoe 2,368.543,Common Warthog,0.122716021,45.22613065,Mozambique
+MOZ_Mag,Magoe 2,368.543,Greater Kudu,0.136351135,50.25125628,Mozambique
+MOZ_Mag,Magoe 2,368.543,Impala,12.23069679,4507.537688,Mozambique
+MOZ_Mag,Magoe 3,582.538,Common Duiker,0.231715574,134.9831271,Mozambique
+MOZ_Mag,Magoe 3,582.538,Common Hippopotamus,0.115857787,67.49156355,Mozambique
+MOZ_Mag,Magoe 3,582.538,Impala,0.888243034,517.4353206,Mozambique
+MOZ_Mag,Magoe 4,655.53,Common Duiker,0.017645844,11.56737999,Mozambique
+MOZ_Mag,Magoe 4,655.53,Impala,0.008822922,5.783689994,Mozambique
+MOZ_Mag,Magoe 4,655.53,Sable Antelope,0.008822922,5.783689994,Mozambique
+MOZ_Mag,Magoe 5,744.183,African Buffalo,0.167634169,124.750499,Mozambique
+MOZ_Mag,Magoe 5,744.183,African Savannah Elephant,0.382205906,284.4311377,Mozambique
+MOZ_Mag,Magoe 5,744.183,Bushpig,0.026821467,19.96007984,Mozambique
+MOZ_Mag,Magoe 5,744.183,Common Duiker,0.174339536,129.740519,Mozambique
+MOZ_Mag,Magoe 5,744.183,Common Eland,0.073759034,54.89021956,Mozambique
+MOZ_Mag,Magoe 5,744.183,Common Warthog,0.080464401,59.88023952,Mozambique
+MOZ_Mag,Magoe 5,744.183,Greater Kudu,0.134107335,99.8003992,Mozambique
+MOZ_Mag,Magoe 5,744.183,Impala,0.127401969,94.81037924,Mozambique
+MOZ_Mag,Magoe 5,744.183,Roan Antelope,0.073759034,54.89021956,Mozambique
+MOZ_Mag,Magoe 5,744.183,Sable Antelope,0.388911273,289.4211577,Mozambique
+ZWE_SELV,Mahenye,220.824,African Savannah Elephant,1.499501086,331.1258278,Zimbabwe
+ZWE_SELV,Mahenye,220.824,Bushbuck,0.042842888,9.460737938,Zimbabwe
+ZWE_SELV,Mahenye,220.824,Common Duiker,0.042842888,9.460737938,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,African Savannah Elephant,5.958848923,7471.264368,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Giraffe,0.165014278,206.8965517,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Greater Kudu,0.183349198,229.8850575,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Impala,0.091674599,114.9425287,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Plains Zebra,0.192516658,241.3793103,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Roan Antelope,0.03666984,45.97701149,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Sable Antelope,0.284191256,356.3218391,Zimbabwe
+ZWE_MAT,Main Camp,1253.81,Waterbuck,0.03666984,45.97701149,Zimbabwe
+ZWE_MAT,Maitengwe,1203.466,African Savannah Elephant,0.610980383,735.2941176,Zimbabwe
+ZWE_MAT,Maitengwe,1203.466,Common Duiker,0.024439215,29.41176471,Zimbabwe
+BWA_NOR,Makgadikgadi East,2973.259,African Savannah Elephant,0.341136011,1014.285714,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Common Wildebeest,0.379573871,1128.571429,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Gemsbok,0.50930165,1514.285714,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Greater Kudu,0.024023663,71.42857143,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Hartebeest,0.014414198,42.85714286,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Plains Zebra,0.701490952,2085.714286,Botswana
+BWA_NOR,Makgadikgadi East,2973.259,Springbok,0.120118314,357.1428571,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,African Savannah Elephant,0.362779566,794.7368421,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Common Wildebeest,1.309369957,2868.421053,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Gemsbok,0.432452463,947.3684211,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Giraffe,0.146553335,321.0526316,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Greater Kudu,0.206616177,452.6315789,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Impala,0.026427651,57.89473684,Botswana
+BWA_NOR,Makgadikgadi NP West,2190.688,Plains Zebra,10.41970184,22826.31579,Botswana
+MOZ_Mag,Makumbura 1,1400.969,African Buffalo,0.003528382,4.943153732,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,African Savannah Elephant,0.081152785,113.6925358,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Bushbuck,0.003528382,4.943153732,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Common Duiker,0.042340583,59.31784478,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Common Hippopotamus,0.137606896,192.7829956,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Common Warthog,0.010585146,14.8294612,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Greater Kudu,0.049397347,69.20415225,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Plains Zebra,0.056454111,79.09045971,Mozambique
+MOZ_Mag,Makumbura 1,1400.969,Steenbok,0.010585146,14.8294612,Mozambique
+MOZ_Mag,Makumbura 2,875.691,Common Duiker,0.184818665,161.8440412,Mozambique
+MOZ_Mag,Makumbura 3,797.815,Common Duiker,0.073764166,58.85015844,Mozambique
+MOZ_Mag,Makumbura 3,797.815,Greater Kudu,0.0510675,40.74241738,Mozambique
+MOZ_Mag,Makumbura 3,797.815,Impala,0.005674167,4.526935265,Mozambique
+MOZ_Mag,Makumbura 4,771.265,African Savannah Elephant,0.005947574,4.587155963,Mozambique
+MOZ_Mag,Makumbura 4,771.265,Bushpig,0.023790298,18.34862385,Mozambique
+MOZ_Mag,Makumbura 4,771.265,Common Duiker,0.166532083,128.440367,Mozambique
+MOZ_Mag,Makumbura 4,771.265,Common Warthog,0.023790298,18.34862385,Mozambique
+MOZ_Mag,Makumbura 4,771.265,Greater Kudu,0.041633021,32.11009174,Mozambique
+MOZ_Mag,Makumbura 4,771.265,Steenbok,0.029737872,22.93577982,Mozambique
+ZWE_SELV,Malapati,177.075,African Buffalo,0.207241269,36.69724771,Zimbabwe
+ZWE_SELV,Malapati,177.075,Greater Kudu,0.259051586,45.87155963,Zimbabwe
+ZWE_SELV,Malapati,177.075,Impala,0.518103172,91.74311927,Zimbabwe
+ZWE_SELV,Malapati,177.075,Plains Zebra,0.155430952,27.52293578,Zimbabwe
+ZWE_ZV,Mana Escarpment,461.719,African Buffalo,0.067261474,31.05590062,Zimbabwe
+ZWE_ZV,Mana Escarpment,461.719,African Savannah Elephant,0.524639499,242.2360248,Zimbabwe
+ZWE_ZV,Mana I,318.787,African Buffalo,3.650200176,1163.636364,Zimbabwe
+ZWE_ZV,Mana I,318.787,African Savannah Elephant,5.133093998,1636.363636,Zimbabwe
+ZWE_ZV,Mana I,318.787,Common Eland,0.541826589,172.7272727,Zimbabwe
+ZWE_ZV,Mana I,318.787,Common Hippopotamus,10.18063643,3245.454545,Zimbabwe
+ZWE_ZV,Mana I,318.787,Common Warthog,0.342206267,109.0909091,Zimbabwe
+ZWE_ZV,Mana I,318.787,Greater Kudu,0.114068756,36.36363636,Zimbabwe
+ZWE_ZV,Mana I,318.787,Impala,8.155916019,2600,Zimbabwe
+ZWE_ZV,Mana I,318.787,Plains Zebra,0.684412533,218.1818182,Zimbabwe
+ZWE_ZV,Mana I,318.787,Waterbuck,1.625479766,518.1818182,Zimbabwe
+ZWE_ZV,Mana II,1386.407,African Buffalo,2.515714994,3487.804878,Zimbabwe
+ZWE_ZV,Mana II,1386.407,African Savannah Elephant,3.184226671,4414.634146,Zimbabwe
+ZWE_ZV,Mana II,1386.407,Common Warthog,0.026388619,36.58536585,Zimbabwe
+ZWE_ZV,Mana II,1386.407,Greater Kudu,0.035184825,48.7804878,Zimbabwe
+ZWE_ZV,Mana II,1386.407,Impala,1.310634735,1817.073171,Zimbabwe
+ZWE_ZV,Mana II,1386.407,Plains Zebra,0.096758269,134.1463415,Zimbabwe
+ZWE_SEB,Mapongolas,376.661,Impala,0.015078479,5.679475043,Zimbabwe
+ZWE_SEB,Mapongolas,376.661,Sable Antelope,0.015078479,5.679475043,Zimbabwe
+ZWE_ZV,Marongora (Hurungwe II),523.204,African Buffalo,0.355260292,185.8736059,Zimbabwe
+ZWE_ZV,Marongora (Hurungwe II),523.204,African Savannah Elephant,0.326839469,171.0037175,Zimbabwe
+ZWE_ZV,Marongora (Hurungwe II),523.204,Plains Zebra,0.056841647,29.73977695,Zimbabwe
+ZWE_ZV,Marongora (Hurungwe II),523.204,Southern Reedbuck,0.007105206,3.717472119,Zimbabwe
+MOZ_Mar,Marromeo Buffalo R,2303.169,African Buffalo,6.543664402,15071.165,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,African Savannah Elephant,0.263211405,606.2203479,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Bushbuck,0.002288795,5.271481286,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Bushpig,0.027465538,63.25777543,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Common Eland,0.38451753,885.6088561,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Common Hippopotamus,0.06179746,142.3299947,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Common Warthog,0.405116684,933.0521877,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Hartebeest,0.208280329,479.704797,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Plains Zebra,0.135038895,311.0173959,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Sable Antelope,0.173948407,400.6325778,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Southern Reedbuck,0.533289194,1228.25514,Mozambique
+MOZ_Mar,Marromeo Buffalo R,2303.169,Waterbuck,1.636488299,3769.10912,Mozambique
+KEN_LAI,MarsabitB,420.76,African Savannah Elephant,0.130715848,55,Kenya
+KEN_LAI,MarsabitB,420.76,Gerenuk,0.004753304,2,Kenya
+KEN_LAI,MarsabitB,420.76,Greater Kudu,0.014259911,6,Kenya
+KEN_LAI,MarsabitB,420.76,Grevy's Zebra,0.011883259,5,Kenya
+ZWE_MAT,Matetsi,697.751,African Savannah Elephant,2.101991494,1466.666667,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Common Eland,0.382180272,266.6666667,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Giraffe,0.047772534,33.33333333,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Greater Kudu,0.047772534,33.33333333,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Impala,0.859905611,600,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Plains Zebra,0.525497873,366.6666667,Zimbabwe
+ZWE_MAT,Matetsi,697.751,Waterbuck,1.33763095,933.3333333,Zimbabwe
+ZWE_SEB,Matusadona East,245.201,African Savannah Elephant,1.032521768,253.1753701,Zimbabwe
+ZWE_SEB,Matusadona East,245.201,Common Hippopotamus,0.847592496,207.8305277,Zimbabwe
+ZWE_SEB,Matusadona East,245.201,Greater Kudu,0.015410773,3.778736867,Zimbabwe
+ZWE_SEB,Matusadona East,245.201,Impala,2.820171397,691.5088466,Zimbabwe
+ZWE_SEB,Matusadona East,245.201,Waterbuck,0.154107727,37.78736867,Zimbabwe
+ZWE_SEB,Matusadona Highlands,1006.128,African Buffalo,2.752688172,2769.556645,Zimbabwe
+ZWE_SEB,Matusadona Highlands,1006.128,African Savannah Elephant,1.519713262,1529.026065,Zimbabwe
+ZWE_SEB,Matusadona Highlands,1006.128,Common Warthog,0.258064516,259.6459355,Zimbabwe
+ZWE_SEB,Matusadona Highlands,1006.128,Impala,0.05734767,57.69909677,Zimbabwe
+ZWE_SEB,Matusadona Highlands,1006.128,Plains Zebra,0.573476703,576.9909677,Zimbabwe
+ZWE_SEB,Matusadona West,116.328,African Buffalo,3.026791003,352.1005438,Zimbabwe
+ZWE_SEB,Matusadona West,116.328,African Savannah Elephant,1.139497789,132.5554989,Zimbabwe
+ZWE_SEB,Matusadona West,116.328,Common Hippopotamus,0.712186118,82.84718678,Zimbabwe
+ZWE_SEB,Matusadona West,116.328,Impala,0.890232648,103.5589835,Zimbabwe
+ZWE_SEB,Matusadona West,116.328,Waterbuck,0.071218612,8.284718678,Zimbabwe
+AGO_Lui,Mavinga,1671.475,Common Warthog,0.094014483,157.1428571,Angola
+AGO_Lui,Mavinga,1671.475,Southern Lechwe,0.589727208,985.7142857,Angola
+AGO_Lui,Mavinga,1671.475,Southern Reedbuck,0.102561254,171.4285714,Angola
+MOZ_Mag,Mecucoe,776.16,Common Duiker,0.043847787,34.03289847,Mozambique
+MOZ_Mag,Mecucoe,776.16,Common Hippopotamus,0.08038761,62.39364719,Mozambique
+MOZ_Mag,Mecucoe,776.16,Common Warthog,0.029231858,22.68859898,Mozambique
+MOZ_Mag,Mecucoe,776.16,Greater Kudu,0.095003539,73.73794668,Mozambique
+MOZ_Mag,Mecucoe,776.16,Impala,0.021923894,17.01644923,Mozambique
+MOZ_Mag,Mecucoe,776.16,Steenbok,0.007307965,5.672149745,Mozambique
+ETH_BAB,Medium,3379.038,Common Warthog,0.039458962,133.3333333,Ethiopia
+ETH_BAB,Medium,3379.038,Gerenuk,0.00493237,16.66666667,Ethiopia
+ETH_BAB,Medium,3379.038,Greater Kudu,0.00493237,16.66666667,Ethiopia
+KEN_LAI,Meru,1005.045,African Buffalo,1.702411335,1711,Kenya
+KEN_LAI,Meru,1005.045,African Savannah Elephant,0.655692034,659,Kenya
+KEN_LAI,Meru,1005.045,Beisa Oryx,0.003979921,4,Kenya
+KEN_LAI,Meru,1005.045,Black Rhinoceros,0.010944784,11,Kenya
+KEN_LAI,Meru,1005.045,Common Eland,0.033829331,34,Kenya
+KEN_LAI,Meru,1005.045,Common Hippopotamus,0.002984941,3,Kenya
+KEN_LAI,Meru,1005.045,Gerenuk,0.003979921,4,Kenya
+KEN_LAI,Meru,1005.045,Giraffe,0.401972051,404,Kenya
+KEN_LAI,Meru,1005.045,Greater Kudu,0.019899606,20,Kenya
+KEN_LAI,Meru,1005.045,Hartebeest,0.005969882,6,Kenya
+KEN_LAI,Meru,1005.045,Impala,0.038804233,39,Kenya
+KEN_LAI,Meru,1005.045,Plains Zebra,0.433811421,436,Kenya
+KEN_LAI,Meru,1005.045,Thomson's Gazelle,0.09352815,94,Kenya
+KEN_LAI,Meru,1005.045,Waterbuck,0.079598426,80,Kenya
+MOZ_Mag,Metamboa,453.949,Common Duiker,0.191666818,87.00696056,Mozambique
+UGA_MFPA,MFNP,6270.784,African Buffalo,2.12578152,13330.31674,Uganda
+UGA_MFPA,MFNP,6270.784,African Savannah Elephant,0.213588367,1339.366516,Uganda
+UGA_MFPA,MFNP,6270.784,Bushbuck,0.004329494,27.14932127,Uganda
+UGA_MFPA,MFNP,6270.784,Bushpig,0.001443165,9.049773756,Uganda
+UGA_MFPA,MFNP,6270.784,Common Duiker,0.004329494,27.14932127,Uganda
+UGA_MFPA,MFNP,6270.784,Common Hippopotamus,0.271314953,1701.357466,Uganda
+UGA_MFPA,MFNP,6270.784,Common Warthog,0.8081722,5067.873303,Uganda
+UGA_MFPA,MFNP,6270.784,Giraffe,0.137100641,859.7285068,Uganda
+UGA_MFPA,MFNP,6270.784,Kob,9.395001829,58914.02715,Uganda
+UGA_MFPA,MFNP,6270.784,Oribi,0.086589879,542.9864253,Uganda
+UGA_MFPA,MFNP,6270.784,Waterbuck,0.855796634,5366.515837,Uganda
+KEN_LAI,Milgis River,145.958,African Savannah Elephant,0.459036161,67,Kenya
+BWA_NOR,Moremi,4911.229,African Buffalo,4.771378678,23433.33333,Botswana
+BWA_NOR,Moremi,4911.229,African Savannah Elephant,2.106284281,10344.44444,Botswana
+BWA_NOR,Moremi,4911.229,Common Hippopotamus,0.529399057,2600,Botswana
+BWA_NOR,Moremi,4911.229,Common Warthog,0.197959049,972.2222222,Botswana
+BWA_NOR,Moremi,4911.229,Common Wildebeest,0.090495565,444.4444444,Botswana
+BWA_NOR,Moremi,4911.229,Giraffe,0.280536252,1377.777778,Botswana
+BWA_NOR,Moremi,4911.229,Greater Kudu,0.238682053,1172.222222,Botswana
+BWA_NOR,Moremi,4911.229,Impala,7.340321537,36050,Botswana
+BWA_NOR,Moremi,4911.229,Plains Zebra,0.357457483,1755.555556,Botswana
+BWA_NOR,Moremi,4911.229,Roan Antelope,0.002262389,11.11111111,Botswana
+BWA_NOR,Moremi,4911.229,Sable Antelope,0.026017475,127.7777778,Botswana
+BWA_NOR,Moremi,4911.229,Sitatunga,0.041854199,205.5555556,Botswana
+BWA_NOR,Moremi,4911.229,Southern Lechwe,5.255529952,25811.11111,Botswana
+BWA_NOR,Moremi,4911.229,Southern Reedbuck,0.114250651,561.1111111,Botswana
+BWA_NOR,Moremi,4911.229,Topi,0.145924099,716.6666667,Botswana
+BWA_NOR,Moremi,4911.229,Waterbuck,0.038460615,188.8888889,Botswana
+BWA_NOR,Moremi,4911.229,White Rhinoceros,0.007918362,38.88888889,Botswana
+MOZ_Mag,Mphende,812.749,African Savannah Elephant,0.180233227,146.484375,Mozambique
+MOZ_Mag,Mphende,812.749,Common Duiker,0.018023323,14.6484375,Mozambique
+MOZ_Mag,Mphende,812.749,Common Hippopotamus,0.108139936,87.890625,Mozambique
+MOZ_Mag,Mphende,812.749,Steenbok,0.006007774,4.8828125,Mozambique
+ZWE_MAT,Mtoa,824.562,African Savannah Elephant,1.970743255,1625,Zimbabwe
+ZWE_MAT,Mtoa,824.562,Common Eland,0.044586951,36.76470588,Zimbabwe
+ZWE_MAT,Mtoa,824.562,Giraffe,0.098091293,80.88235294,Zimbabwe
+ZWE_MAT,Mtoa,824.562,Greater Kudu,0.089173903,73.52941176,Zimbabwe
+ZWE_MAT,Mtoa,824.562,Plains Zebra,0.071339122,58.82352941,Zimbabwe
+ZWE_MAT,Mtoa,824.562,Sable Antelope,0.026752171,22.05882353,Zimbabwe
+AGO_Lui,MucussoLuianaNamBorder,3961.65,African Savannah Elephant,0.043272013,171.4285714,Angola
+AGO_Lui,MucussoLuianaNamBorder,3961.65,Common Eland,0.018030006,71.42857143,Angola
+AGO_Lui,MucussoLuianaNamBorder,3961.65,Common Warthog,0.007212002,28.57142857,Angola
+AGO_Lui,MucussoLuianaNamBorder,3961.65,Giraffe,0.018030006,71.42857143,Angola
+AGO_Lui,MucussoLuianaNamBorder,3961.65,Greater Kudu,0.057696018,228.5714286,Angola
+AGO_Lui,MucussoLuianaNamBorder,3961.65,Sable Antelope,0.043272013,171.4285714,Angola
+KEN_LAI,Mwea,79.431,African Savannah Elephant,0.893857562,71,Kenya
+KEN_LAI,Mwea,79.431,Giraffe,0.289559492,23,Kenya
+KEN_LAI,Mwea,79.431,Plains Zebra,0.553939898,44,Kenya
+ZWE_SEB,Mwenda,424.779,African Savannah Elephant,0.01124937,4.778496304,Zimbabwe
+ZWE_SEB,Mwenda,424.779,Common Hippopotamus,0.123743074,52.56345934,Zimbabwe
+ZWE_SELV,Naivasha,895.562,African Savannah Elephant,0.612913674,548.9021956,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Common Duiker,0.011143885,9.98003992,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Giraffe,0.211733815,189.6207585,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Greater Kudu,0.234021585,209.5808383,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Impala,0.334316549,299.4011976,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Nyala,0.02228777,19.96007984,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Plains Zebra,0.04457554,39.92015968,Zimbabwe
+ZWE_SELV,Naivasha,895.562,Steenbok,0.011143885,9.98003992,Zimbabwe
+KEN_LAI,Nasalot,102.774,Common Warthog,0.048650437,5,Kenya
+ZWE_SEB,Negande,713.505,Common Duiker,0.021672507,15.46344216,Zimbabwe
+ZWE_SEB,Nenyunga,494.64,African Buffalo,0.042739577,21.14070458,Zimbabwe
+ZWE_SEB,Nenyunga,494.64,Bushbuck,0.028493052,14.09380305,Zimbabwe
+ZWE_SEB,Nenyunga,494.64,Common Duiker,0.028493052,14.09380305,Zimbabwe
+ZWE_SEB,Nenyunga,494.64,Impala,0.014246526,7.046901527,Zimbabwe
+BWA_NOR,NG 43 Mababe South,650.244,African Buffalo,2.250167467,1463.157895,Botswana
+BWA_NOR,NG 43 Mababe South,650.244,African Savannah Elephant,2.347296998,1526.315789,Botswana
+BWA_NOR,NG 43 Mababe South,650.244,Common Eland,0.008094128,5.263157895,Botswana
+BWA_NOR,NG 43 Mababe South,650.244,Gemsbok,0.040470638,26.31578947,Botswana
+BWA_NOR,NG 43 Mababe South,650.244,Giraffe,0.080941276,52.63157895,Botswana
+BWA_NOR,NG 43 Mababe South,650.244,Plains Zebra,0.03237651,21.05263158,Botswana
+BWA_NOR,NG11 and 10,5563.461,African Savannah Elephant,1.672520037,9305,Botswana
+BWA_NOR,NG11 and 10,5563.461,Bushpig,0.000898721,5,Botswana
+BWA_NOR,NG11 and 10,5563.461,Common Hippopotamus,0.221984121,1235,Botswana
+BWA_NOR,NG11 and 10,5563.461,Common Warthog,0.007189769,40,Botswana
+BWA_NOR,NG11 and 10,5563.461,Greater Kudu,0.009885933,55,Botswana
+BWA_NOR,NG11 and 10,5563.461,Plains Zebra,0.072796412,405,Botswana
+BWA_NOR,NG11 and 10,5563.461,Roan Antelope,0.022468028,125,Botswana
+BWA_NOR,NG11 and 10,5563.461,Sable Antelope,0.001797442,10,Botswana
+BWA_NOR,NG11 and 10,5563.461,Sitatunga,0.027860355,155,Botswana
+BWA_NOR,NG12,972.446,African Buffalo,0.015425021,15,Botswana
+BWA_NOR,NG12,972.446,African Savannah Elephant,3.198121027,3110,Botswana
+BWA_NOR,NG12,972.446,Common Hippopotamus,0.257083684,250,Botswana
+BWA_NOR,NG12,972.446,Common Warthog,0.143966863,140,Botswana
+BWA_NOR,NG12,972.446,Common Wildebeest,0.030850042,30,Botswana
+BWA_NOR,NG12,972.446,Giraffe,0.066841758,65,Botswana
+BWA_NOR,NG12,972.446,Greater Kudu,0.066841758,65,Botswana
+BWA_NOR,NG12,972.446,Impala,0.668417578,650,Botswana
+BWA_NOR,NG12,972.446,Plains Zebra,1.521935408,1480,Botswana
+BWA_NOR,NG12,972.446,Sable Antelope,0.046275063,45,Botswana
+BWA_NOR,NG12,972.446,Southern Lechwe,0.323925442,315,Botswana
+BWA_NOR,NG12,972.446,Southern Reedbuck,0.05655841,55,Botswana
+BWA_NOR,NG12,972.446,Topi,0.0976918,95,Botswana
+BWA_NOR,NG13,2555.085,African Savannah Elephant,0.181011591,462.5,Botswana
+BWA_NOR,NG13,2555.085,Plains Zebra,0.16144277,412.5,Botswana
+BWA_NOR,NG13,2555.085,Roan Antelope,0.17122718,437.5,Botswana
+BWA_NOR,NG13,2555.085,Sable Antelope,0.195688206,500,Botswana
+BWA_NOR,NG14,2837.06,African Buffalo,2.495852168,7080.882353,Botswana
+BWA_NOR,NG14,2837.06,African Savannah Elephant,2.107090148,5977.941176,Botswana
+BWA_NOR,NG14,2837.06,Common Eland,0.018142228,51.47058824,Botswana
+BWA_NOR,NG14,2837.06,Common Hippopotamus,0.18660577,529.4117647,Botswana
+BWA_NOR,NG14,2837.06,Common Warthog,0.075160657,213.2352941,Botswana
+BWA_NOR,NG14,2837.06,Common Wildebeest,0.196972757,558.8235294,Botswana
+BWA_NOR,NG14,2837.06,Giraffe,0.101078125,286.7647059,Botswana
+BWA_NOR,NG14,2837.06,Greater Kudu,0.090711138,257.3529412,Botswana
+BWA_NOR,NG14,2837.06,Impala,0.347294071,985.2941176,Botswana
+BWA_NOR,NG14,2837.06,Plains Zebra,0.759381812,2154.411765,Botswana
+BWA_NOR,NG14,2837.06,Roan Antelope,0.023325721,66.17647059,Botswana
+BWA_NOR,NG14,2837.06,Sable Antelope,0.090711138,257.3529412,Botswana
+BWA_NOR,NG14,2837.06,Sitatunga,0.005183494,14.70588235,Botswana
+BWA_NOR,NG14,2837.06,Southern Lechwe,0.619427485,1757.352941,Botswana
+BWA_NOR,NG14,2837.06,Southern Reedbuck,0.018142228,51.47058824,Botswana
+BWA_NOR,NG14,2837.06,Topi,0.044059696,125,Botswana
+BWA_NOR,NG14,2837.06,Waterbuck,0.00777524,22.05882353,Botswana
+BWA_NOR,NG15,1196.129,African Buffalo,0.171850658,205.5555556,Botswana
+BWA_NOR,NG15,1196.129,African Savannah Elephant,2.048274057,2450,Botswana
+BWA_NOR,NG15,1196.129,Common Hippopotamus,0.069669186,83.33333333,Botswana
+BWA_NOR,NG15,1196.129,Common Warthog,0.013933837,16.66666667,Botswana
+BWA_NOR,NG15,1196.129,Common Wildebeest,0.092892248,111.1111111,Botswana
+BWA_NOR,NG15,1196.129,Giraffe,0.060379961,72.22222222,Botswana
+BWA_NOR,NG15,1196.129,Greater Kudu,0.046446124,55.55555556,Botswana
+BWA_NOR,NG15,1196.129,Impala,0.297255192,355.5555556,Botswana
+BWA_NOR,NG15,1196.129,Plains Zebra,0.167206046,200,Botswana
+BWA_NOR,NG15,1196.129,Roan Antelope,0.01857845,22.22222222,Botswana
+BWA_NOR,NG15,1196.129,Sable Antelope,0.032512287,38.88888889,Botswana
+BWA_NOR,NG15,1196.129,Sitatunga,0.009289225,11.11111111,Botswana
+BWA_NOR,NG15,1196.129,Southern Lechwe,0.185784495,222.2222222,Botswana
+BWA_NOR,NG15,1196.129,Waterbuck,0.013933837,16.66666667,Botswana
+BWA_NOR,NG16,1361.344,African Buffalo,6.783737248,9235,Botswana
+BWA_NOR,NG16,1361.344,African Savannah Elephant,3.202717315,4360,Botswana
+BWA_NOR,NG16,1361.344,Common Eland,0.440740915,600,Botswana
+BWA_NOR,NG16,1361.344,Common Hippopotamus,0.088148183,120,Botswana
+BWA_NOR,NG16,1361.344,Common Warthog,0.172623525,235,Botswana
+BWA_NOR,NG16,1361.344,Common Wildebeest,0.040401251,55,Botswana
+BWA_NOR,NG16,1361.344,Giraffe,0.168950684,230,Botswana
+BWA_NOR,NG16,1361.344,Greater Kudu,0.062438296,85,Botswana
+BWA_NOR,NG16,1361.344,Impala,0.76762376,1045,Botswana
+BWA_NOR,NG16,1361.344,Plains Zebra,0.525216257,715,Botswana
+BWA_NOR,NG16,1361.344,Roan Antelope,0.025709887,35,Botswana
+BWA_NOR,NG16,1361.344,Sable Antelope,0.19098773,260,Botswana
+BWA_NOR,NG16,1361.344,Southern Lechwe,0.734568191,1000,Botswana
+BWA_NOR,NG16,1361.344,Southern Reedbuck,0.003672841,5,Botswana
+BWA_NOR,NG16,1361.344,Topi,0.11385807,155,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,African Buffalo,0.983734951,1880.952381,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,African Savannah Elephant,0.819364048,1566.666667,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Common Hippopotamus,0.181804181,347.6190476,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Common Warthog,0.039847492,76.19047619,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Common Wildebeest,0.014942809,28.57142857,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Giraffe,0.04233796,80.95238095,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Greater Kudu,0.022414214,42.85714286,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Impala,0.36609883,700,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Plains Zebra,0.044828428,85.71428571,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Roan Antelope,0.012452341,23.80952381,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Sable Antelope,0.219161204,419.047619,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Southern Lechwe,0.119542475,228.5714286,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Southern Reedbuck,0.004980936,9.523809524,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Topi,0.007471405,14.28571429,Botswana
+BWA_NOR,"NG18, 19 Khwai",1912.052,Waterbuck,0.007471405,14.28571429,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,African Buffalo,0.108654344,205.2631579,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,African Savannah Elephant,2.565914113,4847.368421,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Common Eland,0.111440352,210.5263158,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Common Hippopotamus,0.169946537,321.0526316,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Common Warthog,0.061292194,115.7894737,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Common Wildebeest,0.04736215,89.47368421,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Giraffe,0.066864211,126.3157895,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Greater Kudu,0.061292194,115.7894737,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Impala,1.044753303,1973.684211,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Plains Zebra,0.275814872,521.0526316,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Roan Antelope,0.025074079,47.36842105,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Sable Antelope,0.064078203,121.0526316,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Sitatunga,0.005572018,10.52631579,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Southern Lechwe,0.963959048,1821.052632,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Southern Reedbuck,0.036218115,68.42105263,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Topi,0.066864211,126.3157895,Botswana
+BWA_NOR,"NG20, 21 Splash",1889.139,Waterbuck,0.027860088,52.63157895,Botswana
+BWA_NOR,NG22Vumbra,572.667,African Buffalo,1.754946592,1005,Botswana
+BWA_NOR,NG22Vumbra,572.667,African Savannah Elephant,3.876598442,2220,Botswana
+BWA_NOR,NG22Vumbra,572.667,Common Hippopotamus,0.130966164,75,Botswana
+BWA_NOR,NG22Vumbra,572.667,Common Warthog,0.305587715,175,Botswana
+BWA_NOR,NG22Vumbra,572.667,Common Wildebeest,0.200814784,115,Botswana
+BWA_NOR,NG22Vumbra,572.667,Giraffe,0.122235086,70,Botswana
+BWA_NOR,NG22Vumbra,572.667,Greater Kudu,0.087310776,50,Botswana
+BWA_NOR,NG22Vumbra,572.667,Impala,1.318392713,755,Botswana
+BWA_NOR,NG22Vumbra,572.667,Plains Zebra,0.523864654,300,Botswana
+BWA_NOR,NG22Vumbra,572.667,Roan Antelope,0.03492431,20,Botswana
+BWA_NOR,NG22Vumbra,572.667,Sable Antelope,0.008731078,5,Botswana
+BWA_NOR,NG22Vumbra,572.667,Sitatunga,0.03492431,20,Botswana
+BWA_NOR,NG22Vumbra,572.667,Southern Lechwe,3.754363356,2150,Botswana
+BWA_NOR,NG22Vumbra,572.667,Southern Reedbuck,0.087310776,50,Botswana
+BWA_NOR,NG22Vumbra,572.667,Topi,0.026193233,15,Botswana
+BWA_NOR,NG23Duba,430.066,African Buffalo,0.523175513,225,Botswana
+BWA_NOR,NG23Duba,430.066,African Savannah Elephant,0.79057633,340,Botswana
+BWA_NOR,NG23Duba,430.066,Common Hippopotamus,0.813828575,350,Botswana
+BWA_NOR,NG23Duba,430.066,Common Warthog,0.220896328,95,Botswana
+BWA_NOR,NG23Duba,430.066,Common Wildebeest,0.151139593,65,Botswana
+BWA_NOR,NG23Duba,430.066,Greater Kudu,0.162765715,70,Botswana
+BWA_NOR,NG23Duba,430.066,Impala,0.13951347,60,Botswana
+BWA_NOR,NG23Duba,430.066,Plains Zebra,0.709193473,305,Botswana
+BWA_NOR,NG23Duba,430.066,Sable Antelope,0.151139593,65,Botswana
+BWA_NOR,NG23Duba,430.066,Sitatunga,0.023252245,10,Botswana
+BWA_NOR,NG23Duba,430.066,Southern Lechwe,11.85864495,5100,Botswana
+BWA_NOR,NG23Duba,430.066,Southern Reedbuck,0.348783675,150,Botswana
+BWA_NOR,NG23Duba,430.066,Topi,0.290653063,125,Botswana
+BWA_NOR,NG23Duba,430.066,Waterbuck,0.244148573,105,Botswana
+BWA_NOR,NG24,535.669,African Savannah Elephant,0.224018937,120,Botswana
+BWA_NOR,NG24,535.669,Common Hippopotamus,0.970748727,520,Botswana
+BWA_NOR,NG24,535.669,Common Warthog,0.049781986,26.66666667,Botswana
+BWA_NOR,NG24,535.669,Impala,0.024890993,13.33333333,Botswana
+BWA_NOR,NG24,535.669,Sitatunga,0.261355427,140,Botswana
+BWA_NOR,NG24,535.669,Southern Lechwe,0.410701385,220,Botswana
+BWA_NOR,NG25,600.635,African Buffalo,0.457848777,275,Botswana
+BWA_NOR,NG25,600.635,African Savannah Elephant,1.040565402,625,Botswana
+BWA_NOR,NG25,600.635,Common Hippopotamus,0.449524253,270,Botswana
+BWA_NOR,NG25,600.635,Common Warthog,0.099894279,60,Botswana
+BWA_NOR,NG25,600.635,Giraffe,0.033298093,20,Botswana
+BWA_NOR,NG25,600.635,Greater Kudu,0.174814987,105,Botswana
+BWA_NOR,NG25,600.635,Impala,0.158165941,95,Botswana
+BWA_NOR,NG25,600.635,Plains Zebra,0.174814987,105,Botswana
+BWA_NOR,NG25,600.635,Sitatunga,0.074920709,45,Botswana
+BWA_NOR,NG25,600.635,Southern Lechwe,5.635702215,3385,Botswana
+BWA_NOR,NG25,600.635,Southern Reedbuck,0.041622616,25,Botswana
+BWA_NOR,NG26,1738.493,African Buffalo,7.138669132,12410.52632,Botswana
+BWA_NOR,NG26,1738.493,African Savannah Elephant,2.530927648,4400,Botswana
+BWA_NOR,NG26,1738.493,Common Hippopotamus,0.036329105,63.15789474,Botswana
+BWA_NOR,NG26,1738.493,Common Warthog,0.172563249,300,Botswana
+BWA_NOR,NG26,1738.493,Common Wildebeest,0.25733116,447.3684211,Botswana
+BWA_NOR,NG26,1738.493,Gemsbok,0.009082276,15.78947368,Botswana
+BWA_NOR,NG26,1738.493,Giraffe,0.305769967,531.5789474,Botswana
+BWA_NOR,NG26,1738.493,Greater Kudu,0.266413437,463.1578947,Botswana
+BWA_NOR,NG26,1738.493,Impala,1.63783715,2847.368421,Botswana
+BWA_NOR,NG26,1738.493,Plains Zebra,0.859788818,1494.736842,Botswana
+BWA_NOR,NG26,1738.493,Southern Lechwe,3.015315715,5242.105263,Botswana
+BWA_NOR,NG26,1738.493,Southern Reedbuck,0.099905039,173.6842105,Botswana
+BWA_NOR,NG26,1738.493,Topi,0.248248884,431.5789474,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,African Buffalo,11.71917767,15964.28571,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,African Savannah Elephant,1.81948754,2478.571429,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Common Hippopotamus,0.262173997,357.1428571,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Common Warthog,0.597756713,814.2857143,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Common Wildebeest,0.131086999,178.5714286,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Giraffe,0.162547878,221.4285714,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Greater Kudu,0.629217593,857.1428571,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Impala,7.739376395,10542.85714,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Plains Zebra,1.268922146,1728.571429,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Sitatunga,0.01573044,21.42857143,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Southern Lechwe,2.862940049,3900,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Southern Reedbuck,0.120600039,164.2857143,Botswana
+BWA_NOR,"NG27a, 27b and 30",1362.236,Topi,0.199252238,271.4285714,Botswana
+BWA_NOR,NG29,1854.265,African Buffalo,6.548203878,12142.10526,Botswana
+BWA_NOR,NG29,1854.265,African Savannah Elephant,1.921601225,3563.157895,Botswana
+BWA_NOR,NG29,1854.265,Common Hippopotamus,0.102182635,189.4736842,Botswana
+BWA_NOR,NG29,1854.265,Common Warthog,0.215718897,400,Botswana
+BWA_NOR,NG29,1854.265,Common Wildebeest,0.06528335,121.0526316,Botswana
+BWA_NOR,NG29,1854.265,Giraffe,0.283840654,526.3157895,Botswana
+BWA_NOR,NG29,1854.265,Greater Kudu,0.255456588,473.6842105,Botswana
+BWA_NOR,NG29,1854.265,Impala,2.296270887,4257.894737,Botswana
+BWA_NOR,NG29,1854.265,Plains Zebra,0.567681307,1052.631579,Botswana
+BWA_NOR,NG29,1854.265,Southern Lechwe,1.853479468,3436.842105,Botswana
+BWA_NOR,NG29,1854.265,Southern Reedbuck,0.039737691,73.68421053,Botswana
+BWA_NOR,NG29,1854.265,Topi,0.150435546,278.9473684,Botswana
+BWA_NOR,NG29,1854.265,White Rhinoceros,0.002838407,5.263157895,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,African Buffalo,4.398130735,1227.777778,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,African Savannah Elephant,2.467729462,688.8888889,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Common Hippopotamus,0.855744894,238.8888889,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Common Warthog,0.159208352,44.44444444,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Common Wildebeest,0.139307308,38.88888889,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Giraffe,0.557229233,155.5555556,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Greater Kudu,0.378119837,105.5555556,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Impala,7.144474813,1994.444444,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Plains Zebra,0.73633863,205.5555556,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Southern Lechwe,2.786146167,777.7777778,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Southern Reedbuck,0.019901044,5.555555556,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,Topi,0.716437586,200,Botswana
+BWA_NOR,NG31 and 17 Chitabe,279.159,White Rhinoceros,0.119406264,33.33333333,Botswana
+BWA_NOR,NG32,1212.715,African Buffalo,14.40294436,17466.66667,Botswana
+BWA_NOR,NG32,1212.715,African Savannah Elephant,2.840275287,3444.444444,Botswana
+BWA_NOR,NG32,1212.715,Common Hippopotamus,0.293189707,355.5555556,Botswana
+BWA_NOR,NG32,1212.715,Common Warthog,0.38481149,466.6666667,Botswana
+BWA_NOR,NG32,1212.715,Common Wildebeest,0.421460204,511.1111111,Botswana
+BWA_NOR,NG32,1212.715,Giraffe,0.311514064,377.7777778,Botswana
+BWA_NOR,NG32,1212.715,Greater Kudu,0.270284261,327.7777778,Botswana
+BWA_NOR,NG32,1212.715,Impala,2.913572714,3533.333333,Botswana
+BWA_NOR,NG32,1212.715,Plains Zebra,1.887408739,2288.888889,Botswana
+BWA_NOR,NG32,1212.715,Southern Lechwe,1.378907841,1672.222222,Botswana
+BWA_NOR,NG32,1212.715,Southern Reedbuck,0.064135248,77.77777778,Botswana
+BWA_NOR,NG32,1212.715,Topi,0.009162178,11.11111111,Botswana
+BWA_NOR,NG32,1212.715,Waterbuck,0.018324357,22.22222222,Botswana
+BWA_NOR,NG34,916.285,African Buffalo,0.017232055,15.78947368,Botswana
+BWA_NOR,NG34,916.285,African Savannah Elephant,0.545681747,500,Botswana
+BWA_NOR,NG34,916.285,Common Hippopotamus,0.011488037,10.52631579,Botswana
+BWA_NOR,NG34,916.285,Common Warthog,0.03446411,31.57894737,Botswana
+BWA_NOR,NG34,916.285,Giraffe,0.292944938,268.4210526,Botswana
+BWA_NOR,NG34,916.285,Greater Kudu,0.086160276,78.94736842,Botswana
+BWA_NOR,NG34,916.285,Impala,1.855317941,1700,Botswana
+BWA_NOR,NG34,916.285,Plains Zebra,0.597377913,547.3684211,Botswana
+BWA_NOR,NG34,916.285,Topi,0.03446411,31.57894737,Botswana
+BWA_NOR,NG35 North,532.872,African Buffalo,3.893993304,2075,Botswana
+BWA_NOR,NG35 North,532.872,African Savannah Elephant,2.167499887,1155,Botswana
+BWA_NOR,NG35 North,532.872,Common Hippopotamus,0.075064931,40,Botswana
+BWA_NOR,NG35 North,532.872,Common Warthog,0.028149349,15,Botswana
+BWA_NOR,NG35 North,532.872,Giraffe,0.018766233,10,Botswana
+BWA_NOR,NG35 North,532.872,Greater Kudu,0.018766233,10,Botswana
+BWA_NOR,NG35 North,532.872,Impala,0.112597397,60,Botswana
+BWA_NOR,NG35 North,532.872,Waterbuck,0.037532466,20,Botswana
+BWA_NOR,NG35 South,2436.139,African Savannah Elephant,0.675722463,1646.153846,Botswana
+BWA_NOR,NG35 South,2436.139,Common Hippopotamus,0.015787908,38.46153846,Botswana
+BWA_NOR,NG35 South,2436.139,Common Warthog,0.012630326,30.76923077,Botswana
+BWA_NOR,NG35 South,2436.139,Greater Kudu,0.050521306,123.0769231,Botswana
+BWA_NOR,NG35 South,2436.139,Impala,0.037890979,92.30769231,Botswana
+BWA_NOR,NG37 Ngami,1930.39,African Savannah Elephant,2.033267889,3925,Botswana
+BWA_NOR,NG37 Ngami,1930.39,Greater Kudu,0.012950751,25,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,African Buffalo,12.4306799,14673.68421,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,African Savannah Elephant,4.592396089,5421.052632,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Common Eland,0.271976856,321.0526316,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Common Hippopotamus,0.049045007,57.89473684,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Common Warthog,0.071338192,84.21052632,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Common Wildebeest,0.196180027,231.5789474,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Giraffe,0.102548651,121.0526316,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Greater Kudu,0.267518219,315.7894737,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Impala,0.949689677,1121.052632,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Plains Zebra,0.098090014,115.7894737,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Roan Antelope,0.107007288,126.3157895,Botswana
+BWA_NOR,NG41 Mababe North,1180.441,Topi,0.080255466,94.73684211,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,African Buffalo,0.058492933,400,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,African Savannah Elephant,3.381622661,23125,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,Common Eland,0.036558083,250,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,Gemsbok,0.007311617,50,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,Giraffe,0.197413647,1350,Botswana
+BWA_NOR,"NG41, 42, 43",6838.433,Roan Antelope,0.003655808,25,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,African Savannah Elephant,0.59967986,1675,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,Common Wildebeest,0.438571838,1225,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,Gemsbok,0.134256685,375,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,Giraffe,0.39381961,1100,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,Greater Kudu,0.044752228,125,Botswana
+BWA_NOR,NG47 and 49 Nxai,2793.157,Plains Zebra,0.071603565,200,Botswana
+ZWE_MAT,Ngamo,1631.145,African Buffalo,0.420191496,685.3932584,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,African Savannah Elephant,4.883865098,7966.292135,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Common Hippopotamus,0.034441926,56.17977528,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Common Warthog,0.006888385,11.23595506,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Giraffe,0.055107081,89.88764045,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Impala,0.151544474,247.1910112,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Plains Zebra,0.1859864,303.3707865,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Roan Antelope,0.034441926,56.17977528,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Sable Antelope,0.303088948,494.3820225,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Steenbok,0.01377677,22.47191011,Zimbabwe
+ZWE_MAT,Ngamo,1631.145,Waterbuck,0.01377677,22.47191011,Zimbabwe
+ZWE_MAT,Ngamo Forest,1174.718,African Savannah Elephant,0.936394948,1100,Zimbabwe
+ZWE_MAT,Ngamo Forest,1174.718,Giraffe,0.028375604,33.33333333,Zimbabwe
+BWA_NOR,Ngwasha and Sepako,3043.546,African Buffalo,0.741322786,2256.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,African Savannah Elephant,3.739470342,11381.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Common Eland,0.002053526,6.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Common Hippopotamus,0.004107051,12.5,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Common Warthog,0.018481732,56.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Gemsbok,0.05749872,175,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Giraffe,0.084194555,256.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Greater Kudu,0.084194555,256.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Impala,0.084194555,256.25,Botswana
+BWA_NOR,Ngwasha and Sepako,3043.546,Plains Zebra,0.088301606,268.75,Botswana
+MOZ_Nia,Niassa ext. central,3007.899,African Savannah Elephant,0.019947478,60,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Common Duiker,0.209448522,630,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Common Eland,0.066491594,200,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Common Warthog,0.106386551,320,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Greater Kudu,0.036570377,110,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Hartebeest,0.166228986,500,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Plains Zebra,0.023272058,70,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Sable Antelope,0.149606087,450,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Southern Reedbuck,0.019947478,60,Mozambique
+MOZ_Nia,Niassa ext. central,3007.899,Waterbuck,0.016622899,50,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,African Savannah Elephant,0.345278188,780,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Bushbuck,0.030986504,70,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Common Duiker,0.371838049,840,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Common Eland,0.035413147,80,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Common Warthog,0.12837266,290,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Common Wildebeest,0.008853287,20,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Greater Kudu,0.026559861,60,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Hartebeest,0.070826295,160,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Plains Zebra,0.079679582,180,Mozambique
+MOZ_Nia,Niassa ext. east,2259.048,Sable Antelope,0.106239442,240,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,African Savannah Elephant,0.084185537,120,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Bushpig,0.105231921,150,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Common Duiker,0.119262843,170,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Common Eland,0.182401996,260,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Common Hippopotamus,0.063139152,90,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Common Warthog,0.028061846,40,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Sable Antelope,0.434958605,620,Mozambique
+MOZ_Nia,Niassa ext. west,1425.423,Waterbuck,0.014030923,20,Mozambique
+BWA_NOR,Nogatsaa,1925.603,African Buffalo,0.142812407,275,Botswana
+BWA_NOR,Nogatsaa,1925.603,African Savannah Elephant,1.213905462,2337.5,Botswana
+BWA_NOR,Nogatsaa,1925.603,Common Eland,0.311590707,600,Botswana
+BWA_NOR,Nogatsaa,1925.603,Common Warthog,0.012982946,25,Botswana
+BWA_NOR,Nogatsaa,1925.603,Gemsbok,0.051931784,100,Botswana
+BWA_NOR,Nogatsaa,1925.603,Giraffe,0.090880623,175,Botswana
+BWA_NOR,Nogatsaa,1925.603,Plains Zebra,0.025965892,50,Botswana
+BWA_NOR,Nogatsaa,1925.603,Roan Antelope,0.006491473,12.5,Botswana
+BWA_NOR,Nogatsaa,1925.603,Sable Antelope,0.298607761,575,Botswana
+BWA_NOR,Nogatsaa,1925.603,Topi,0.012982946,25,Botswana
+ZWE_SELV,North Border,745.116,African Buffalo,0.766898807,571.4285714,Zimbabwe
+ZWE_SELV,North Border,745.116,Bushbuck,0.012781647,9.523809524,Zimbabwe
+ZWE_SELV,North Border,745.116,Common Duiker,0.39623105,295.2380952,Zimbabwe
+ZWE_SELV,North Border,745.116,Common Eland,0.268414582,200,Zimbabwe
+ZWE_SELV,North Border,745.116,Common Warthog,0.178943055,133.3333333,Zimbabwe
+ZWE_SELV,North Border,745.116,Giraffe,0.063908234,47.61904762,Zimbabwe
+ZWE_SELV,North Border,745.116,Greater Kudu,0.434575991,323.8095238,Zimbabwe
+ZWE_SELV,North Border,745.116,Impala,0.524047518,390.4761905,Zimbabwe
+ZWE_SELV,North Border,745.116,Nyala,0.012781647,9.523809524,Zimbabwe
+ZWE_SELV,North Border,745.116,Plains Zebra,0.191724702,142.8571429,Zimbabwe
+ZWE_SELV,North Border,745.116,Steenbok,0.140598115,104.7619048,Zimbabwe
+ZWE_ZV,North Charara,732.845,African Savannah Elephant,0.052482501,38.46153846,Zimbabwe
+ZWE_ZV,North Charara,732.845,Common Hippopotamus,0.157447503,115.3846154,Zimbabwe
+ZWE_ZV,North Charara,732.845,Impala,0.0224925,16.48351648,Zimbabwe
+BWA_NOR,Nxai Pan NP,2507.749,African Savannah Elephant,0.381674106,957.1428571,Botswana
+BWA_NOR,Nxai Pan NP,2507.749,Common Eland,0.005696628,14.28571429,Botswana
+BWA_NOR,Nxai Pan NP,2507.749,Common Wildebeest,0.279134794,700,Botswana
+BWA_NOR,Nxai Pan NP,2507.749,Gemsbok,0.062662913,157.1428571,Botswana
+BWA_NOR,Nxai Pan NP,2507.749,Giraffe,0.102539312,257.1428571,Botswana
+BWA_NOR,Nxai Pan NP,2507.749,Greater Kudu,0.068359541,171.4285714,Botswana
+KEN_LAI,Nyahururu Forest,116.544,African Savannah Elephant,0.592051071,69,Kenya
+KEN_LAI,OlAriNyiro,273.094,African Buffalo,0.128161,35,Kenya
+KEN_LAI,OlAriNyiro,273.094,African Savannah Elephant,0.289277685,79,Kenya
+KEN_LAI,OlAriNyiro,273.094,Beisa Oryx,0.010985229,3,Kenya
+KEN_LAI,OlAriNyiro,273.094,Common Warthog,0.029293943,8,Kenya
+KEN_LAI,OlAriNyiro,273.094,Gerenuk,0.007323486,2,Kenya
+KEN_LAI,OlAriNyiro,273.094,Impala,1.102184596,301,Kenya
+KEN_LAI,OlAriNyiro,273.094,Plains Zebra,0.047602657,13,Kenya
+KEN_LAI,OlAriNyiro,273.094,Waterbuck,0.003661743,1,Kenya
+ETH_OMO,Omo-Mago,3790.598,African Buffalo,0.619616733,2348.717949,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,African Savannah Elephant,0.73596398,2789.74359,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Bushbuck,0.035174749,133.3333333,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Bushpig,0.00270575,10.25641026,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Common Eland,0.581736234,2205.128205,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Common Warthog,0.051409249,194.8717949,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Gerenuk,0.0054115,20.51282051,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Giraffe,0.059526498,225.6410256,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Grant's Gazelle,0.154227746,584.6153846,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Greater Kudu,0.830665227,3148.717949,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Thomson's Gazelle,0.00811725,30.76923077,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Topi,0.579030484,2194.871795,Ethiopia
+ETH_OMO,Omo-Mago,3790.598,Waterbuck,0.097406997,369.2307692,Ethiopia
+ZWE_MAT,Panda Masuie,954.757,African Savannah Elephant,1.46147013,1395.348837,Zimbabwe
+ZWE_MAT,Panda Masuie,954.757,Giraffe,0.194862684,186.0465116,Zimbabwe
+ZWE_MAT,Panda Masuie,954.757,Plains Zebra,0.121789178,116.2790698,Zimbabwe
+ZWE_MAT,Panda Masuie,954.757,Sable Antelope,0.121789178,116.2790698,Zimbabwe
+MOZ_Qui,Q1,4791.828,African Savannah Elephant,0.141908265,680,Mozambique
+MOZ_Qui,Q1,4791.828,Bushpig,0.006260659,30,Mozambique
+MOZ_Qui,Q1,4791.828,Common Duiker,0.052172156,250,Mozambique
+MOZ_Qui,Q1,4791.828,Common Warthog,0.006260659,30,Mozambique
+MOZ_Qui,Q1,4791.828,Greater Kudu,0.018781976,90,Mozambique
+MOZ_Qui,Q1,4791.828,Grysbok,0.006260659,30,Mozambique
+MOZ_Qui,Q1,4791.828,Impala,0.008347545,40,Mozambique
+MOZ_Qui,Q1,4791.828,Natal Red Duiker,0.004173773,20,Mozambique
+MOZ_Qui,Q1,4791.828,Southern Reedbuck,0.004173773,20,Mozambique
+MOZ_Qui,Q2,6511.68,Bushbuck,0.001535702,10,Mozambique
+MOZ_Qui,Q2,6511.68,Bushpig,0.001535702,10,Mozambique
+MOZ_Qui,Q2,6511.68,Common Duiker,0.03071404,200,Mozambique
+MOZ_Qui,Q2,6511.68,Common Warthog,0.00767851,50,Mozambique
+MOZ_Qui,Q2,6511.68,Greater Kudu,0.001535702,10,Mozambique
+MOZ_Qui,Q2,6511.68,Natal Red Duiker,0.003071404,20,Mozambique
+MOZ_Qui,Q2,6511.68,Steenbok,0.001535702,10,Mozambique
+UGA_QEPA,QENP North,1572.603,African Buffalo,6.104528606,9600,Uganda
+UGA_QEPA,QENP North,1572.603,African Savannah Elephant,1.601897578,2519.148936,Uganda
+UGA_QEPA,QENP North,1572.603,Common Duiker,0.005411816,8.510638298,Uganda
+UGA_QEPA,QENP North,1572.603,Common Hippopotamus,1.769663878,2782.978723,Uganda
+UGA_QEPA,QENP North,1572.603,Common Warthog,0.606123408,953.1914894,Uganda
+UGA_QEPA,QENP North,1572.603,Forest Hog,0.092000874,144.6808511,Uganda
+UGA_QEPA,QENP North,1572.603,Kob,3.972273047,6246.808511,Uganda
+UGA_QEPA,QENP North,1572.603,Waterbuck,1.526132152,2400,Uganda
+MOZ_Nia,R1,3436.213,African Buffalo,0.020371263,70,Mozambique
+MOZ_Nia,R1,3436.213,African Savannah Elephant,0.023281444,80,Mozambique
+MOZ_Nia,R1,3436.213,Bushbuck,0.005820361,20,Mozambique
+MOZ_Nia,R1,3436.213,Common Duiker,0.206622814,710,Mozambique
+MOZ_Nia,R1,3436.213,Common Eland,0.00291018,10,Mozambique
+MOZ_Nia,R1,3436.213,Common Hippopotamus,0.005820361,20,Mozambique
+MOZ_Nia,R1,3436.213,Common Warthog,0.154239565,530,Mozambique
+MOZ_Nia,R1,3436.213,Greater Kudu,0.011640722,40,Mozambique
+MOZ_Nia,R1,3436.213,Grysbok,0.008730541,30,Mozambique
+MOZ_Nia,R1,3436.213,Hartebeest,0.104766497,360,Mozambique
+MOZ_Nia,R1,3436.213,Plains Zebra,0.078574873,270,Mozambique
+MOZ_Nia,R1,3436.213,Sable Antelope,0.381233643,1310,Mozambique
+MOZ_Nia,R1,3436.213,Southern Reedbuck,0.037832346,130,Mozambique
+MOZ_Nia,R1,3436.213,Waterbuck,0.026191624,90,Mozambique
+MOZ_Nia,R2,2240.743,African Savannah Elephant,0.084793303,190,Mozambique
+MOZ_Nia,R2,2240.743,Bushbuck,0.004462805,10,Mozambique
+MOZ_Nia,R2,2240.743,Common Duiker,0.245454298,550,Mozambique
+MOZ_Nia,R2,2240.743,Common Eland,0.05801647,130,Mozambique
+MOZ_Nia,R2,2240.743,Common Warthog,0.053553665,120,Mozambique
+MOZ_Nia,R2,2240.743,Greater Kudu,0.013388416,30,Mozambique
+MOZ_Nia,R2,2240.743,Grysbok,0.008925611,20,Mozambique
+MOZ_Nia,R2,2240.743,Hartebeest,0.026776833,60,Mozambique
+MOZ_Nia,R2,2240.743,Sable Antelope,0.013388416,30,Mozambique
+MOZ_Nia,R2,2240.743,Southern Reedbuck,0.071404887,160,Mozambique
+MOZ_Nia,R2,2240.743,Waterbuck,0.116032941,260,Mozambique
+MOZ_Nia,R3,2688.558,African Buffalo,0.182253833,490,Mozambique
+MOZ_Nia,R3,2688.558,African Savannah Elephant,0.122742377,330,Mozambique
+MOZ_Nia,R3,2688.558,Bushbuck,0.003719466,10,Mozambique
+MOZ_Nia,R3,2688.558,Common Duiker,0.152498105,410,Mozambique
+MOZ_Nia,R3,2688.558,Common Eland,0.044633592,120,Mozambique
+MOZ_Nia,R3,2688.558,Common Warthog,0.059511456,160,Mozambique
+MOZ_Nia,R3,2688.558,Grysbok,0.007438932,20,Mozambique
+MOZ_Nia,R3,2688.558,Plains Zebra,0.044633592,120,Mozambique
+MOZ_Nia,R3,2688.558,Sable Antelope,0.163656503,440,Mozambique
+MOZ_Nia,R3,2688.558,Southern Reedbuck,0.011158398,30,Mozambique
+MOZ_Nia,R3,2688.558,Waterbuck,0.026036262,70,Mozambique
+MOZ_Nia,R4,3694.309,African Buffalo,0.406029923,1500,Mozambique
+MOZ_Nia,R4,3694.309,African Savannah Elephant,0.021654929,80,Mozambique
+MOZ_Nia,R4,3694.309,Bushbuck,0.005413732,20,Mozambique
+MOZ_Nia,R4,3694.309,Common Duiker,0.138050174,510,Mozambique
+MOZ_Nia,R4,3694.309,Common Eland,0.132636442,490,Mozambique
+MOZ_Nia,R4,3694.309,Common Warthog,0.029775528,110,Mozambique
+MOZ_Nia,R4,3694.309,Grysbok,0.062257922,230,Mozambique
+MOZ_Nia,R4,3694.309,Hartebeest,0.194894363,720,Mozambique
+MOZ_Nia,R4,3694.309,Klipspringer,0.002706866,10,Mozambique
+MOZ_Nia,R4,3694.309,Plains Zebra,0.10556778,390,Mozambique
+MOZ_Nia,R4,3694.309,Sable Antelope,0.162411969,600,Mozambique
+MOZ_Nia,R4,3694.309,Southern Reedbuck,0.013534331,50,Mozambique
+MOZ_Nia,R4,3694.309,Waterbuck,0.005413732,20,Mozambique
+MOZ_Nia,R5,1459.591,African Buffalo,0.034256172,50,Mozambique
+MOZ_Nia,R5,1459.591,Bushpig,0.027404937,40,Mozambique
+MOZ_Nia,R5,1459.591,Common Duiker,0.089066047,130,Mozambique
+MOZ_Nia,R5,1459.591,Common Eland,0.143875921,210,Mozambique
+MOZ_Nia,R5,1459.591,Common Hippopotamus,0.006851234,10,Mozambique
+MOZ_Nia,R5,1459.591,Common Warthog,0.143875921,210,Mozambique
+MOZ_Nia,R5,1459.591,Common Wildebeest,0.102768515,150,Mozambique
+MOZ_Nia,R5,1459.591,Grysbok,0.041107406,60,Mozambique
+MOZ_Nia,R5,1459.591,Hartebeest,0.006851234,10,Mozambique
+MOZ_Nia,R5,1459.591,Plains Zebra,0.04795864,70,Mozambique
+MOZ_Nia,R5,1459.591,Sable Antelope,0.089066047,130,Mozambique
+MOZ_Nia,R5,1459.591,Southern Reedbuck,0.006851234,10,Mozambique
+MOZ_Nia,R5,1459.591,Waterbuck,0.020553703,30,Mozambique
+MOZ_Nia,R6,2327.754,African Buffalo,0.038663879,90,Mozambique
+MOZ_Nia,R6,2327.754,Bushpig,0.073031772,170,Mozambique
+MOZ_Nia,R6,2327.754,Common Duiker,0.094511705,220,Mozambique
+MOZ_Nia,R6,2327.754,Common Hippopotamus,0.047255853,110,Mozambique
+MOZ_Nia,R6,2327.754,Common Warthog,0.154655518,360,Mozambique
+MOZ_Nia,R6,2327.754,Common Wildebeest,0.133175585,310,Mozambique
+MOZ_Nia,R6,2327.754,Greater Kudu,0.111695652,260,Mozambique
+MOZ_Nia,R6,2327.754,Grysbok,0.038663879,90,Mozambique
+MOZ_Nia,R6,2327.754,Impala,0.042959866,100,Mozambique
+MOZ_Nia,R6,2327.754,Plains Zebra,0.236279263,550,Mozambique
+MOZ_Nia,R6,2327.754,Sable Antelope,0.176135451,410,Mozambique
+BWA_NOR,Rakops,544.055,African Savannah Elephant,0.099254671,54,Botswana
+ZWE_ZV,Rifa,614.665,African Buffalo,1.743109778,1071.428571,Zimbabwe
+ZWE_ZV,Rifa,614.665,African Savannah Elephant,2.649526862,1628.571429,Zimbabwe
+ZWE_ZV,Rifa,614.665,Common Hippopotamus,0.952900012,585.7142857,Zimbabwe
+ZWE_ZV,Rifa,614.665,Greater Kudu,0.255656101,157.1428571,Zimbabwe
+ZWE_ZV,Rifa,614.665,Impala,1.88255856,1157.142857,Zimbabwe
+ZWE_ZV,Rifa,614.665,Plains Zebra,0.046482927,28.57142857,Zimbabwe
+ZWE_MAT,Robins,1017.669,African Buffalo,0.106808454,108.6956522,Zimbabwe
+ZWE_MAT,Robins,1017.669,African Savannah Elephant,4.849103794,4934.782609,Zimbabwe
+ZWE_MAT,Robins,1017.669,Bushbuck,0.053404227,54.34782609,Zimbabwe
+ZWE_MAT,Robins,1017.669,Common Eland,0.256340289,260.8695652,Zimbabwe
+ZWE_MAT,Robins,1017.669,Common Warthog,0.202936062,206.5217391,Zimbabwe
+ZWE_MAT,Robins,1017.669,Greater Kudu,0.117489299,119.5652174,Zimbabwe
+ZWE_MAT,Robins,1017.669,Impala,0.43791466,445.6521739,Zimbabwe
+ZWE_MAT,Robins,1017.669,Plains Zebra,0.769020866,782.6086957,Zimbabwe
+ZWE_MAT,Robins,1017.669,Waterbuck,0.288382825,293.4782609,Zimbabwe
+ZWE_MAT,Rosslyn,348.878,Giraffe,0.046231153,16.12903226,Zimbabwe
+ZWE_MAT,Rosslyn,348.878,Greater Kudu,0.369849225,129.0322581,Zimbabwe
+ZWE_MAT,Rosslyn,348.878,Impala,0.693467298,241.9354839,Zimbabwe
+ZWE_MAT,Rosslyn,348.878,Plains Zebra,2.450251118,854.8387097,Zimbabwe
+ZWE_MAT,Rosslyn,348.878,Sable Antelope,1.294472289,451.6129032,Zimbabwe
+KEN_LAI,SamburuBuff,354.867,African Buffalo,0.005635914,2,Kenya
+KEN_LAI,SamburuBuff,354.867,African Savannah Elephant,1.428704275,507,Kenya
+KEN_LAI,SamburuBuff,354.867,Beisa Oryx,0.391696044,139,Kenya
+KEN_LAI,SamburuBuff,354.867,Common Warthog,0.002817957,1,Kenya
+KEN_LAI,SamburuBuff,354.867,Gerenuk,0.109900329,39,Kenya
+KEN_LAI,SamburuBuff,354.867,Giraffe,0.42551153,151,Kenya
+KEN_LAI,SamburuBuff,354.867,Grevy's Zebra,0.056359143,20,Kenya
+KEN_LAI,SamburuBuff,354.867,Impala,0.332518944,118,Kenya
+KEN_LAI,SamburuBuff,354.867,Plains Zebra,0.335336901,119,Kenya
+KEN_LAI,SamburuBuff,354.867,Thomson's Gazelle,0.780574131,277,Kenya
+KEN_LAI,SamburuBuff,354.867,Waterbuck,0.0197257,7,Kenya
+ZWE_SEB,Sampakaruma,990.561,African Buffalo,0.17221927,170.5936926,Zimbabwe
+ZWE_SEB,Sampakaruma,990.561,African Savannah Elephant,0.184096461,182.3587748,Zimbabwe
+ZWE_SEB,Sampakaruma,990.561,Common Duiker,0.011877191,11.76508225,Zimbabwe
+ZWE_SEB,Sampakaruma,990.561,Impala,0.005938596,5.882541123,Zimbabwe
+ZWE_SEB,Sampakaruma,990.561,Plains Zebra,0.041570169,41.17778786,Zimbabwe
+COD_GAR,sample count,4407.422,African Buffalo,0.041583506,183.2760596,DRC
+COD_GAR,sample count,4407.422,African Savannah Elephant,0.066273713,292.0962199,DRC
+COD_GAR,sample count,4407.422,Hartebeest,0.09096392,400.9163803,DRC
+COD_GAR,sample count,4407.422,Kob,0.053278867,234.8224513,DRC
+COD_GAR,sample count,4407.422,Waterbuck,0.09096392,400.9163803,DRC
+ZWE_ZV,Sapi North,315.924,African Savannah Elephant,2.373988681,750,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Common Eland,0.234468018,74.07407407,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Common Hippopotamus,2.110212161,666.6666667,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Common Warthog,0.146542511,46.2962963,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Greater Kudu,0.234468018,74.07407407,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Impala,0.146542511,46.2962963,Zimbabwe
+ZWE_ZV,Sapi North,315.924,Waterbuck,0.351702027,111.1111111,Zimbabwe
+ZWE_ZV,Sapi South,795.252,African Savannah Elephant,0.668863321,531.9148936,Zimbabwe
+ZWE_ZV,Sapi South,795.252,Common Duiker,0.026754533,21.27659574,Zimbabwe
+ZWE_ZV,Sapi South,795.252,Common Warthog,0.026754533,21.27659574,Zimbabwe
+ZWE_ZV,Sapi South,795.252,Sable Antelope,0.053509066,42.55319149,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,African Savannah Elephant,0.629564858,1352.941176,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Common Eland,0.013686193,29.41176471,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Common Warthog,0.006843096,14.70588235,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Giraffe,0.061587867,132.3529412,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Impala,0.109489541,235.2941176,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Roan Antelope,0.013686193,29.41176471,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Southern Reedbuck,0.006843096,14.70588235,Zimbabwe
+ZWE_MAT,Shakwanki,2149.01,Steenbok,0.006843096,14.70588235,Zimbabwe
+ZWE_MAT,Shapi,913.497,African Buffalo,0.078754989,71.94244604,Zimbabwe
+ZWE_MAT,Shapi,913.497,African Savannah Elephant,8.765430258,8007.194245,Zimbabwe
+ZWE_MAT,Shapi,913.497,Common Eland,0.007875499,7.194244604,Zimbabwe
+ZWE_MAT,Shapi,913.497,Giraffe,0.094505987,86.33093525,Zimbabwe
+ZWE_MAT,Shapi,913.497,Plains Zebra,0.039377494,35.97122302,Zimbabwe
+ZWE_MAT,Shapi,913.497,Sable Antelope,0.023626497,21.58273381,Zimbabwe
+ZMB_Wes,SIA,2468.089,African Buffalo,0.113936402,281.2051807,Zambia
+ZMB_Wes,SIA,2468.089,Common Duiker,0.240894107,594.5480964,Zambia
+ZMB_Wes,SIA,2468.089,Common Eland,0.419937025,1036.441952,Zambia
+ZMB_Wes,SIA,2468.089,Common Warthog,0.013021303,32.13773494,Zambia
+ZMB_Wes,SIA,2468.089,Common Wildebeest,0.02278728,56.24103614,Zambia
+ZMB_Wes,SIA,2468.089,Giraffe,0.195319546,482.0660241,Zambia
+ZMB_Wes,SIA,2468.089,Greater Kudu,0.087893796,216.9297108,Zambia
+ZMB_Wes,SIA,2468.089,Oribi,0.006510652,16.06886747,Zambia
+ZMB_Wes,SIA,2468.089,Plains Zebra,0.074872493,184.7919759,Zambia
+ZMB_Wes,SIA,2468.089,Roan Antelope,0.283213342,698.9957349,Zambia
+ZMB_Wes,SIA,2468.089,Sable Antelope,0.052085212,128.5509398,Zambia
+ZWE_SEB,Siabuwa East,1295.335,Common Duiker,0.008693979,11.26161478,Zimbabwe
+ZWE_SEB,Siabuwa East,1295.335,Impala,0.034775914,45.04645913,Zimbabwe
+ZWE_SEB,Siabuwa West,481.43,African Savannah Elephant,0.1591273,76.6086558,Zimbabwe
+ZMB_Wes,SIB,2010.319,African Savannah Elephant,0.024531411,49.31596085,Zambia
+ZMB_Wes,SIB,2010.319,Common Duiker,0.278022654,558.9142229,Zambia
+ZMB_Wes,SIB,2010.319,Common Eland,0.028619979,57.53528766,Zambia
+ZMB_Wes,SIB,2010.319,Common Warthog,0.040885684,82.19326808,Zambia
+ZMB_Wes,SIB,2010.319,Giraffe,0.008177137,16.43865362,Zambia
+ZMB_Wes,SIB,2010.319,Greater Kudu,0.094037074,189.0445166,Zambia
+ZMB_Wes,SIB,2010.319,Impala,0.036797116,73.97394127,Zambia
+ZMB_Wes,SIB,2010.319,Plains Zebra,0.040885684,82.19326808,Zambia
+ZMB_Wes,SIB,2010.319,Roan Antelope,0.049062821,98.6319217,Zambia
+ZMB_Wes,SIB,2010.319,Sable Antelope,0.188074148,378.0890332,Zambia
+ZWE_SEB,Sibilobilo,737.634,African Buffalo,0.139103139,102.6072052,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,African Savannah Elephant,0.092735426,68.40480345,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Common Hippopotamus,0.120556054,88.92624449,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Common Warthog,0.055641256,41.04288207,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Greater Kudu,0.018547085,13.68096069,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Impala,0.426582961,314.6620959,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Plains Zebra,0.055641256,41.04288207,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Sable Antelope,0.055641256,41.04288207,Zimbabwe
+ZWE_SEB,Sibilobilo,737.634,Steenbok,0.046367713,34.20240173,Zimbabwe
+BWA_NOR,Sibuyu and South Pandamatenga,2469.686,African Savannah Elephant,0.16196391,400,Botswana
+ZWE_SEB,Sijarira FA,261.075,African Savannah Elephant,0.030337339,7.920320909,Zimbabwe
+ZWE_SEB,Sijarira FA,261.075,Common Warthog,0.045506009,11.88048136,Zimbabwe
+ZWE_SEB,Sijarira FA,261.075,Plains Zebra,0.045506009,11.88048136,Zimbabwe
+ZWE_MAT,Sikumi Forest,1158.887,African Buffalo,1.049469203,1216.216216,Zimbabwe
+ZWE_MAT,Sikumi Forest,1158.887,Common Wildebeest,0.699646135,810.8108108,Zimbabwe
+ZWE_MAT,Sikumi Forest,1158.887,Giraffe,0.023321538,27.02702703,Zimbabwe
+ZWE_MAT,Sikumi Forest,1158.887,Greater Kudu,0.069964614,81.08108108,Zimbabwe
+ZWE_MAT,Sikumi Forest,1158.887,Sable Antelope,0.816253825,945.9459459,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,African Buffalo,0.418268359,632.6530612,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,African Savannah Elephant,2.934624777,4438.77551,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Common Hippopotamus,0.026985055,40.81632653,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Common Warthog,0.080955166,122.4489796,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Giraffe,0.040477583,61.2244898,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Greater Kudu,0.067462639,102.0408163,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Impala,0.971461995,1469.387755,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Klipspringer,0.013492528,20.40816327,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Plains Zebra,0.114686486,173.4693878,Zimbabwe
+ZWE_MAT,Sinamatella,1512.553,Waterbuck,0.114686486,173.4693878,Zimbabwe
+ZWE_ZV,South Charara,928.115,Plains Zebra,0.016967759,15.7480315,Zimbabwe
+ZWE_ZV,South Charara,928.115,Sable Antelope,0.076354915,70.86614173,Zimbabwe
+KEN_LAI,SouthHigh,474.823,African Buffalo,2.41805504,1148.148148,Kenya
+KEN_LAI,SouthHigh,474.823,African Savannah Elephant,0.79561811,377.7777778,Kenya
+KEN_LAI,SouthHigh,474.823,Beisa Oryx,0.468010653,222.2222222,Kenya
+KEN_LAI,SouthHigh,474.823,Black Rhinoceros,0.117002663,55.55555556,Kenya
+KEN_LAI,SouthHigh,474.823,Common Eland,0.249605682,118.5185185,Kenya
+KEN_LAI,SouthHigh,474.823,Giraffe,0.234005326,111.1111111,Kenya
+KEN_LAI,SouthHigh,474.823,Grevy's Zebra,0.085801953,40.74074074,Kenya
+KEN_LAI,SouthHigh,474.823,Impala,0.093602131,44.44444444,Kenya
+KEN_LAI,SouthHigh,474.823,Plains Zebra,3.018668711,1433.333333,Kenya
+KEN_LAI,SouthHigh,474.823,Thomson's Gazelle,0.678615447,322.2222222,Kenya
+KEN_LAI,SouthHigh,474.823,Waterbuck,0.101402308,48.14814815,Kenya
+AGO_Lui,Stefans Game Reserve,1940.578,Common Warthog,0.015459312,30,Angola
+AGO_Lui,Stefans Game Reserve,1940.578,Greater Kudu,0.010306208,20,Angola
+AGO_Lui,Stefans Game Reserve,1940.578,Southern Reedbuck,0.077296558,150,Angola
+ZWE_SELV,SVC North East,1118.13,African Buffalo,1.544787035,1727.272727,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,African Savannah Elephant,0.418137844,467.5324675,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Bushbuck,0.04645976,51.94805195,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Common Eland,0.534287245,597.4025974,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Common Warthog,0.069689641,77.92207792,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Common Wildebeest,1.730626077,1935.064935,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Giraffe,0.220683862,246.7532468,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Greater Kudu,0.127764341,142.8571429,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Impala,3.879389997,4337.662338,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Plains Zebra,1.242798592,1389.61039,Zimbabwe
+ZWE_SELV,SVC North East,1118.13,Waterbuck,0.081304581,90.90909091,Zimbabwe
+ZWE_SELV,SVC North West,516.539,African Buffalo,0.530400614,273.9726027,Zimbabwe
+ZWE_SELV,SVC North West,516.539,African Savannah Elephant,1.193401381,616.4383562,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Bushbuck,0.026520031,13.69863014,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Common Eland,0.053040061,27.39726027,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Common Wildebeest,1.51164175,780.8219178,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Giraffe,0.132600153,68.49315068,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Greater Kudu,0.053040061,27.39726027,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Impala,2.201162548,1136.986301,Zimbabwe
+ZWE_SELV,SVC North West,516.539,Plains Zebra,1.166881351,602.739726,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,African Buffalo,0.510660928,512.8205128,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,African Savannah Elephant,0.153198278,153.8461538,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Common Eland,0.012766523,12.82051282,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Common Warthog,0.025533046,25.64102564,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Common Wildebeest,0.255330464,256.4102564,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Giraffe,0.255330464,256.4102564,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Impala,1.212819703,1217.948718,Zimbabwe
+ZWE_SELV,SVC South East,1004.229,Plains Zebra,0.714925299,717.9487179,Zimbabwe
+ZWE_SELV,SVC South West,859.561,African Buffalo,0.568765787,488.8888889,Zimbabwe
+ZWE_SELV,SVC South West,859.561,African Savannah Elephant,0.323162379,277.7777778,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Common Eland,0.051705981,44.44444444,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Common Warthog,0.051705981,44.44444444,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Common Wildebeest,0.323162379,277.7777778,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Giraffe,0.077558971,66.66666667,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Greater Kudu,0.142191447,122.2222222,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Impala,0.284382894,244.4444444,Zimbabwe
+ZWE_SELV,SVC South West,859.561,Plains Zebra,0.142191447,122.2222222,Zimbabwe
+ZWE_SEB,SWRA,373.278,African Buffalo,1.36656706,510.1094192,Zimbabwe
+ZWE_SEB,SWRA,373.278,African Savannah Elephant,2.049850591,765.1641288,Zimbabwe
+ZWE_SEB,SWRA,373.278,Bushpig,0.012653399,4.723235363,Zimbabwe
+ZWE_SEB,SWRA,373.278,Common Eland,0.063266994,23.61617681,Zimbabwe
+ZWE_SEB,SWRA,373.278,Common Warthog,0.177147582,66.12529508,Zimbabwe
+ZWE_SEB,SWRA,373.278,Greater Kudu,0.012653399,4.723235363,Zimbabwe
+ZWE_SEB,SWRA,373.278,Impala,2.657213729,991.8794262,Zimbabwe
+ZWE_SEB,SWRA,373.278,Plains Zebra,0.328988366,122.8041194,Zimbabwe
+ZWE_SEB,SWRA,373.278,Steenbok,0.075920392,28.33941218,Zimbabwe
+ZWE_SEB,SWRA,373.278,Waterbuck,0.354295164,132.2505902,Zimbabwe
+MOZ_Mag,Tongoe,300.194,Common Duiker,0.101405759,30.4414003,Mozambique
+MOZ_Mag,Tongoe,300.194,Greater Kudu,0.067603839,20.29426687,Mozambique
+MOZ_Mag,Tongoe,300.194,Sable Antelope,0.01690096,5.073566717,Mozambique
+COD_GAR,total count,3670.255,African Buffalo,1.947821064,7149,DRC
+COD_GAR,total count,3670.255,African Savannah Elephant,0.468087367,1718,DRC
+COD_GAR,total count,3670.255,Common Hippopotamus,0.234316144,860,DRC
+COD_GAR,total count,3670.255,Giraffe,0.011443347,42,DRC
+COD_GAR,total count,3670.255,Hartebeest,0.190177522,698,DRC
+COD_GAR,total count,3670.255,Kob,1.051698043,3860,DRC
+COD_GAR,total count,3670.255,Roan Antelope,0.003541988,13,DRC
+COD_GAR,total count,3670.255,Waterbuck,0.305155909,1120,DRC
+KEN_TSV,Tsavo High Core,6206.294,African Buffalo,1.063436569,6600,Kenya
+KEN_TSV,Tsavo High Core,6206.294,African Savannah Elephant,1.659605555,10300,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Beisa Oryx,0.109070417,676.9230769,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Common Eland,0.220619708,1369.230769,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Common Hippopotamus,0.126422529,784.6153846,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Common Warthog,0.059492955,369.2307692,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Gerenuk,0.001239437,7.692307692,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Giraffe,0.228056327,1415.384615,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Greater Kudu,0.037183097,230.7692308,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Hartebeest,0.168563372,1046.153846,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Impala,0.304901394,1892.307692,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Plains Zebra,0.575098564,3569.230769,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Thomson's Gazelle,0.280112663,1738.461538,Kenya
+KEN_TSV,Tsavo High Core,6206.294,Waterbuck,0.030985914,192.3076923,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Beisa Oryx,0.119345163,1266.666667,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Common Eland,0.144470461,1533.333333,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Common Warthog,0.02826596,300,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Giraffe,0.006281324,66.66666667,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Greater Kudu,0.037687946,400,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Hartebeest,0.006281324,66.66666667,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Plains Zebra,0.10050119,1066.666667,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Thomson's Gazelle,0.015703311,166.6666667,Kenya
+KEN_TSV,Tsavo Low East,10613.473,Topi,0.018843973,200,Kenya
+KEN_TSV,Tsavo Low West,5071.158,African Savannah Elephant,0.046011845,233.3333333,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Common Eland,0.131462413,666.6666667,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Common Wildebeest,0.138035534,700,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Giraffe,0.394387239,2000,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Greater Kudu,0.092023689,466.6666667,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Impala,0.61787334,3133.333333,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Plains Zebra,0.953102493,4833.333333,Kenya
+KEN_TSV,Tsavo Low West,5071.158,Thomson's Gazelle,0.427252842,2166.666667,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,African Buffalo,0.488766466,3200,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,African Savannah Elephant,0.112008982,733.3333333,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Beisa Oryx,0.063641467,416.6666667,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Common Warthog,0.104372006,683.3333333,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Gerenuk,0.015273952,100,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Giraffe,0.084006736,550,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Greater Kudu,0.040730539,266.6666667,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Hartebeest,0.010182635,66.66666667,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Impala,0.015273952,100,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Plains Zebra,0.132374251,866.6666667,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Thomson's Gazelle,0.104372006,683.3333333,Kenya
+KEN_TSV,Tsavo Medium North,6547.094,Waterbuck,0.002545659,16.66666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,African Buffalo,0.160376151,1566.666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,African Savannah Elephant,0.237151968,2316.666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Beisa Oryx,0.153551634,1500,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Common Eland,0.392409731,3833.333333,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Common Warthog,0.267862295,2616.666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Common Wildebeest,0.001706129,16.66666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Gerenuk,0.005118388,50,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Giraffe,0.342931982,3350,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Greater Kudu,0.151845505,1483.333333,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Hartebeest,0.397528119,3883.333333,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Impala,0.359993275,3516.666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Klipspringer,0.001706129,16.66666667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Plains Zebra,1.352960508,13216.66667,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Thomson's Gazelle,0.223502934,2183.333333,Kenya
+KEN_TSV,Tsavo Medium South,9768.701,Waterbuck,0.02388581,233.3333333,Kenya
+ZWE_MAT,Tsholotsho East,914.649,African Savannah Elephant,1.625198832,1486.486486,Zimbabwe
+KEN_LAI,Turkana,478.29,African Savannah Elephant,0.733864392,351,Kenya
+KEN_LAI,Turkana,478.29,Common Warthog,0.043906417,21,Kenya
+KEN_LAI,Turkana,478.29,Greater Kudu,0.027180163,13,Kenya
+KEN_LAI,Turkana,478.29,Thomson's Gazelle,0.386794623,185,Kenya
+COD_VIR,Virunga NP,4804.869,African Buffalo,0.370856082,1781.914894,DRC
+COD_VIR,Virunga NP,4804.869,African Savannah Elephant,0.022140662,106.3829787,DRC
+COD_VIR,Virunga NP,4804.869,Common Hippopotamus,0.359785752,1728.723404,DRC
+COD_VIR,Virunga NP,4804.869,Common Warthog,0.143914301,691.4893617,DRC
+COD_VIR,Virunga NP,4804.869,Forest Hog,0.005535165,26.59574468,DRC
+COD_VIR,Virunga NP,4804.869,Kob,2.900426674,13936.17021,DRC
+COD_VIR,Virunga NP,4804.869,Southern Reedbuck,0.011070331,53.19148936,DRC
+COD_VIR,Virunga NP,4804.869,Topi,0.415137406,1994.680851,DRC
+COD_VIR,Virunga NP,4804.869,Waterbuck,0.13284397,638.2978723,DRC
+BWA_NOR,West Okavango,5564.357,African Savannah Elephant,0.310650706,1728.571429,Botswana
+BWA_NOR,West Okavango,5564.357,Common Hippopotamus,0.071886114,400,Botswana
+BWA_NOR,West Okavango,5564.357,Greater Kudu,0.035943057,200,Botswana
+BWA_NOR,West Okavango,5564.357,Impala,0.025673612,142.8571429,Botswana
+BWA_NOR,West Okavango,5564.357,Plains Zebra,0.403075709,2242.857143,Botswana
+BWA_NOR,West Okavango,5564.357,Sitatunga,0.002567361,14.28571429,Botswana
+BWA_NOR,West Okavango,5564.357,Southern Lechwe,0.002567361,14.28571429,Botswana
+BWA_NOR,West Okavango,5564.357,Southern Reedbuck,0.005134722,28.57142857,Botswana
+KEN_LAI,WestAHigh,792.63,African Buffalo,2.318982676,1838.095238,Kenya
+KEN_LAI,WestAHigh,792.63,African Savannah Elephant,1.081390885,857.1428571,Kenya
+KEN_LAI,WestAHigh,792.63,Beisa Oryx,0.480618171,380.952381,Kenya
+KEN_LAI,WestAHigh,792.63,Black Rhinoceros,0.180231814,142.8571429,Kenya
+KEN_LAI,WestAHigh,792.63,Common Eland,0.21027045,166.6666667,Kenya
+KEN_LAI,WestAHigh,792.63,Common Warthog,0.186239541,147.6190476,Kenya
+KEN_LAI,WestAHigh,792.63,Gerenuk,0.258332267,204.7619048,Kenya
+KEN_LAI,WestAHigh,792.63,Giraffe,1.586039965,1257.142857,Kenya
+KEN_LAI,WestAHigh,792.63,Grevy's Zebra,1.045344522,828.5714286,Kenya
+KEN_LAI,WestAHigh,792.63,Hartebeest,0.174224087,138.0952381,Kenya
+KEN_LAI,WestAHigh,792.63,Impala,6.578461217,5214.285714,Kenya
+KEN_LAI,WestAHigh,792.63,Plains Zebra,4.752112167,3766.666667,Kenya
+KEN_LAI,WestAHigh,792.63,Thomson's Gazelle,2.132743134,1690.47619,Kenya
+KEN_LAI,WestAHigh,792.63,Waterbuck,0.144185451,114.2857143,Kenya
+KEN_LAI,WestBHigh,2552.737,African Buffalo,1.679569811,4287.5,Kenya
+KEN_LAI,WestBHigh,2552.737,African Savannah Elephant,0.785105033,2004.166667,Kenya
+KEN_LAI,WestBHigh,2552.737,Beisa Oryx,0.236674074,604.1666667,Kenya
+KEN_LAI,WestBHigh,2552.737,Black Rhinoceros,0.00326447,8.333333333,Kenya
+KEN_LAI,WestBHigh,2552.737,Bushbuck,0.00326447,8.333333333,Kenya
+KEN_LAI,WestBHigh,2552.737,Common Eland,0.236674074,604.1666667,Kenya
+KEN_LAI,WestBHigh,2552.737,Common Warthog,0.07508281,191.6666667,Kenya
+KEN_LAI,WestBHigh,2552.737,Gerenuk,0.014690115,37.5,Kenya
+KEN_LAI,WestBHigh,2552.737,Giraffe,0.473348149,1208.333333,Kenya
+KEN_LAI,WestBHigh,2552.737,Grevy's Zebra,0.106095275,270.8333333,Kenya
+KEN_LAI,WestBHigh,2552.737,Hartebeest,0.01958682,50,Kenya
+KEN_LAI,WestBHigh,2552.737,Impala,1.930934,4929.166667,Kenya
+KEN_LAI,WestBHigh,2552.737,Plains Zebra,5.312924912,13562.5,Kenya
+KEN_LAI,WestBHigh,2552.737,Thomson's Gazelle,1.338432697,3416.666667,Kenya
+KEN_LAI,WestBHigh,2552.737,Topi,0.034276935,87.5,Kenya
+KEN_LAI,WestBHigh,2552.737,Waterbuck,0.05876046,150,Kenya
+AGO_Lui,Western Luiana,14093.98,African Buffalo,0.007095228,100,Angola
+AGO_Lui,Western Luiana,14093.98,African Savannah Elephant,0.049666595,700,Angola
+AGO_Lui,Western Luiana,14093.98,Bushpig,0.030154719,425,Angola
+AGO_Lui,Western Luiana,14093.98,Common Warthog,0.005321421,75,Angola
+AGO_Lui,Western Luiana,14093.98,Common Wildebeest,0.021285684,300,Angola
+AGO_Lui,Western Luiana,14093.98,Greater Kudu,0.031928526,450,Angola
+AGO_Lui,Western Luiana,14093.98,Sable Antelope,0.081595121,1150,Angola
+KEN_LAI,WestLow8km,874.238,Beisa Oryx,0.098044566,85.71428571,Kenya
+KEN_LAI,WestLow8km,874.238,Impala,0.75167501,657.1428571,Kenya
+KEN_LAI,WestLow8km,874.238,Plains Zebra,7.974291407,6971.428571,Kenya
+KEN_LAI,WestLow8km,874.238,Thomson's Gazelle,5.032954413,4400,Kenya
+KEN_LAI,WestLow8km,874.238,Waterbuck,0.016340761,14.28571429,Kenya
+ZWE_MAT,Zambezi NP,548.574,African Buffalo,3.038180203,1666.666667,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,African Savannah Elephant,0.091145406,50,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Common Warthog,0.212672614,116.6666667,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Giraffe,0.060763604,33.33333333,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Greater Kudu,0.121527208,66.66666667,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Impala,0.030381802,16.66666667,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Plains Zebra,0.45572703,250,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Sable Antelope,0.060763604,33.33333333,Zimbabwe
+ZWE_MAT,Zambezi NP,548.574,Waterbuck,0.121527208,66.66666667,Zimbabwe
+ZWE_MAT,Zanguja,847.253,African Savannah Elephant,1.940913097,1644.444444,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Common Eland,0.104914221,88.88888889,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Giraffe,0.026228555,22.22222222,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Greater Kudu,0.131142777,111.1111111,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Impala,0.393428331,333.3333333,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Plains Zebra,0.550799663,466.6666667,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Roan Antelope,0.052457111,44.44444444,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Sable Antelope,0.131142777,111.1111111,Zimbabwe
+ZWE_MAT,Zanguja,847.253,Waterbuck,0.236056998,200,Zimbabwe
+MOZ_Mag,Zumbo,415.974,Bushbuck,0.014199624,5.906674542,Mozambique
+MOZ_Mag,Zumbo,415.974,Common Duiker,0.014199624,5.906674542,Mozambique
+MOZ_Mag,Zumbo,415.974,Common Hippopotamus,0.042598873,17.72002363,Mozambique
+MOZ_Nia,NA,NA,Grysbok,NA,NA,NA
+Kruger National Park,Kruger National Park North,4481.08,African Buffalo,2.423357597,10859.25926,South Africa
+Kruger National Park,Kruger National Park North,4481.08,African Savannah Elephant,0.819908164,3674.074074,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Common Eland,0.004132602,18.51851852,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Common Warthog,0.039672976,177.7777778,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Common Wildebeest,0.17852839,800,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Giraffe,0.147120618,659.2592593,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Greater Kudu,0.05124426,229.6296296,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Hartebeest,0.004132602,18.51851852,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Impala,1.175311904,5266.666667,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Nyala,0.00082652,3.703703704,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Plains Zebra,0.411607122,1844.444444,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Roan Antelope,0.00082652,3.703703704,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Sable Antelope,0.001653041,7.407407407,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Steenbok,0.009918244,44.44444444,South Africa
+Kruger National Park,Kruger National Park North,4481.08,Waterbuck,0.037193415,166.6666667,South Africa
+Kruger National Park,Kruger National Park North,4481.08,White Rhinoceros,0.012397805,55.55555556,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,African Buffalo,0.820205387,4400,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,African Savannah Elephant,0.892007879,4785.185185,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Common Eland,0.024854709,133.3333333,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Common Warthog,0.034520429,185.1851852,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Common Wildebeest,0.044876557,240.7407407,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Giraffe,0.089753115,481.4814815,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Greater Kudu,0.066969632,359.2592593,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Impala,0.958287102,5140.740741,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Nyala,0.003452043,18.51851852,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Plains Zebra,0.381105533,2044.444444,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Sable Antelope,0.007594494,40.74074074,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Steenbok,0.008284903,44.44444444,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Topi,0.013808171,74.07407407,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,Waterbuck,0.024854709,133.3333333,South Africa
+Kruger National Park,Kruger National Park Far North,5364.51,White Rhinoceros,0.006904086,37.03703704,South Africa
+Kruger National Park,Kruger National Park South,4192.64,African Buffalo,2.743985998,11504.54545,South Africa
+Kruger National Park,Kruger National Park South,4192.64,African Savannah Elephant,0.941043005,3945.454545,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Black Rhinoceros,0.009757358,40.90909091,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Common Eland,0.004336604,18.18181818,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Common Warthog,0.067217358,281.8181818,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Common Wildebeest,0.237429053,995.4545455,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Giraffe,0.18647396,781.8181818,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Greater Kudu,0.18755811,786.3636364,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Impala,4.469954275,18740.90909,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Plains Zebra,0.473773955,1986.363636,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Sable Antelope,0.043366037,181.8181818,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Steenbok,0.008673207,36.36363636,South Africa
+Kruger National Park,Kruger National Park South,4192.64,Waterbuck,0.036861132,154.5454545,South Africa
+Kruger National Park,Kruger National Park South,4192.64,White Rhinoceros,0.810944894,3400,South Africa
+Kruger National Park,Kruger National Park central,4945.93,African Buffalo,2.837043424,14031.81818,South Africa
+Kruger National Park,Kruger National Park central,4945.93,African Savannah Elephant,0.902486765,4463.636364,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Black Rhinoceros,0.004595146,22.72727273,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Bushbuck,0.000919029,4.545454545,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Common Warthog,0.086388753,427.2727273,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Common Wildebeest,1.02471766,5068.181818,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Giraffe,0.332688604,1645.454545,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Greater Kudu,0.266518495,1318.181818,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Impala,4.573089756,22618.18182,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Nyala,0.000919029,4.545454545,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Plains Zebra,1.322483151,6540.909091,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Sable Antelope,0.022975732,113.6363636,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Steenbok,0.01286641,63.63636364,South Africa
+Kruger National Park,Kruger National Park central,4945.93,Waterbuck,0.06525108,322.7272727,South Africa
+Kruger National Park,Kruger National Park central,4945.93,White Rhinoceros,0.308793842,1527.272727,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,African Buffalo,0.691149224,952,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,African Savannah Elephant,0.461734146,636,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Black Rhinoceros,0.021053915,29,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Black Wildebeest,0.330328673,455,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Bushbuck,0.014519942,20,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Bushpig,0.015971936,22,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Common Eland,0.257728965,355,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Common Warthog,1.848388577,2546,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Gemsbok,0.066791732,92,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Greater Kudu,1.542743804,2125,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Hartebeest,0.615645528,848,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Impala,0.009437962,13,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Mountain Reedbuck,0.013067948,18,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Mountain Zebra,0.0747777,103,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Nyala,0.000725997,1,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Plains Zebra,0.803678772,1107,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Springbok,0.074051703,102,South Africa
+Addo Elephant Park,Addo Elephant Park,1377.416,Steenbok,0.01234195,17,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Common Eland,0.101277622,970,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Common Warthog,0.00010441,1,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Common Wildebeest,0.035917012,344,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Gemsbok,0.211952138,2030,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Giraffe,0.002401428,23,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Greater Kudu,0.001357329,13,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Hartebeest,0.042077198,403,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Springbok,0.083110296,796,South Africa
+Kalahari Gemsbok National Park,Kalahari Gemsbok National Park,9577.634,Steenbok,0.02558043,245,South Africa
+Mokala National Park,Mokala National Park,324.414,African Buffalo,0.84151732,273,South Africa
+Mokala National Park,Mokala National Park,324.414,Black Rhinoceros,0.033907291,11,South Africa
+Mokala National Park,Mokala National Park,324.414,Black Wildebeest,2.826635102,917,South Africa
+Mokala National Park,Mokala National Park,324.414,Blesbok,0.699723193,227,South Africa
+Mokala National Park,Mokala National Park,324.414,Common Eland,2.419747606,785,South Africa
+Mokala National Park,Mokala National Park,324.414,Common Warthog,1.297724513,421,South Africa
+Mokala National Park,Mokala National Park,324.414,Gemsbok,4.759350706,1544,South Africa
+Mokala National Park,Mokala National Park,324.414,Giraffe,0.255845925,83,South Africa
+Mokala National Park,Mokala National Park,324.414,Greater Kudu,1.155930385,375,South Africa
+Mokala National Park,Mokala National Park,324.414,Hartebeest,2.392005277,776,South Africa
+Mokala National Park,Mokala National Park,324.414,Impala,0.514774332,167,South Africa
+Mokala National Park,Mokala National Park,324.414,Mountain Reedbuck,0.018494886,6,South Africa
+Mokala National Park,Mokala National Park,324.414,Nyala,0.040072253,13,South Africa
+Mokala National Park,Mokala National Park,324.414,Plains Zebra,1.103528208,358,South Africa
+Mokala National Park,Mokala National Park,324.414,Roan Antelope,0.184948862,60,South Africa
+Mokala National Park,Mokala National Park,324.414,Sable Antelope,0.05856714,19,South Africa
+Mokala National Park,Mokala National Park,324.414,Southern Lechwe,0.021577367,7,South Africa
+Mokala National Park,Mokala National Park,324.414,Southern Reedbuck,0.009247443,3,South Africa
+Mokala National Park,Mokala National Park,324.414,Springbok,4.669958756,1515,South Africa
+Mokala National Park,Mokala National Park,324.414,Steenbok,0.144876608,47,South Africa
+Mokala National Park,Mokala National Park,324.414,Topi,1.128188056,366,South Africa
+Mokala National Park,Mokala National Park,324.414,Waterbuck,0.188031343,61,South Africa
+Mokala National Park,Mokala National Park,324.414,White Rhinoceros,0.169536457,55,South Africa
+Marakele National Park,Marakele National Park,654.447,African Buffalo,0.382001904,250,South Africa
+Marakele National Park,Marakele National Park,654.447,African Savannah Elephant,0.450762247,295,South Africa
+Marakele National Park,Marakele National Park,654.447,Black Rhinoceros,0.090152449,59,South Africa
+Marakele National Park,Marakele National Park,654.447,Bushbuck,0.087096434,57,South Africa
+Marakele National Park,Marakele National Park,654.447,Bushpig,0.015280076,10,South Africa
+Marakele National Park,Marakele National Park,654.447,Common Eland,0.036672183,24,South Africa
+Marakele National Park,Marakele National Park,654.447,Common Hippopotamus,0.041256206,27,South Africa
+Marakele National Park,Marakele National Park,654.447,Common Warthog,0.385057919,252,South Africa
+Marakele National Park,Marakele National Park,654.447,Common Wildebeest,0.606619023,397,South Africa
+Marakele National Park,Marakele National Park,654.447,Giraffe,0.163496815,107,South Africa
+Marakele National Park,Marakele National Park,654.447,Greater Kudu,0.754835762,494,South Africa
+Marakele National Park,Marakele National Park,654.447,Impala,4.936992606,3231,South Africa
+Marakele National Park,Marakele National Park,654.447,Klipspringer,0.152800762,100,South Africa
+Marakele National Park,Marakele National Park,654.447,Mountain Reedbuck,0.122240609,80,South Africa
+Marakele National Park,Marakele National Park,654.447,Nyala,0.074872373,49,South Africa
+Marakele National Park,Marakele National Park,654.447,Plains Zebra,1.197957971,784,South Africa
+Marakele National Park,Marakele National Park,654.447,Southern Reedbuck,0.042784213,28,South Africa
+Marakele National Park,Marakele National Park,654.447,Steenbok,0.022920114,15,South Africa
+Marakele National Park,Marakele National Park,654.447,Waterbuck,0.129880647,85,South Africa
+Marakele National Park,Marakele National Park,654.447,White Rhinoceros,0.485906422,318,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,African Buffalo,0.274464267,78,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Black Rhinoceros,0.024631409,7,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Black Wildebeest,3.434322108,976,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Blesbok,0.721348394,205,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Common Eland,1.171751293,333,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Gemsbok,0.598191351,170,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Greater Kudu,0.605228896,172,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Grey Rhebok,0.482071853,137,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Hartebeest,1.731236145,492,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Klipspringer,0.06685668,19,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Mountain Reedbuck,0.190013723,54,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Mountain Zebra,3.557479151,1011,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Springbok,2.621485626,745,South Africa
+Mountain Zebra National Park,Mountain Zebra National Park,284.19,Steenbok,0.003518773,1,South Africa
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,African Buffalo,1.839609484,1319,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,African Savannah Elephant,0.542538354,389,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Black Rhinoceros,0.008368201,6,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Bushbuck,0.161785216,116,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Bushpig,0.027894003,20,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Common Eland,0.446304045,320,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Common Hippopotamus,0.086471409,62,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Common Warthog,1.167364017,837,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Greater Kudu,1.425383543,1022,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Hartebeest,0.10460251,75,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Impala,0.881450488,632,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Klipspringer,0.0027894,2,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Nyala,0.10320781,74,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Plains Zebra,0.79637378,571,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Sable Antelope,1.864714086,1337,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Southern Reedbuck,0.129707113,93,Malawi
+Majete Wildlife Reserve,Majete Wildlife Reserve,717,Waterbuck,2.485355649,1782,Malawi
+Gorongosa National Park,Gorongosa National Park,3674,African Buffalo,0.326619488,1200,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,African Savannah Elephant,0.264205132,970.6896552,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Bushbuck,0.967657162,3555.172414,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Bushpig,0.053967301,198.2758621,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Common Eland,0.055375143,203.4482759,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Common Hippopotamus,0.206483585,758.6206897,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Common Warthog,2.53411672,9310.344828,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Common Wildebeest,0.170348957,625.862069,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Greater Kudu,0.699697783,2570.689655,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Hartebeest,0.267020817,981.0344828,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Impala,2.215475006,8139.655172,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Nyala,0.619450754,2275.862069,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Oribi,1.828318285,6717.241379,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Plains Zebra,0.01595555,58.62068966,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Sable Antelope,0.404989394,1487.931034,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Southern Reedbuck,4.978600792,18291.37931,Mozambique
+Gorongosa National Park,Gorongosa National Park,3674,Waterbuck,21.24903797,78068.96552,Mozambique
+Akagera,Akagera,1122,African Savannah Elephant,0.080213904,90,Rwanda
+Akagera,Akagera,1122,Common Hippopotamus,1.39483066,1565,Rwanda
+Akagera,Akagera,1122,Giraffe,0.070409982,79,Rwanda
+Akagera,Akagera,1122,Common Eland,0.195187166,219,Rwanda
+Akagera,Akagera,1122,Roan Antelope,0.09714795,109,Rwanda
+Akagera,Akagera,1122,Waterbuck,1.233511586,1384,Rwanda
+Akagera,Akagera,1122,Plains Zebra,1.628342246,1827,Rwanda
+Akagera,Akagera,1122,Topi,0.717468806,805,Rwanda
+Akagera,Akagera,1122,Sitatunga,0.002673797,3,Rwanda
+Akagera,Akagera,1122,Impala,1.91087344,2144,Rwanda
+Akagera,Akagera,1122,Mountain Reedbuck,0.039215686,44,Rwanda
+Akagera,Akagera,1122,Common Warthog,0.950980392,1067,Rwanda
+Akagera,Akagera,1122,Bushpig,0.008912656,10,Rwanda
+Akagera,Akagera,1122,Bushbuck,0.079322638,89,Rwanda
+Akagera,Akagera,1122,Oribi,0.010695187,12,Rwanda
+Akagera,Akagera,1122,Common Duiker,0.038324421,43,Rwanda
+Akagera,Akagera,1122,Klipspringer,0.001782531,2,Rwanda
+Akagera,Akagera,1122,African Buffalo,2.287878788,2567,Rwanda
+BoubaNdjidaNP,BoubaNP,2129,African Savannah Elephant,0.046031,98,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Bohor Reedbuck,1.538280883,3275,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,African Buffalo,0.277125411,590,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Kob,0.472522311,1006,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Bushbuck,0.019727572,42,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Giant Eland,0.585720996,1247,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Giraffe,0.042743072,91,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Common Duiker,0.104744011,223,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Oribi,0.035227806,75,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Natal Red Duiker,0.027242837,58,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Roan Antelope,0.374823861,798,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Topi,0.035227806,75,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Common Warthog,0.062470643,133,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Waterbuck,0.339596054,723,Cameroon
+BoubaNdjidaNP,BoubaNP,2129,Hartebeest,0.663691874,1413,Cameroon
+SenaOura_NP,SenaOura_NP,813,Bohor Reedbuck,0.046740467,38,Chad
+SenaOura_NP,SenaOura_NP,813,Giant Eland,0.111931119,91,Chad
+SenaOura_NP,SenaOura_NP,813,Common Duiker,0.168511685,137,Chad
+SenaOura_NP,SenaOura_NP,813,Natal Red Duiker,0.009840098,8,Chad
+SenaOura_NP,SenaOura_NP,813,Roan Antelope,0.046740467,38,Chad
+SenaOura_NP,SenaOura_NP,813,Waterbuck,0.036900369,30,Chad
+MaputoSR,MaputoSR,907.4,African Buffalo,0.003306149,3,Mozambique
+MaputoSR,MaputoSR,907.4,Bushbuck,0.281022702,255,Mozambique
+MaputoSR,MaputoSR,907.4,Common Duiker,0.283226802,257,Mozambique
+MaputoSR,MaputoSR,907.4,Natal Red Duiker,0.446330174,405,Mozambique
+MaputoSR,MaputoSR,907.4,African Savannah Elephant,0.440819925,400,Mozambique
+MaputoSR,MaputoSR,907.4,Common Hippopotamus,0.826537359,750,Mozambique
+MaputoSR,MaputoSR,907.4,Nyala,0.253471457,230,Mozambique
+MaputoSR,MaputoSR,907.4,Greater Kudu,0.148776725,135,Mozambique
+MaputoSR,MaputoSR,907.4,Bohor Reedbuck,2.877452061,2611,Mozambique
+MaputoSR,MaputoSR,907.4,Common Wildebeest,0.386819484,351,Mozambique
+MaputoSR,MaputoSR,907.4,Plains Zebra,0.491514216,446,Mozambique
+MaputoSR,MaputoSR,907.4,Common Warthog,0.110204981,100,Mozambique
+MaputoSR,MaputoSR,907.4,Giraffe,0.030857395,28,Mozambique
+MaputoSR,MaputoSR,907.4,Waterbuck,0.011020498,10,Mozambique
+Benoue,Benoue_all,907.4,Bohor Reedbuck,2.196385277,1993,Cameroon
+Benoue,Benoue_all,1800,African Buffalo,0.365555556,658,Cameroon
+Benoue,Benoue_all,1800,Kob,1.397777778,2516,Cameroon
+Benoue,Benoue_all,1800,Bushbuck,0.245,441,Cameroon
+Benoue,Benoue_all,1800,Giant Eland,0.814444444,1466,Cameroon
+Benoue,Benoue_all,1800,Giraffe,0.105,189,Cameroon
+Benoue,Benoue_all,1800,Common Duiker,0.405,729,Cameroon
+Benoue,Benoue_all,1800,Oribi,0.17,306,Cameroon
+Benoue,Benoue_all,1800,Natal Red Duiker,0.151111111,272,Cameroon
+Benoue,Benoue_all,1800,Roan Antelope,1.111666667,2001,Cameroon
+Benoue,Benoue_all,1800,Topi,0.079444444,143,Cameroon
+Benoue,Benoue_all,1800,Common Warthog,0.202222222,364,Cameroon
+Benoue,Benoue_all,1800,Waterbuck,1.112777778,2003,Cameroon
+Benoue,Benoue_all,1800,Hartebeest,1.425,2565,Cameroon
+Faro,Faro,3300,African Savannah Elephant,0.026969697,89,Cameroon
+Faro,Faro,3300,Bohor Reedbuck,0.063636364,210,Cameroon
+Faro,Faro,3300,African Buffalo,0.20030303,661,Cameroon
+Faro,Faro,3300,Kob,1.451818182,4791,Cameroon
+Faro,Faro,3300,Bushbuck,0.041515152,137,Cameroon
+Faro,Faro,3300,Giant Eland,0.19030303,628,Cameroon
+Faro,Faro,3300,Giraffe,0.008787879,29,Cameroon
+Faro,Faro,3300,Common Duiker,0.052727273,174,Cameroon
+Faro,Faro,3300,Common Hippopotamus,0.040606061,134,Cameroon
+Faro,Faro,3300,Oribi,0.03,99,Cameroon
+Faro,Faro,3300,Natal Red Duiker,0.056363636,186,Cameroon
+Faro,Faro,3300,Roan Antelope,0.27,891,Cameroon
+Faro,Faro,3300,Common Warthog,0.11969697,395,Cameroon
+Faro,Faro,3300,Waterbuck,0.014545455,48,Cameroon
+Faro,Faro,3300,Hartebeest,0.317575758,1048,Cameroon
+ZAMBEZI_REGION,Bwabwata,3819,Common Duiker,0.005236973,20,Namibia
+ZAMBEZI_REGION,Bwabwata,3819,Greater Kudu,0.062843676,240,Namibia
+ZAMBEZI_REGION,Bwabwata,3819,Roan Antelope,0.041895784,160,Namibia
+ZAMBEZI_REGION,Bwabwata,3819,Sable Antelope,0.188531029,720,Namibia
+ZAMBEZI_REGION,Bwabwata,3819,African Savannah Elephant,0.157109191,600,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,African Buffalo,2.752826258,3224,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Common Duiker,0.004269271,5,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,African Savannah Elephant,0.512312579,600,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Giant Eland,0.128078145,150,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Greater Kudu,0.117831893,138,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Roan Antelope,0.075139178,88,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Sable Antelope,0.354349534,415,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Giraffe,0.033300318,39,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Common Hippopotamus,0.308241402,361,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Impala,0.578913214,678,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Southern Lechwe,0.512312579,600,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Southern Reedbuck,0.012807814,15,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Roan Antelope,0.075139178,88,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Sable Antelope,0.354349534,415,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Common Warthog,0.116978039,137,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Common Wildebeest,0.066600635,78,Namibia
+ZAMBEZI_REGION,Buffalo_MahangoNP,1171.16,Plains Zebra,0.066600635,78,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,African Buffalo,1.028306277,1569,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Common Duiker,0.003276948,5,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Giant Eland,0.020972467,32,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,African Savannah Elephant,2.931557664,4473,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Giraffe,0.003276948,5,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Common Hippopotamus,1.047312575,1598,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Impala,0.87625589,1337,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Greater Kudu,0.077335972,118,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Southern Lechwe,0.706509985,1078,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Southern Reedbuck,0.036046428,55,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Roan Antelope,0.183509087,280,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Sable Antelope,0.127800971,195,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Sitatunga,0.001310779,2,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Topi,0.028837142,44,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Common Warthog,0.393889147,601,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Waterbuck,0.026215584,40,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Common Wildebeest,0.174333633,266,Namibia
+ZAMBEZI_REGION,Kwando_namibia,1525.81,Plains Zebra,0.588539858,898,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,African Buffalo,0.003958515,5,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Common Duiker,0.003958515,5,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Giant Eland,0.201884253,255,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,African Savannah Elephant,0.577943156,730,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Giraffe,0.003958515,5,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Common Hippopotamus,0.366558467,463,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Southern Lechwe,0.072044969,91,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Common Warthog,0.011875544,15,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Waterbuck,0.019792574,25,Namibia
+ZAMBEZI_REGION,Salambala_Impalila,1263.1,Plains Zebra,3.312485156,4184,Namibia
+ZAMBEZI_REGION,Susuwe,1263,African Buffalo,0.774346793,978,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Common Duiker,0.007917656,10,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Giant Eland,0.013460016,17,Namibia
+ZAMBEZI_REGION,Susuwe,1263,African Savannah Elephant,2.137767221,2700,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Giraffe,0.051464766,65,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Common Hippopotamus,0.250989707,317,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Impala,0.350752177,443,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Greater Kudu,0.078384798,99,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Southern Lechwe,0.714964371,903,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Southern Reedbuck,0.024544735,31,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Roan Antelope,0.044338876,56,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Sable Antelope,0.430720507,544,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Topi,0.021377672,27,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Common Warthog,0.053048298,67,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Waterbuck,0.022961203,29,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Common Wildebeest,0.062549485,79,Namibia
+ZAMBEZI_REGION,Susuwe,1263,Plains Zebra,0.053840063,68,Namibia
+Etosha_National_Park,Etosha,18551,Hartebeest,0.047921945,889,Namibia
+Etosha_National_Park,Etosha,18551,Springbok,0.556142526,10317,Namibia
+Etosha_National_Park,Etosha,18551,Common Wildebeest,0.226780227,4207,Namibia
+Etosha_National_Park,Etosha,18551,Black Rhinoceros,0.068998976,1280,Namibia
+Etosha_National_Park,Etosha,18551,Plains Zebra,0.767182362,14232,Namibia
+Etosha_National_Park,Etosha,18551,Giraffe,0.170988087,3172,Namibia
+Etosha_National_Park,Etosha,18551,African Savannah Elephant,0.156918764,2911,Namibia
+Etosha_National_Park,Etosha,18551,Giant Eland,0.071209099,1321,Namibia
+Etosha_National_Park,Etosha,18551,Mountain Zebra,0.047167269,875,Namibia
+Etosha_National_Park,Etosha,18551,Gemsbok,0.221443588,4108,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Common Duiker,0.006309148,30,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Giant Eland,0.004206099,20,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,African Savannah Elephant,0.07276551,346,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Roan Antelope,0.008412198,40,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Steenbok,0.004206099,20,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Common Warthog,0.004206099,20,Namibia
+ZAMBEZI_REGION,Zambezi_North,4755,Common Wildebeest,0.093585699,445,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,African Buffalo,0.12672,396,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,African Savannah Elephant,0.15936,498,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Common Hippopotamus,0.08288,259,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Greater Kudu,0.032,100,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Southern Reedbuck,0.0256,80,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Sable Antelope,0.0032,10,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Steenbok,0.0032,10,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Common Warthog,0.0352,110,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Waterbuck,0.06368,199,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Common Wildebeest,0.28672,896,Namibia
+ZAMBEZI_REGION,Zambezi_South,3125,Plains Zebra,0.07328,229,Namibia
+Tarangire-Manyara,BurungeWMA,672.6,African Buffalo,0.01338091,9,Tanzania
+Tarangire-Manyara,BurungeWMA,673.6,Common Duiker,0.013361045,9,Tanzania
+Tarangire-Manyara,BurungeWMA,674.6,African Savannah Elephant,0.320189742,216,Tanzania
+Tarangire-Manyara,BurungeWMA,675.6,Common Eland,0.217584369,147,Tanzania
+Tarangire-Manyara,BurungeWMA,676.6,Impala,0.203960981,138,Tanzania
+Tarangire-Manyara,BurungeWMA,677.6,Steenbok,0.03837072,26,Tanzania
+Tarangire-Manyara,BurungeWMA,678.6,Thomson's Gazelle,0.253463012,172,Tanzania
+Tarangire-Manyara,BurungeWMA,679.6,Common Warthog,0.013243084,9,Tanzania
+Tarangire-Manyara,BurungeWMA,680.6,Waterbuck,0.59506318,405,Tanzania
+Tarangire-Manyara,BurungeWMA,681.6,Common Wildebeest,0.924295775,630,Tanzania
+Tarangire-Manyara,BurungeWMA,682.6,Plains Zebra,1.060650454,724,Tanzania
+Tarangire-Manyara,Kibaoni,186.3,Thomson's Gazelle,0.375738057,70,Tanzania
+Tarangire-Manyara,KwaKuchinja,465.8,Common Duiker,0.051524259,24,Tanzania
+Tarangire-Manyara,KwaKuchinja,466.8,African Savannah Elephant,0.535561268,250,Tanzania
+Tarangire-Manyara,KwaKuchinja,467.8,Common Eland,0.017101325,8,Tanzania
+Tarangire-Manyara,KwaKuchinja,468.8,Giraffe,0.58447099,274,Tanzania
+Tarangire-Manyara,KwaKuchinja,469.8,Grant's Gazelle,0.566198382,266,Tanzania
+Tarangire-Manyara,KwaKuchinja,470.8,Impala,1.042905692,491,Tanzania
+Tarangire-Manyara,KwaKuchinja,471.8,Thomson's Gazelle,0.222551929,105,Tanzania
+Tarangire-Manyara,KwaKuchinja,472.8,Common Wildebeest,1.958544839,926,Tanzania
+Tarangire-Manyara,KwaKuchinja,473.8,Plains Zebra,3.619670747,1715,Tanzania
+Tarangire-Manyara,KwaKuchinja,474.8,Common Warthog,0.067396799,32,Tanzania
+Tarangire-Manyara,Lolkisale,1051.8,Common Duiker,0.01711352,18,Tanzania
+Tarangire-Manyara,Lolkisale,1052.8,African Savannah Elephant,0.875759878,922,Tanzania
+Tarangire-Manyara,Lolkisale,1053.8,Common Eland,0.01708104,18,Tanzania
+Tarangire-Manyara,Lolkisale,1054.8,Giraffe,0.319491847,337,Tanzania
+Tarangire-Manyara,Lolkisale,1055.8,Grant's Gazelle,0.008524342,9,Tanzania
+Tarangire-Manyara,Lolkisale,1056.8,Impala,0.511922786,541,Tanzania
+Tarangire-Manyara,Lolkisale,1057.8,Hartebeest,0.125732653,133,Tanzania
+Tarangire-Manyara,Lolkisale,1058.8,Thomson's Gazelle,0.025500567,27,Tanzania
+Tarangire-Manyara,Lolkisale,1059.8,Common Warthog,0.050009436,53,Tanzania
+Tarangire-Manyara,Lolkisale,1060.8,Waterbuck,0.058446456,62,Tanzania
+Tarangire-Manyara,Lolkisale,1061.8,Common Wildebeest,0.300433227,319,Tanzania
+Tarangire-Manyara,Lolkisale,1062.8,Plains Zebra,1.969326308,2093,Tanzania
+Tarangire-Manyara,MakameWMA,4393,African Buffalo,0.032779422,144,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Bushpig,0.05326656,234,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Common Duiker,0.024584566,108,Tanzania
+Tarangire-Manyara,MakameWMA,4393,African Savannah Elephant,0.167766902,737,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Common Eland,0.106760756,469,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Giraffe,0.199180514,875,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Grant's Gazelle,0.03687685,162,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Impala,0.020487139,90,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Hartebeest,0.008194855,36,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Greater Kudu,0.065558844,288,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Southern Reedbuck,0.004097428,18,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Steenbok,0.182335534,801,Tanzania
+Tarangire-Manyara,MakameWMA,4393,Common Warthog,0.045071705,198,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Bushpig,0.023601402,33,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Common Duiker,0.023601402,33,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Gerenuk,0.011443104,16,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Giraffe,0.023601402,33,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Grant's Gazelle,0.058645909,82,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Greater Kudu,0.093690415,131,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Thomson's Gazelle,0.128734922,180,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Common Warthog,0.035044507,49,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Waterbuck,0.011443104,16,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Common Wildebeest,0.058645909,82,Tanzania
+Tarangire-Manyara,Mkungunero,1398.222,Plains Zebra,0.082247311,115,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Common Duiker,0.174313238,189,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,African Savannah Elephant,0.052570659,57,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Giraffe,0.453767794,492,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Grant's Gazelle,0.55798682,605,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Impala,0.732300059,794,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Thomson's Gazelle,0.156789685,170,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Waterbuck,0.017523553,19,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Common Wildebeest,0.174313238,189,Tanzania
+Tarangire-Manyara,MtoWaMbu,1084.255,Plains Zebra,0.296055817,321,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,African Buffalo,0.419936353,1427,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Common Duiker,0.005002746,17,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Common Eland,0.198638429,675,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Gerenuk,0.007651258,26,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Giraffe,0.31311302,1064,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Grant's Gazelle,0.834869961,2837,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Impala,0.532056711,1808,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Hartebeest,0.054441644,185,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Greater Kudu,0.030605032,104,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Lesser Kudu,0.002648512,9,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Gemsbok,0.005002746,17,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Southern Reedbuck,0.002648512,9,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Steenbok,0.005002746,17,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Thomson's Gazelle,0.343718052,1168,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Common Warthog,0.078866813,268,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Waterbuck,0.007651258,26,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Common Wildebeest,0.458192643,1557,Tanzania
+Tarangire-Manyara,Simanjiro,3398.134,Plains Zebra,0.600623754,2041,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,African Buffalo,6.445640173,17239,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Bushpig,0.00299119,8,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Bushbuck,0.011964759,32,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Common Duiker,0.029538,79,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,African Savannah Elephant,2.059060295,5507,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Common Eland,0.435965917,1166,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Gerenuk,0.00299119,8,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Giraffe,0.244529768,654,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Grant's Gazelle,0.0882401,236,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Impala,0.689469254,1844,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Hartebeest,0.477094777,1276,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Greater Kudu,0.02056443,55,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Lesser Kudu,0.00598238,16,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Southern Reedbuck,0.129742859,347,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Thomson's Gazelle,0.05010243,134,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Common Warthog,0.132734048,355,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Waterbuck,0.06767567,181,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Common Wildebeest,3.417434374,9140,Tanzania
+Tarangire-Manyara,TarangireNP,2674.521,Plains Zebra,5.31160533,14206,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,African Buffalo,0.835261419,287,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Common Duiker,0.192081023,66,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Giraffe,0.090219875,31,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Grant's Gazelle,0.320135039,110,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Impala,0.046565097,16,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Common Wildebeest,1.143755184,393,Tanzania
+Tarangire-Manyara,LakeManyaraNP,343.605,Plains Zebra,0.136784971,47,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,African Buffalo,0.014072215,234,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Hartebeest,0.016417584,273,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Common Wildebeest,0.011726846,195,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Plains Zebra,0.019965707,332,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Impala,0.005713079,95,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Common Warthog,0.029768148,495,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,African Savannah Elephant,0.036202879,602,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Common Duiker,0.15732015,2616,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Sable Antelope,0.096460826,1604,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Waterbuck,0.002285232,38,Tanzania
+Selous-Mikumi,Selous_Niassa_Corridor,16628.512,Bushpig,0.006795557,113,Tanzania
+Selous-Mikumi,KilomberoGCA,4200.647,African Buffalo,0.051658709,217,Tanzania
+Selous-Mikumi,KilomberoGCA,4200.647,Puku,0.34851774,1464,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,African Buffalo,2.270657307,4682,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Common Hippopotamus,0.145492779,300,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Hartebeest,0.317174259,654,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Common Wildebeest,0.411259589,848,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Plains Zebra,1.191100886,2456,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Impala,0.532503572,1098,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Common Warthog,2.681916896,5530,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,African Savannah Elephant,0.162951913,336,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Common Duiker,0.44569288,919,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Sable Antelope,0.068381606,141,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Southern Reedbuck,0.042677882,88,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Greater Kudu,0.077111173,159,Tanzania
+Selous-Mikumi,NgarambeTapikaWMA,2061.958,Bushpig,0.128518622,265,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,African Buffalo,0.311567704,1003,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Common Wildebeest,1.116114418,3593,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Plains Zebra,0.882205663,2840,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Impala,1.069519049,3443,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Common Warthog,0.050633635,163,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,African Savannah Elephant,0.256274532,825,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Common Duiker,0.009940346,32,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Common Eland,0.020191327,65,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Sable Antelope,0.080454671,259,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Giraffe,0.236393841,761,Tanzania
+Selous-Mikumi,Mikumi National Park,3219.204,Bushpig,0.030131672,97,Tanzania
+Selous-Mikumi,SelousGR,47640,African Buffalo,1.050167926,50030,Tanzania
+Selous-Mikumi,SelousGR,47640,Common Hippopotamus,0.637132662,30353,Tanzania
+Selous-Mikumi,SelousGR,47640,Hartebeest,0.326826196,15570,Tanzania
+Selous-Mikumi,SelousGR,47640,Common Wildebeest,0.352938707,16814,Tanzania
+Selous-Mikumi,SelousGR,47640,Plains Zebra,0.307241814,14637,Tanzania
+Selous-Mikumi,SelousGR,47640,Impala,0.208543241,9935,Tanzania
+Selous-Mikumi,SelousGR,47640,Common Warthog,0.122900924,5855,Tanzania
+Selous-Mikumi,SelousGR,47640,African Savannah Elephant,0.24808984,11819,Tanzania
+Selous-Mikumi,SelousGR,47640,Common Duiker,0.064420655,3069,Tanzania
+Selous-Mikumi,SelousGR,47640,Common Eland,0.059151973,2818,Tanzania
+Selous-Mikumi,SelousGR,47640,Sable Antelope,0.06374895,3037,Tanzania
+Selous-Mikumi,SelousGR,47640,Southern Reedbuck,0.080646516,3842,Tanzania
+Selous-Mikumi,SelousGR,47640,Waterbuck,0.07911419,3769,Tanzania
+Selous-Mikumi,SelousGR,47640,Greater Kudu,0.011523929,549,Tanzania
+Selous-Mikumi,SelousGR,47640,Giraffe,0.021116709,1006,Tanzania
+Selous-Mikumi,SelousGR,47640,Bushpig,0.009991604,476,Tanzania
+Selous-Mikumi,SelousGR,47640,Black Rhinoceros,0.000377834,18,Tanzania
+Liuwa_plain,Liuwa_plain,3236.8,Common Wildebeest,10.46218487,33864,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,Plains Zebra,1.283366288,4154,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,Topi,0.070439941,228,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,African Buffalo,0.042634701,138,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,Common Eland,0.000308947,1,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,Bushpig,0.006487889,21,Zambia
+Liuwa_plain,Liuwa_plain,3236.8,Roan Antelope,0.001235788,4,Zambia
+Hluhluwe–iMfolozi,HiP,894.985,African Buffalo,5.864902764,5249,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,African Savannah Elephant,0.891635055,798,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,Common Duiker,0.802248082,718,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,Giraffe,0.410062738,367,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,Impala,15.66394968,14019,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,Greater Kudu,0.724034481,648,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,Nyala,3.683860623,3297,South Africa
+Hluhluwe–iMfolozi,HiP,894.985,White Rhinoceros,2.310653251,2068,South Africa
+Hluhluwe–iMfolozi,HiP,895.985,Common Warthog,0.98773975,885,South Africa
+Hluhluwe–iMfolozi,HiP,896.985,Waterbuck,0.266448157,239,South Africa
+Hluhluwe–iMfolozi,HiP,897.985,Common Wildebeest,0.6659354,598,South Africa
+Hluhluwe–iMfolozi,HiP,898.985,Plains Zebra,0.996679589,896,South Africa
